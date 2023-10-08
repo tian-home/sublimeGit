@@ -1,0 +1,7263 @@
+MMJ页面DC（&tester=1）
+	https://www.net-research.com/e/1207512/cscroll.php?cap=1&code=3&tester=1
+	[Ctrl]+[F5] で更新
+
+QuickCross
+	ACT
+	Generate 
+		复制- 黏贴 - 给中村
+		D8f47m+3LkcuoxmuCUOcuoCUOXH3dXAaWeD9IF9p1EczANAqochtu6lPoAfeyUIomgfs2DLcwlQvUGeGD9bKq4IWF4XUNqgK+X49bQdWj1k2ShFDgr4pgToAMvUpad5RRzSh9ooYRRSH0jFeEZ1WLIiopo8qro8dnX0UMw==
+
+		FB
+		UxMtjDPHGxtllcggTLLtllTLLCcgqk0VY79DQm+9b8FFUD9e7Dd+KyBTP1orrLIyJvORaLsjWvLgtMvkKXqquvrLqbPnq57ZXTko2Xijllb1eaR4LagOx2b1rkWtEVDqy2JYNhd9iV29J8WR+ibt0EmXuCh/VRXmHUwnGunPI6bwBJXIaqZyASaxmIXUMKV8SOhMb0NQquRXRvB6L6LOcOWMJkPS/5NuCrIMOQ==
+
+
+Markdown
+	> 			引用
+	--- 		分割线
+	*** 		分割线
+	[](url)		超链接p  
+	代码
+	"""java
+	"""
+
+正则表达式
+	[^一-龥]
+
+windows
+	[虚拟机安装] [vmvare]
+		安装教程：
+			https://www.cnblogs.com/qwert19990410/p/14758504.html
+		下载地址：
+			https://blog.csdn.net/weixin_43633773/article/details/88019675
+		安装备注：
+			bois
+			自定义
+		激活：
+			https://www.xitongtiandi.net/wenzhang/key/24532.html
+			Win10专业版用户请依次输入（cmd管理员模式）：
+			slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+			slmgr /skms kms.03k.org
+			slmgr /ato
+
+		时间锁定：
+			https://blog.csdn.net/weixin_33834075/article/details/92540800
+			注意: 若.vmx文件中已包含tools.syncTime = “FALSE” , 只需添加后面5行, 否则会提示tools.syncTime已经定义, 不能启动.
+	202012 dell新电脑
+		SHLT99-476Q793
+		电脑型号：戴尔 Latitude 5411 笔记本电脑
+		操作系统：Windows 10 专业版 64位
+		处理器：英特尔 Core i7-10850H @ 2.70GHz 六核
+		主板：戴尔 07T3FK ( LPC Controller - 068E ) 
+		内存：16 GB ( 三星 DDR4 3200MHz )
+		硬盘：PC SN530 NVMe WDC 512GB (固态硬盘)
+		显卡：Nvidia GeForce MX250
+		显卡：英特尔 UHD Graphics
+		显示器：京东方 BOE07BB ( 14 英寸  )
+		声卡：瑞昱 High Definition Audio @ 英特尔 英特尔智音技术音频控制器
+		网卡：英特尔 Wi-Fi 6 AX201 160MHz
+		网卡：英特尔 Ethernet Connection  I219-LM / 戴尔
+		公司显示器：P2418D
+
+		
+
+
+	[cmd]
+		快捷键打开，先win+r 输入cmd,将下一步点击Enter 换为Ctrl+Shift+Enter，直接以管理员打开cmd
+		切换盘符				D:
+		msinfo32 			查看基本配置
+		control
+		msconfig 			查看进程
+		calc				计算器		
+		taskmgr				任务管理器
+		dxdiag				directX诊断工具（查看配置）
+		netsh winsock reset  网络重启
+		notepad
+		mspaint
+		choco安装
+			Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+
+
+		https://www.jb51.net/os/win10/843866.html
+
+	[powershell]中运行Get-Volume
+		查看硬盘空间			Get-Volume
+
+	[pipenv]
+
+	[virtualenv]
+		0) # https://www.cnblogs.com/huangshiyu13/p/10393540.html
+
+		1) 安装
+			pip install virtualenv
+			pip install virtualenvwrapper-win
+
+		2) 安装虚拟环境
+			mkvirtualenv -p C:\Users\tianyunchuan\AppData\Local\Programs\Python\Python37\python.exe env1
+			mkvirtualenv -p C:\Users\tianyunchuan\AppData\Local\Continuum\anaconda3\python.exe env1
+
+			查看所有环境 workon 或者 lsvirtualenv
+
+			切换到某个环境 workon 环境名字
+
+			退出环境 deactivate
+
+			创建环境 mkvirtualenv 环境名字
+
+			删除环境 rmvirtualenv
+
+	[excel]
+		上下左右键移动不起作用
+			http://www.xitongcheng.com/jiaocheng/dnrj_article_68279.html
+			cmd → osk → ScrLK取消
+		ctrl + del  删除之后的文字
+
+		单元格扩充
+
+		插入图形对齐
+			插入图形 -> alt, 拖动
+
+		自定义格式
+			单元格填充 @*. #.是自动填充到末尾的符号
+
+		https://www.bilibili.com/video/BV18p4y167Ss?p=17&spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=e91b49672370bf602fa9705cd3915ec6
+
+		自定义格式
+			;;;; 隐藏
+			0;0;0; 显示数值
+			;;;@ 显示文本
+		0!.0.
+		***万元
+		[红色][>=60]及格;[绿色][<60]不及格
+		学号A000
+		00-000
+		# 不显示无意义数字
+		@@ n倍文本显示 凤兰路@号
+		** 隐藏
+		[DBNum1]、[DBNum1] 中文数字
+
+		格式刷 双击 多次操作
+
+		ctr + ~  显示公式
+
+		利用数组（三键回车，ctr+shift+enter）
+			=SUM(D6:H6*{1,2,3,4,5})/5
+			=D6:H6*D7:H7  #必须选中5个格子
+			# 纵向分号 =SUM(D13:D17*{1;2;3;4;5})/5
+
+
+			
+	[outlook]
+		密码修改: cmd(control)->凭据管理器->windows凭据->普通凭据->MicrosoftOffice16->编辑
+	[firefox]
+		https://www.mozilla.org/en-US/firefox/all/#product-desktop-release
+
+	[chrome]
+		滚动截屏
+			1. 按键盘上的F12按键，打开Chrome浏览器的console功能菜单
+			2. 接着，按组合键Ctrl+Shift+P，打开Chrome浏览器的console功能菜单的指令搜索栏
+			3. 输入Capture full size screenshot，找到Capture full size screenshot指令，点击该指令或按下回车
+
+	[firefox]
+		pocket
+			http://www.liulan.net/firefox/1129.html
+			浏览器输入
+				about:config
+			pocket.enabled -> true
+	[conda] 虚拟环境
+		参考重要！：https://www.cnblogs.com/lucifer1997/p/13539896.html
+		参考url:https://blog.csdn.net/qq_41754907/article/details/121562755
+
+		创建python虚拟环境
+			 使用 conda create -n your_env_name python=X.X（2.7、3.6等)命令创建python版本为X.X、名字为your_env_name的虚拟环境。your_env_name文件可以在Anaconda安装目录envs文件下找到。
+
+		常用命令
+			1）conda list 查看安装了哪些包。
+			2）conda env list 或 conda info -e 查看当前存在哪些虚拟环境
+			3）conda update conda 检查更新当前conda
+
+			 # 样例
+				# 创建名为my_paddlenlp的环境，指定Python版本为3.7
+				conda create -n my_paddlenlp python=3.7
+				# 进入my_paddlenlp环境
+				conda activate my_paddlenlp
+				# 安装PaddleNLP
+				pip install --upgrade paddlenlp>=2.0.0rc -i https://pypi.org/simple
+		关闭虚拟环境
+			Linux: source deactivate
+			Windows: deactivate
+
+		删除虚拟环境
+			conda remove -n your_env_name(虚拟环境名称) --all
+
+		删除环境中的某个包。
+			conda remove --name your_env_name package_name
+
+		环境添加至 Jupyterhub
+			所以我们首先需要安装nb_conda插件，安装可以在 Anaconda Prompt进行，
+			https://blog.csdn.net/songyuc/article/details/96387353
+			conda install nb_conda
+
+			conda install ipykernel
+
+			python -m ipykernel install --user --name your_env_name --display-name "your_env_name"
+			python -m ipykernel install --name my_paddle --display-name "my_paddle"
+
+	[jupyter]
+		默认路径设置
+			C:\Users\tianyunchuan>jupyter notebook --generate-config
+			Writing default config to: C:\Users\tianyunchuan\.jupyter\jupyter_notebook_config.py
+
+			搜索：notebook_dir
+			修改默认路径：例 c.NotebookApp.notebook_dir = r'C:\Users\tianyunchuan\iCloudDrive\_jupyter_'
+
+		切换解释器
+			pip install ipykernel    #  在tensorflow  中安装 ipykernel 包
+			workon enva #打开 虚拟环境
+			python -m ipykernel install --name env1   # 向 jupyter 中添加虚拟环境
+			cmd -> jupyter lab # 打开jupyter  -> kernal -> change kernal
+
+		查看jupyter虚拟环境
+			jupyter kernelspec list
+		删除juoyter虚拟环境
+			jupyter kernelspec uninstall myenv
+
+
+		操作：
+			Markdown
+			无序列表
+				* + - 
+			有序列表
+				数字+.
+				1. qweqw
+				2. 21321
+				3.dsfd
+			代码块
+				`print('hello')`
+
+				```python
+				def func(x):
+				    return x^2
+				```
+			分隔符
+				***
+			链接
+				[百度](https://www.baidu.com/)
+
+			快捷键
+				命令模式 (按键 Esc 开启)
+
+				    Enter : 转入编辑模式
+				    Shift-Enter : 运行本单元，选中下个单元
+				    Ctrl-Enter : 运行本单元
+				    Alt-Enter : 运行本单元，在其下插入新单元
+				    Y : 单元转入代码状态
+				    M :单元转入markdown状态
+				    https://jishuin.proginn.com/p/763bfbd79da2
+				    R : 单元转入raw状态
+				    1 : 设定 1 级标题
+				    2 : 设定 2 级标题
+				    3 : 设定 3 级标题
+				    4 : 设定 4 级标题
+				    5 : 设定 5 级标题
+				    6 : 设定 6 级标题
+				    Up : 选中上方单元
+				    K : 选中上方单元
+				    Down : 选中下方单元
+				    J : 选中下方单元
+				    Shift-K : 扩大选中上方单元
+				    Shift-J : 扩大选中下方单元
+				    A : 在上方插入新单元
+				    B : 在下方插入新单元
+				    X : 剪切选中的单元
+				    C : 复制选中的单元
+				    Shift-V : 粘贴到上方单元
+				    V : 粘贴到下方单元
+				    Z : 恢复删除的最后一个单元
+				    D,D : 删除选中的单元
+				    Shift-M : 合并选中的单元
+				    Ctrl-S : 文件存盘
+				    S : 文件存盘
+				    L : 转换行号
+				    O : 转换输出
+				    Shift-O : 转换输出滚动
+				    Esc : 关闭页面
+				    Q : 关闭页面
+				    H : 显示快捷键帮助
+				    I,I : 中断Notebook内核
+				    0,0 : 重启Notebook内核
+				    Shift : 忽略
+				    Shift-Space : 向上滚动
+				    Space : 向下滚动
+
+				编辑模式 ( Enter 键启动)
+
+				    Tab : 代码补全或缩进
+				    Shift-Tab : 提示
+				    Ctrl-] : 缩进
+				    Ctrl-[ : 解除缩进
+				    Ctrl-A : 全选
+				    Ctrl-Z : 复原
+				    Ctrl-Shift-Z : 再做
+				    Ctrl-Y : 再做
+				    Ctrl-Home : 跳到单元开头
+				    Ctrl-Up : 跳到单元开头
+				    Ctrl-End : 跳到单元末尾
+				    Ctrl-Down : 跳到单元末尾
+				    Ctrl-Left : 跳到左边一个字首
+				    Ctrl-Right : 跳到右边一个字首
+				    Ctrl-Backspace : 删除前面一个字
+				    Ctrl-Delete : 删除后面一个字
+				    Esc : 进入命令模式
+				    Ctrl-M : 进入命令模式
+				    Shift-Enter : 运行本单元，选中下一单元
+				    Ctrl-Enter : 运行本单元
+				    Alt-Enter : 运行本单元，在下面插入一单元
+				    Ctrl-Shift-- : 分割单元
+				    Ctrl-Shift-Subtract : 分割单元
+				    Ctrl-S : 文件存盘
+				    Shift : 忽略
+				    Up : 光标上移或转入上一单元
+				    Down :光标下移或转入下一单元
+				    超链接： [官方链接](beidu.com)
+
+				魔法函数
+					%timeit
+					多次执行一条语句，并返回平均时间，
+
+					%%timeit
+					多次执行多条语句，并返回平均时间，
+
+					%time
+					返回执行一条语句的时间，
+
+					%%time
+					返回执行多条语句的时间，
+
+					%reset
+					删除当前空间的全部变量
+
+					%run *.py
+					在IPython中执行Python脚本
+
+					魔术命令+(?)显示文档
+					如:%time?
+
+					%quickref thon 快速参考
+					%magic 显示magic command详细文档
+					%debug 从最新的异常跟踪的底部进入交互式调试器
+					%hist 打印命令输入历史
+					%pdb 在发生异常后自动进入调试器
+					%paste执行剪贴板中的Python代码
+					%cpaste 打开一个特殊的提示符以便手工粘贴待执行的代码
+					%reset 删除interactive空间中的全部变量/名称
+					%run 执行一个python脚本
+					%page 分页显示一个对象
+					%time 报告statement执行的时间
+					%timeit 多次执行statement以计算平均执行时间，用于执行时间非常小的代码。
+					%who、%who_is、%whos 显示Interactive命名空间的中定义的变量，信息级别/冗余度可变
+					%xdel 删除变量，并尝试清楚其在IPython中的对象上的一切引用
+
+			[jupyter lab]
+					插件安装 
+						参考url：https://zhuanlan.zhihu.com/p/101669800
+						pip install npm
+						conda install -c conda-forge nodejs
+
+			[spyder]
+				1）打开 Anaconda prompt ，切换至想要使用的虚拟环境，输入命令：
+				activate  pytorch
+				2）在此虚拟环境下安装 spyder，输入命令：
+				conda install spyder
+				3）打开 Spyder（pytorch），看界面右下角就会发现，当前环境已经变成了 pytorch
+
+				
+			[selenium]
+				chromedriver下载
+					https://developer.aliyun.com/mirror/NPM?from=tnpm
+
+				启动chromedriver
+					from selenium.webdriver import Chrome, ChromeOptions
+					option = ChromeOptions()
+					option.add_argument('--headless') #隐藏浏览器
+					option.add_argument('--no-sandbox') #隐藏浏览器
+					browser = Chrome(executable_path=PATH_DRIVER, options=option)
+				快捷键
+					复制行： ctrl+shift+D
+					删除行： ctrl+shift+K
+				
+				centos + selenium
+					https://blog.csdn.net/wkb342814892/article/details/81591394
+			[mongoDB]
+				Data Directory ->  C:\Program Files\MongoDB\Server\5.0\data\
+				Log Directory  ->  C:\Program Files\MongoDB\Server\5.0\log\
+
+				添加环境变量
+
+				C:\Program Files\MongoDB\Server\5.0\bin
+				启动mongo
+				mongod --dbpath C:\Program Files\MongoDB\Server\5.0\data\
+
+				操作：
+				show dbs
+
+				mongodump -h IP --port 端口 -u 用户名 -p 密码 -d 数据库 -o 文件存在路径
+				mongodump -h 39.98.59.77 --port 27017 -u tian*** -p ***** -d test -o "C:\Program Files\MongoDB\Server\5.0\data\"
+
+
+				mongod --config "C:\Program Files\MongoDB\Server\5.0\mongod.cfg" --install
+
+			[sublime]
+					https://www.cnblogs.com/yibadao/p/6702757.html
+					ctrl+shift+P  packege control 安装
+
+					ctrl+shift+P
+						install package -> ConvertToUTF8
+						install package -> emmet
+
+					centos7： 安装sublime -> https://blog.csdn.net/q2826621520/article/details/53782103
+
+					批量行首、行尾
+					Ctrl + H
+						输入^，然后Find All，查找所有的行首
+						输入$，然后Find All，查找所有的行尾
+						光标闪动,就可以进行编辑了!!
+						注意: Sublime text3需要打开正则匹配才可以查找所有的行尾或者行首!!
+
+					切换编程语言
+						ss是Set Syntax的意思，想切换到HTML就输入sshtml，切换Python就输入sspy，以此类推，可以快速切换Sublime当前的编程语言，从而实现语法高亮。
+
+					安装python
+						1. Tools > Build System > New Build System > 复制一下代码
+							{
+							  // "cmd": ["C:/ProgramData/Anaconda3/python.exe", "-u", "$file"],
+							  "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+							  "selector": "source.python",
+							  // "env": {"PYTHONIOENCODING": "utf-8"}, //源代码
+							  // "env": {"PYTHONIOENCODING": "utf8"},  //网文提供的解决方案 A，问题依旧
+							  // "env": {"LANG": "en_US.utf-8"},       //网文提供的解决方案 B，问题依旧
+							  "encoding": "gbk",                       //问题解决
+							 
+							  "windows": {
+							    "cmd": ["C:/ProgramData/Anaconda3/python.exe", "-u", "$file"],
+							  },
+							 
+							  "variants":
+							  [
+							    {
+							      "name": "Syntax Check",
+							      "cmd": ["python3", "-m", "py_compile", "$file"],
+							 
+							      "windows": {
+							        "cmd": ["py", "-m", "py_compile", "$file"],
+							      }
+							    }
+							  ]
+							}
+
+						2. 保存文件时，将文件命名为 “Python.sublime-build”。
+
+						3. Tools > Build System > python（第二个）
+
+
+						4. python文件最上面添加：#coding=utf-8  / #coding=gbk
+
+					快捷键
+
+						Ctrl+L 选择整行（按住-继续选择下行）
+
+						Ctrl+J 合并行（已选择需要合并的多行时）
+
+						Ctrl+KU 改为大写
+
+						Ctrl+KL 改为小写
+
+						Ctrl+KK 从光标处删除至行尾
+
+						Ctrl+Shift+c转换为utf8
+
+						Ctrl+R 搜索指定文件的函数标签
+
+						Ctrl+G 跳转到指定行
+
+						Ctrl+K Backspace 从光标处删除至行首
+
+						Ctrl+U 软撤销
+
+						Ctrl+K0 展开所有
+
+						Ctrl+KT 折叠属***
+
+						Ctrl+M 光标移动至括号内开始或结束的位置
+
+						Ctrl+T 词互换
+
+						Tab 缩进 自动完成
+
+						Shift+Tab 去除缩进
+
+						Ctrl+F2 设置书签.
+
+						F2 下一个书签
+
+						Shift+F2 上一个书签
+
+						Alt+. 闭合当前标签
+
+						Ctrl+D 选择字符串 （按住-继续选择下个相同的字符串）
+
+						Ctrl+/ 注释整行（如已选择内容，同“Ctrl+Shift+/”效果）
+
+						Alt+F3 选中文本按下快捷键，即可一次***选择全部的相同文本进行同时编辑
+
+						shift+鼠标右键 列选择F6 检测语法错误F9 行排序(按a-z)F11 全屏模式
+
+						Ctrl+Enter 光标后***入行
+
+						Ctrl+Shift+Enter 光标前***入行
+
+						Ctrl+Shift+[ 折叠代码Ctrl+Shift+] 展开代码
+
+						Ctrl+Shift+↑ 与上行互换
+
+						Ctrl+Shift+↓ 与下行互换
+
+						Ctrl+Shift+K 删除整行
+
+						Ctrl+Shift+/ 注释已选择内容
+
+						Ctrl+鼠标左键 可以同时选择要编辑的多处文本
+
+						Ctrl+Shift+A 选择光标位置父标签对儿
+
+						Ctrl+Shift+P 打开命令面板
+
+						Shift+Tab 去除缩进
+
+						Ctrl+PageDown 、Ctrl+PageUp 文件按开启的前后顺序切换
+
+						Ctrl+Shift+D 复制光标所在整行，***入在该行之前
+
+						ctrl+shift+F 在文件夹内查找，与普通编辑器不同的地方是sublime允许添加多个文件夹进行查找
+
+						Ctrl+Shift+L 鼠标选中多行（按下快捷键），即可同时编辑这些行
+
+						Ctrl+Shift+M 选择括号内的内容（按住-继续选择父括号）
+
+						Shift+鼠标右键（或使用鼠标中键）可以用鼠标进行竖向多行选择
+
+						Alt+Shift+1~9（非小键盘）屏幕显示相等数字的小窗口 
+						作者：七七八八九1 https://www.bilibili.com/read/cv16820173/ 出处：bilibili
+
+			[tableau]
+				相关资料：
+					函数：https://help.tableau.com/current/pro/desktop/zh-cn/functions.htm
+					官方视频：https://www.tableau.com/zh-cn/learn/training/20204?build=20204.20.1106.0321&edition=pro&lang=zh-cn&platform=windows&version=2020.4
+
+				Tools
+					Mysql驱动：https://dev.mysql.com/downloads/connector/odbc/
+					visial studio 19安装：https://visualstudio.microsoft.com/zh-hans/thank-you-downloading-visual-studio/?sku=Community&rel=16
+
+				特点：
+					优点：
+						简单易用
+						急速高效
+						美观		
+						混合数据
+						数据条件删选源并用
+						高度交互
+					缺点：
+						对统计文件的读取仍需改进
+						缺乏对数据深入分析和建模能力
+						费用
+
+				字段操作
+					字段合并
+					字段拆分
+					分层结构
+					分组-分文件夹
+				字段计算
+					实际销售额 = [销售额]*(1-[折扣])
+				集合
+					创建集合 -> 常规-> 条件设置
+				一般函数
+					startwith
+						if (STARTSWITH([客户名称],"白")) then "特殊关系客户"
+						Else "一般客户"
+						END
+				条件判断函数
+					if
+						IIF([利润]>500,"高利润","低利润")
+
+						if [R值]<[R参考值] and [F值]>=[F参考值] and [M值]>=[M参考值] then "重要价值客户"
+						elseif [R值]>=[R参考值] and [F值]>=[F参考值] and [M值]>=[M参考值] then "重要换回客户"
+						end
+
+						if([数量]>10) then "大客户"
+						ELSEIF ([数量]>5) then "中等客户"
+						ELSE "小客户"
+						END
+					case
+						CASE [城市]
+						when "北京" THEN "一线城市"
+						WHen "上海" THEN "一线城市"
+						WHen "南京" THEN "二线城市"
+						WHen "杭州" THEN "二线城市"
+						ELse "其他城市"
+						END
+				聚合函数
+					sum
+					avg
+					mean
+					...
+				类型转换
+					int("2")
+					str(1)
+				计算式颜色区分
+					函数（淡蓝色）
+					字段（橙色）
+					运算符（黑色）
+					参数（紫色）
+					注释（绿色）
+				表计算
+					差异计算
+					百分比差异计算
+					百分比计算
+					总额百分比计算
+					排名计算
+					百分位计算
+					汇总计算
+					移动计算
+				上下文筛选
+					销售额（分类别）-> 	类别>家具, 销售额>100w
+					多条件可以在，条件菜单处写公式，如： sum([销售额])>=1000000 and sum([利润])>=300000
+				顶部筛选器
+					top选项卡
+				通配符查询
+					通配符选项卡
+						包含
+						开头为
+						末尾为
+						精通匹配
+				参数
+					右键-参数-控件
+				表交互
+					工作表-操作
+				地图
+					可导入自定义地理编码(固定路径的csv文件, 地点,)
+						店名	longitude	latitude
+						盒马鲜生(裕德路)	121.440848	31.191803
+						九洲大润发	104.064076	30.49484
+					自定义区域
+						geojson.io
+				自定义图片
+					存放路径(logo文件夹是自己添加的）：C:\Program Files\Tableau\Tableau 2020.4\defaults\Shapes\Logo
+
+				#### class_163_小南
+					章节3课时13帕累托图
+					index()/SIZE()
+
+					关注微信公众号：数据分析且徐行，后台回复‘tableau教材，获取软件和教材
+
+					if [城市]="北京" or [城市]="上海" then "Tier1"
+					else "others" end
+
+
+					if [城市]="北京" or [城市]="上海" then "Tier1"
+					elsif [城市]="南京" then "Tier2"
+					else "others" end
+
+					case [城市] when "上海"" then "一线城市"
+					when "北京" then "一线城市"
+					when "深圳" then "一线城市"
+					else "其他" end
+
+
+					【利润率】
+					sum([利润])/sum([销售额])
+					avg([销售额])
+
+					fix 使用指定维度计算聚合
+					{fixed:sum[sales]}, 也可以简写为 {sum[sales]}
+					{fixed[year]:sum[sales]}
+					{fixed[year], [area]:sum[sales]}
+					{fixed[year], [area],...:sum[sales]}
+
+					{fixed year([订单日期]): sum([销售额])}
+					{fixed year([订单日期]), [地区]: sum([销售额])}
+
+					{fixed:COUNTD([iIndicator])}
+
+					##	第一次下单时间
+					FD = {fixed [客户 Id]: MIN([订单日期])}
+					LD = {fixed [客户 Id]: max([订单日期])}
+
+
+					R = ([参考时间]-[LD])/30
+					L = ([LD]-[FD])/30
+
+					定义一个参考时间
+					参考时间 = {fixed: max([订单日期])}
+
+					计算4个客户类别下的客户数量： countd([客户id])
+
+					FRM
+						1. #当前时间 #={fixed:max([订单日期])}+1     #+1是避免为0
+						2. 客户最近一次下单时间： ={fixed[客户ID]:max({订单日期})}
+						3. R值-> 最近一次下单时间距当前时间的天数 R值 =DATEDIFF('day',[客户最近一次下单时间], [当前时间])
+						4. R的参考值, 暂用R的中位数, R参考值=fixed:MEDIEAN([R值])
+						5. 计算F值, 客户累计交易单数 F值={fixed [客户ID]:countd([订单 id])}
+						6. F的参考值, 暂用F的中位数, F参考值=fixed:MEDIEAN([F值])	
+						7. 计算M值, 客户累计消费金额M值={fixed:[客户ID]:sum([销售额])}
+						8. M的参考值, 暂用M的中位数, M参考值=fixed:MEDIEAN([M值])	
+						9. 创建客户价值分类字段
+							if [R值]<[R参考值] and [F值]>=[F参考值] and [M值]>=[M参考值] then "重要价值客户"
+							elseif [R值]>=[R参考值] and [F值]>=[F参考值] and [M值]>=[M参考值] then "重要换回客户"
+							elseif [R值]<[R参考值] and [F值]<[F参考值] and [M值]>=[M参考值] then "重要深耕客户"
+							elseif [R值]>=[R参考值] and [F值]<[F参考值] and [M值]>=[M参考值] then "重要挽留客户"
+							elseif [R值]<[R参考值] and [F值]>=[F参考值] and [M值]>=[M参考值] then "潜力客户"
+							elseif [R值]<[R参考值] and [F值]<[F参考值] and [M值]<[M参考值] then "新客户"
+							elseif [R值]>=[R参考值] and [F值]>=[F参考值] and [M值]<[M参考值] then "一般维持客户"
+							elseif [R值]>=[R参考值] and [F值]<[F参考值] and [M值]<[M参考值] then "流失客户"
+							end
+
+					客户留存分析模型
+						(章节6课时28客户留存分析模型)
+							https://study.163.com/course/courseLearn.htm?courseId=1209019803#/learn/video?lessonId=1279968240&courseId=1209019803
+						1. 创建计算字段，每个客户首次购买时间 Fd={fixed [客户ID]:min([订单日期])}
+						2. 创建计算字段，时间间隔=datediff('year',[Fd],[订单日期])
+						3. 将"时间间隔"，从度量拖到维度
+						4. 创建参数，"时间间隔单位", 数据类型为字符串，允许的值为列表
+
+					拐点/交叉点分析
+						方向性
+						周期性
+						相对性
+						信号性
+						事件性
+						复杂性
+
+
+			[摄图网]
+				https://699pic.com/
+				16601742105
+				rexroth2021
+
+	[cuda]
+		查看cuda版本
+			打开cmd
+			nvidia-smi
+
+		重要！！！
+			报错！！(External) CUDA error(2), out of memory. [Hint: 'cudaErrorMemoryAllocation'.
+			https://zhuanlan.zhihu.com/p/447916838
+
+	[nvidia]
+		账号
+			tian-home@outlook.com
+			Tt11****划线
+
+	[paddle]
+		运行环境
+			python -m pip install paddlepaddle-gpu==2.1.2 -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+			pip install paddlepaddle==2.2.1 -i https://mirror.baidu.com/pypi/simple
+
+			pip install paddlenlp==2.2.3 -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+			https://aistudio.baidu.com/aistudio/projectdetail/3989506?channelType=0&channel=0
+
+			GPU环境
+		    paddlepaddle-gpu == 2.2.2
+		    paddlenlp == 2.2.6
+
+		dell Latitude电脑
+			python -m pip install paddlepaddle-gpu==2.3.2.post116 -f https://www.paddlepaddle.org.cn/whl/windows/mkl/avx/stable.html
+
+			python -m pip install paddlepaddle==2.3.2 -f https://www.paddlepaddle.org.cn/whl/windows/mkl/avx/stable.html
+
+			pip install --upgrade paddlenlp
+
+			pip install paddlenlp==2.3.5 -f https://www.paddlepaddle.org.cn/whl/windows/mkl/avx/stable.html
+
+[git]
+	安装git
+		https://git-scm.com/download/win
+
+	git公钥
+		1. 创建密钥对
+			$ ssh-keygen
+			Generating public/private rsa key pair.
+			Enter file in which to save the key (/c/Users/MacromillTianYunchua/.ssh/id_rsa):
+
+
+			Enter passphrase (empty for no passphrase):
+				>敲回车
+
+		查看复制公钥
+			"C:\Users\MacromillTianYunchua\.ssh\id_rsa.pub"
+
+
+		2. github公钥配置
+			右上角个人图标 > setting > (左侧导航栏) SSH & GPG KEYS > New SSH Key(新建公钥) > Title, Key(复制id_rsa.pub里的公钥) > ADD SSH Key
+
+		3. 验证
+			$ ssh -T git@github.com
+				> Hi tian-home! You've successfully authenticated, but GitHub does not provide shell access.
+
+		4. 测试
+			cd c:/目标文件夹
+			git init
+			git add .
+			git commit -m 'first'
+			git remote add origin git@github.com:tian-home/ssh-key-test.git
+			git push -u origin main
+
+	【本地路径】
+	C:/Users/tianyunchuan/iCloudDrive/_shareFile_/_github
+	C:/Users/tianyunchuan/iCloudDrive/_spyder_/survey/Correspondense/ca_prince_sample
+	C:/Users/tianyunchuan/iCloudDrive/_jupyter_/DL_PyTorch_class_mooc_chushi/ch06_cifar10
+
+	C:/_sublimeFile
+
+	D:/_jupyter_/DL_PyTorch_class_mooc_chushi/ch06_cifar10
+
+	【基础操作】
+	git commit -m "first commit"
+	git branch -M main
+	
+
+	git remote add origin https://git@github.com:tian-home/test.git
+
+		git status
+
+
+	git push -u origin master
+	git remote show origin
+	git remote rm origin
+
+
+	pull
+
+	# 强制覆盖本地
+	git fetch --all
+	git reset --hard origin/master
+	git pull origin master
+	git pull origin master --allow-unrelated-histories
+
+
+
+	本地
+	cd
+	C:\\Users\\tianyunchuan\\iCloudDrive\\Desktop\\_pyCodeSpyder_\\survey\\FaCoding\\Lancome
+	cd ~/iCloudDrive/Desktop/_pyCodeSpyder_/_data/_data_global/_NLP_DICT
+
+
+	website
+	    https://gitforwindows.org/
+
+
+	git bash
+
+
+	# 设置自己的名字、邮件地址
+	$ git config --global user.name "tian-home"
+	$ git config --global user.email tian-home@outlook.com
+
+
+	# 查看
+	$ git config -l
+
+	#创建目录
+	$ cd C:/_sublimeFile
+	$ mkdir data-analysis
+	$ cd data-analysis/
+
+	# 创建版本库
+	$ git init
+	$ ls -a
+	    -->
+	        ./  ../  .git/
+
+	$ git status
+	    -->
+	        On branch master
+
+	        No commits yet
+
+	        nothing to commit (create/copy files and use "git add" to track)
+
+	# 创建文件
+	$ touch first.txt
+
+	$ git status
+	    -->
+	        On branch master
+
+	        No commits yet
+
+	        Untracked files:
+	          (use "git add <file>..." to include in what will be committed)
+	                first.txt
+
+	        nothing added to commit but untracked files present (use "git add" to track)
+
+	git add --all
+	$ git add first.txt
+	$ git status
+	    -->
+	        On branch master
+
+	        No commits yet
+
+	        Changes to be committed:
+	          (use "git rm --cached <file>..." to unstage)
+	                new file:   first.txt
+
+
+	        tianyunchuan@SHLT73-R90JMHZF MINGW64 ~/iCloudDrive/Desktop/_win_Trans_mac_/github/data-analysis (master)
+
+	$ git commit -m "create file first.txt"
+	    -->
+	        【master (root-commit) 0ef2507】 create file first.txt
+	         1 file changed, 0 insertions(+), 0 deletions(-)
+	         create mode 100644 first.txt
+
+
+	$ git status
+	    -->
+	        On branch master
+	        nothing to commit, working tree clean
+
+	$ touch second.txt third.txt
+
+	$ git add --all
+	$ git status
+	    -->
+	        On branch master
+	        Changes to be committed:
+	          (use "git restore --staged <file>..." to unstage)
+	                new file:   second.txt
+	                new file:   third.txt
+
+	$ git commit -m "commit second & third"
+	    【master 9ddc4e5】 commit second & third
+	     2 files changed, 0 insertions(+), 0 deletions(-)
+	     create mode 100644 second.txt
+	     create mode 100644 third.txt
+
+	$ git status
+	    On branch master
+	    nothing to commit, working tree clean
+
+	    tianyunchuan@SHLT73-R90JMHZF MINGW64 ~/iCloudDrive/Desktop/_win_Trans_mac_/github/data-analysis (master)
+	    $
+
+	$ git log
+	    commit 9ddc4e5ae05fb9607d28c19b8ecc5b71964637d3 (HEAD -> master)
+	    Author: tianyunchuan <tianyunchuan@gmail.com>
+	    Date:   Thu Sep 10 23:16:12 2020 +0800
+
+	        commit second & third
+
+	    commit 0ef2507120a0c8d0338156852693efad42921495
+	    Author: tianyunchuan <tianyunchuan@gmail.com>
+	    Date:   Thu Sep 10 23:06:40 2020 +0800
+
+	$ git log --summary
+	    commit 9ddc4e5ae05fb9607d28c19b8ecc5b71964637d3 (HEAD -> master)
+	    Author: tianyunchuan <tianyunchuan@gmail.com>
+	    Date:   Thu Sep 10 23:16:12 2020 +0800
+
+	        commit second & third
+
+	     create mode 100644 second.txt
+	     create mode 100644 third.txt
+
+	    commit 0ef2507120a0c8d0338156852693efad42921495
+	    Author: tianyunchuan <tianyunchuan@gmail.com>
+	    Date:   Thu Sep 10 23:06:40 2020 +0800
+
+	        create file first.txt
+
+	     create mode 100644 first.txt
+
+
+
+
+	【github SSH-KEY】
+
+	Setting -> SSH and GPG keys
+
+
+	本地一个私钥
+	github一个公钥
+
+
+
+	$ ssh-keygen -t rsa -C "tianyunchuan@gmail.com"
+	在本地生成两个文件，路径->
+
+
+	复制 本地ssh to github
+
+
+
+
+
+	# 测试
+	$ ssh -T git@github.com
+
+	The authenticity of host 'github.com (13.229.188.59)' can't be established.
+	RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+	Are you sure you want to continue connecting (yes/no/【fingerprint】)? yes
+	Warning: Permanently added 'github.com,13.229.188.59' (RSA) to the list of known hosts.
+	Hi tianyunchuan-1! You've successfully authenticated, but GitHub does not provide shell access.
+
+
+
+	【github Repositories】
+
+	创建一个新的版本库
+
+
+
+	git remote add origin https://github.com/tianyunchuan-1/Ti-202009-01.git
+
+
+	$ git push -u origin master
+
+	Enumerating objects: 7, done.
+	Counting objects: 100% (7/7), done.
+	Delta compression using up to 4 threads
+	Compressing objects: 100% (5/5), done.
+	Writing objects: 100% (7/7), 623 bytes | 155.00 KiB/s, done.
+	Total 7 (delta 1), reused 0 (delta 0), pack-reused 0
+	remote: Resolving deltas: 100% (1/1), done.
+	To https://github.com/tianyunchuan-1/Ti-202009-01.git
+	* 【new branch】      master -> master
+	Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+
+	# 本地仓库文件更换时，需rebase
+	$ git pull --rebase origin master
+	$ git push -u origin master
+
+
+	github远端文件更新至本地
+
+
+	$ git pull origin master
+
+	【文件更新】
+	退回上次操作
+
+	$ git checkout -- first.txt
+
+	tianyunchuan@SHLT73-R90JMHZF MINGW64 ~/iCloudDrive/github/data-analysis (master)
+
+	$ cat first.txt
+
+
+	$ git reset first.txt
+
+	Unstaged changes after reset:
+	M       first.txt
+	tianyunchuan@SHLT73-R90JMHZF MINGW64 ~/iCloudDrive/github/data-analysis (master)
+
+	$ git checkout first.txt
+
+	Updated 1 path from the index
+
+
+	【 reset HEAD 】
+
+	$ git add step_01.txt
+
+	$ cat step_01.txt
+
+	coding_proc finished
+	append two
+
+
+	$ git reset HEAD step_01.txt
+
+	Unstaged changes after reset:
+	M       step_01.txt
+
+	$ git checkout -- step_01.txt
+	$ cat step_01.txt
+
+	coding_proc finished
+
+	【 删除 】
+
+	$ git rm step_01.txt
+
+	rm 'step_01.txt'
+
+
+	【分支 Branch】
+
+	$ git branch proc01
+	$ git checkout proc01
+
+	Switched to branch 'proc01'
+
+	tianyunchuan@SHLT73-R90JMHZF MINGW64 ~/iCloudDrive/github/data-analysis (proc01)
+
+
+	$ git add third.txt
+
+	tianyunchuan@SHLT73-R90JMHZF MINGW64 ~/iCloudDrive/github/data-analysis (proc01)
+
+	$ git status
+
+	On branch proc01
+	nothing to commit, working tree clean
+	tianyunchuan@SHLT73-R90JMHZF MINGW64 ~/iCloudDrive/github/data-analysis (proc01)
+
+	$ git commit -m "add proc01"
+
+	On branch proc01
+	nothing to commit, working tree clean
+	tianyunchuan@SHLT73-R90JMHZF MINGW64 ~/iCloudDrive/github/data-analysis (proc01)
+
+	$ git checkout master
+
+	Switched to branch 'master'
+	Your branch is up to date with 'origin/master'.
+	tianyunchuan@SHLT73-R90JMHZF MINGW64 ~/iCloudDrive/github/data-analysis (master)
+
+	$ git merge proc01
+
+	Already up to date.
+	tianyunchuan@SHLT73-R90JMHZF MINGW64 ~/iCloudDrive/github/data-analysis (master)
+
+	$ git branch -d proc01
+
+	Deleted branch proc01 (was 4f45dda).
+	tianyunchuan@SHLT73-R90JMHZF MINGW64 ~/iCloudDrive/github/data-analysis (master)
+
+	$ git push    
+
+	Everything up-to-date
+
+	【工作流】
+
+
+
+
+		
+Linux (centos7)
+	ALL
+		cd /root/workspace/ml_mooc_tf/tensorflow2.0_course/chapter_2
+		source /root/environment/tf2_py3/bin/activate
+
+		(nohup jupyter notebook --allow-root --ip=0.0.0.0 > deep.log &)
+
+	others
+		pip经常反应慢，先介绍几个常用的国内pip源
+			pip install xlrd -i http://pypi.douban.com/simple --trusted-host pypi.douban.com
+				http://mirrors.aliyun.com/pypi/simple/ 阿里云
+				https://pypi.mirrors.ustc.edu.cn/simple/  中国科技大学
+				http://pypi.douban.com/simple/  豆瓣
+				https://pypi.tuna.tsinghua.edu.cn/simple/ 清华大学
+				http://pypi.mirrors.ustc.edu.cn/simple/ 中国科学技术大学
+
+			pip install plotly -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+
+
+
+	0.0)	Linux(CentOS7&RedHat7)一讲通		# https://study.163.com/course/courseMain.htm?courseId=1003607051&share=1&shareId=1023960308
+			---- hotkey（快捷键）
+				ctrl + L 清屏
+
+			---- shell环境使用介绍
+
+				---- 常用shell种类
+					-- BASH（默认）
+					-- TCSH
+					-- Z-shell
+				---- shell提示符
+					$ : 普通用户
+					# : root
+					history 	>>		执行命令历史
+					! n  		>>		调用第n个命令
+				---- 通配符
+					*
+					？
+					[] 	如： [1-3], [A_Z]等  ！！匹配一个字符
+					[^0-9]
+
+					'' 
+					"" 调用变量
+					`` 反引号是调用系统命令用的
+						[root@ti ~]# a=`ls`
+						[root@ti ~]# echo "$a"
+					$ 输出
+						a=123
+						echo $123
+					\ 转义字符
+
+			---- 文件目录管理（目录结构）
+				/： 					根目录
+				/bin:/usr/bin:		用户可执行命令
+				/boot：				内核与启动文件
+				/dev： 				设备文件（访问该目录下某个文件，相当于访问某个设备，常用的是挂载光驱mount /dev/cdrom /mnt。）
+				/etc：				系统配置文件（不建议在此目录下存放可执行文件）
+				/home：				用户家目录（建议单独分区，并设置较大的磁盘空间，方便用户存放数据
+				/media：		 		可移动介质安装点（比如光盘、优盘）
+				/mnt:				临时文件的挂载点		
+				/opt： 				自己安装的应用软件安装包 	
+				/proc：				进程的镜像
+				/root： 				系统管理员root的家目录
+				/sbin:				放置（只有！！）系统管理员使用的可执行命令，如fdisk、shutdown、mount等。与/  (包括 /usr/sbin:/usr/local/sbin：)
+				/tmp： 				临时文件
+				/usr： 				应用程序存放目录，/usr/bin 存放应用程序， /usr/share 存放共享数据，/usr/lib 
+				/var： 				放置系统执行过程中经常变化的文件，如随时更改的日志文件 /var/log
+				/lost+fount： 		系统异常产生错误时，会将一些遗失的片段放置于此目录下
+				/srv：				服务启动之后需要访问的数据目录，如www服务需要访问的网页数据存放在/srv/www内
+				lib 				函数库
+
+			---- 文件目录管理（常用命令1.）
+				pwd 				查看当前目录
+				cd ..				上级目录
+				cd .				当前目录
+				cd -				进入上次目录
+				~					用户主目录
+				/					根目录
+				ls 					列出文件
+				ls -a 				列出所有（包含隐藏文件）
+				ls -l 				列出文件详细信息
+				ll 					等于 ls -l
+				ls -lh 				列出时显示字节大小 ***k （人性化显示）
+				ls -a -l 			同上
+				ls -i 				节点号 i-node（！）
+
+				cat 				查看文件
+				cat -n 				查看文件（显示行号）
+				more 				查看大文件（显示看到百分比）
+				less 				（推荐！）查看文件（推荐  空格向下翻译，"b"向上翻页）
+				head 				head -n
+				tail 				tail -f   动态跟踪显示问价
+
+				grep 				查找文件内容 	[ti@mm log]$ grep conn8 mongo.log       [root@mm system]# ls |grep sshd.
+				grep -r  			目录下查找文件内的内容     [ti@mm app]$ grep -R conn8 ~/app/]
+				which				which ls
+
+			---- 文件目录管理（常用命令 2.）
+				locate 				快速定位文件
+									yum install mlocate
+									[root@mm opt]# updatedb
+									[root@mm opt]# locate abc.log
+				whereis				查找特定[系统可执行]文件			
+				mkmdir 				创建目录
+				mkdir -p 			[root@mm opt]# mkdir -p a/b/c  
+				touch				建立文件
+				rm -rf 				rm -rf 文件名/目录 强制删除
+				rm -r
+				rm -f 				
+				mv 					移动文件（等同于改名字）
+				cp 					复制
+					cp -a 			完全复制（包括时间）
+				du -sh 				查看目录、文件大小
+
+
+			---- 文件目录管理（文件类型）
+				lrwxrwxrwx.   1 root root     9 Jul 11  2019 lib64 -> usr/lib64
+				drwx------.   2 root root 16384 Jul 11  2019 lost+found
+
+				普通文件				-
+				目录 				d
+				字符设备 			c
+				块设备				bf
+				符号链接				l
+				符号链接				ln -s /home/ti/app app
+
+			---- 文件目录管理（文件搜索）
+				---- locate （搜索速度快、功能少）
+					-- 缺点：只能搜索文件名
+					-- 在后台数据库中按文件名搜索，搜索速度更快
+					-- /var/lib/mlocate  -> locate命令搜索的后台数据库 （自动的话是是一天一次）
+					-- updatedb   -> 手动更新数据库
+					-- 但是、、、、有些文件、目录不搜索 参见下面
+					-- vim /etc/updatedb.conf  -> 适用于 whereis/which
+							"""
+							PRUNE_BIND_MOUNTS = "yes"
+							PRUNEFS = "9p afs anon_inodefs auto autofs bdev binfmt_misc cgroup cifs coda configfs cpuset debugfs devpts ecryptfs exofs fuse fuse.sshfs fusectl gfs gfs2 gpfs hugetlbfs inotifyfs iso9660 jffs2 lustre mqueue ncpfs nfs nfs4 nfsd pipefs proc ramfs rootfs rpc_pipefs securityfs selinuxfs sfs sockfs sysfs tmpfs ubifs udf usbfs fuse.glusterfs ceph fuse.ceph"
+							PRUNENAMES = ".git .hg .svn"
+							PRUNEPATHS = "/afs /media /mnt /net /sfs /tmp /udev /var/cache/ccache /var/lib/yum/yumdb /var/spool/cups /var/spool/squid /var/tmp /var/lib/ceph"
+							"""
+				---- whiereis/which （命令的搜索命令）
+					whereis 
+						-- 只能搜索系统命令
+						-- whereis -b ls -> 只查看执行文件，不查看帮助文档
+						-- whereis -m
+					which
+						-- 看到位置，查看别名
+					** cd命令式找不到的
+					环境变量：echo# $PATH
+
+				---- find
+					find 目录 -参数1 参数2
+
+					-- name 按文件名
+						-- *		[root@mm /]# find /opt -name a*.log    >>	/opt/abc.log
+						-- ？ 		[root@mm /]# find /opt -name a??.log
+						-- find / -name virtualenv
+
+					-- size 按文件大小
+						-- + 大于	[root@mm /]# find / -size +50M
+						-- - 小于 
+						-- 注意：k M
+
+					-- -atime  	mtime	ctime	按天
+					-- -amin 	mmin 	cmin 	按分钟
+						-- + 超过
+						-- - 之内 		[root@mm /]# find /opt -mmin -120
+
+					-- inum 262422  按节点
+						find /root inum 265443 (和ls -i 配合使用)
+
+					-- type 
+						f   普通文档
+						l 	软连接
+						d 	目录
+						 	[root@mm /]# find / -type l
+
+					-- 逻辑连接符
+						-a    与
+						-o    或
+							[root@mm /]# find . -type f -a -size +10M
+
+					- 查找文件：
+						[root@localhost tian]# find . -name "*ooc*"   find . 
+					- 查找制定路径下的文件：
+						[root@localhost tian]# find /etc/ -name "*.conf"
+					- 查找当前type为文件的
+						[root@localhost tian]# find . -type f
+					- 查找当前type为文件包
+						[root@localhost tian]# find . -type d
+					- 将目前目录及其子目录下所有最近 20 天内更新过的文件列出
+						[root@localhost tian]# find . -ctime -20
+					- 查找/var/log目录中更改时间在7日以前的普通文件，并在删除之前询问它们：
+						# find /var/log -type f -mtime +7 -ok rm {} \;
+
+					---- find [搜索范围] [搜索条件]   强大、但非常耗时
+						find / -name install.log
+
+						通配符 -> * ? []
+							[] 或者的意思 ->   find /root -name "abc[cd]"
+											find /root -name "*[cd]"  -> 以c或d结尾
+						find /root -iname install.log   -> #不区分大小写
+						find /root -user root -> 按照所有者搜索
+						find /root -nouser -> 查找没有所有者的文件  有用！
+
+					---- find /etc -size +20k -a -size -50k -exec ls -lh {} \;
+					---- find /root -inum 283737 -exec rm -rf {} \;    # 找到文件直接删除
+					!!! 可以跟上执行语句，
+				---- grep  包含匹配、在某个文件里面找一些词汇
+					---- grep "size" anaconda-ks.cfg
+					---- grep -v "size" anaconda-ks.cfg  #>不包含"size的"
+					---- grep -i "size" anaconda-ks.cfg  #>忽略大小写
+
+				---- shell
+					bsh -- bash, sh, psh, sh
+					csh -- unix
+
+			---- 系统资源查看
+				---- vmstat [刷新延迟 刷新次数]
+					vmstat 1 3
+				---- dmseg |grep CPU
+				---- free  （查看内存）
+					free -b
+					free -k
+					free -m
+					free -g
+				---- 查看CPU
+					cat /proc/cpuinfo
+				---- uptime
+					17:24:33 up 359 days,  8:24,  1 user,  load average: 0.02, 0.04, 0.05
+				---- uname 查看当前内核属性
+					uname -a
+
+
+
+
+
+			---- 权限管理-用户与用户组
+				---- ls -al
+					"""
+					total 140
+					dr-xr-x---. 20 root root  4096 Aug 30 08:09 .
+					dr-xr-xr-x. 18 root root  4096 Sep  2  2019 ..
+					-rw-------   1 root root 14782 Aug 30 08:09 .bash_history
+					-rw-r--r--.  1 root root    18 Dec 29  2013 .bash_logout
+					-rw-r--r--   1 root root   217 Sep 11  2019 .bash_profile
+					-rw-r--r--   1 root root   256 Sep  3  2019 .bashrc
+					-rw-r--r--   1 root root   176 Sep  3  2019 .bashrc.bak
+					drwxr-xr-x   6 root root  4096 Sep  2  2019 .cache
+					...
+					"""			
+					-- 文件类型
+						- 文件
+						d 目录
+						I 软连接
+					-- dr-xr-x---
+						r-x 	u所有者
+						r-x 	g所有组
+						--- 	o其他人
+						r：读 、w：写、 x：执行
+
+				---- 权限修改（文件的目录和权限）		user - group - other
+					chmod [选项] 模式 文件名 
+						选项 -  -R（递归）
+						例子：
+						chmod u+x canls.av 	# 加权限
+						chmod u-x canls.av   #减权限
+						chmod g+w, o+w furang.av
+						chmod u=rwx fengjie.av # 推荐
+							chmod u=rwx, g=rw cangls.av
+						chmod a=rx fengjie.av # a= 表示所有
+
+					chmod 	建议！		改变文件权限   
+						r -4
+						w -2
+						x -1
+					 		常用例：
+					 				chmod 777 文件名				包括目录 > -R
+									chmod 644 所有者读写，其他人-只读
+									chmod 755 所有者all，其他 读+执行 
+									对于目录 只有 0 或 5 或 7三种有意义
+						文件最高权限：x 执行
+						目录最高权限：w 写
+						重要文件慎用
+
+				---- chown				改变文件所有权
+					chown u01 文件名
+				---- chgrp    			改变文件所属组
+					chgrp 组名 文件名
+					chgrp group1 cangls.av
+
+				---- 案例：
+					-- 拥有1个av目录
+					-- 让加藤老师拥有所有权限
+					-- 让本课程所有学员拥有查看的权限
+					-- 其他所有人不需查看这个目录
+					"""
+					[root@ti /]# mkdir av
+					[root@ti /]# ll -d av
+						# drwxr-xr-x 2 root root 4096 Aug 30 09:39 av
+
+					[root@ti /]# useradd tian
+					[root@ti /]# passwd tian
+					[root@ti home]# ls
+						# tian  u01  u02  u03
+					[root@ti home]# gpasswd -a u01 u   #添加u01到u用户组
+						# Adding user u01 to group u
+					[root@ti home]# gpasswd -a u02 u
+						# Adding user u02 to group u
+					[root@ti home]# chown tian:u /av
+					[root@ti /]# ll -d av
+						# drwxr-xr-x   2 tian u     4096 Aug 30 09:39 av
+					[root@ti /]# chmod 750 av
+					[root@ti /]# ll -d av
+						# drwxr-x--- 2 tian u 4096 Aug 30 09:39 av
+						注： rwx ->用户， r-x用户组, 其他 ---
+					"""
+
+
+				---- 默认权限
+					[root@ti /]# umask
+						# 0022
+						0 
+						022 （权限最高为 666， 666与字母相减）
+						修改
+						临时修改：
+							umask 0000 可创建最高权限的目录777，文件666
+						永久修改：
+							vi /etc/profile
+
+
+			---- ACL权限
+				-- 使用场景： 用户、用户组、其他 的三种身份不够用的时候（用户身份不够用）
+					ACL 对应上述情况，解决用户身份不够用的情况
+				-- 首先确认ACL权限是否开启
+				.....
+				暂不学习
+				https://www.imooc.com/video/9658
+
+
+
+				---- 新增用户、用户组
+					-- useradd
+						-m
+						-g 		主用户组  useradd u01 -g roots
+						-G 		用户组
+						-s 		指定shell（默认BASH）
+					-- passwd
+					-- groupadd
+					-- /etc/passwd >>	保存用户信息		[root@mm ~]# less /etc/passwd
+					-- /etc/shadow >>	保存用户密码
+					-- 查看用户：cut -d : -f 1 /etc/passwd
+						或者： cd / -> cd home 查看有哪些用户
+					-- 查看用户组：cut -d : -f 1 /etc/group
+
+				---- 删除用户、用户组
+					-- userdel		>>	[root@mm home]# userdel -r u01
+					-- groupdel		>>	groupdel group02
+
+				---- 管理用户 usermod
+					-- id  			>>	查看用户信息		[root@mm home]# id
+
+					-- -d 			>>	修改用户主目录
+					-- -e 			>>	修改账号有效期  MM/DD/YY
+					-- -g 			>>	修改用户组
+					-- -l 			>>	修改用户组账号名称
+					-- -s 			>>	修改shell
+					-- w    		>>  查看登录者
+					-- who 			>>	查看登录者
+					-- last 		>>  登录记录
+					-- lastlog		>>  各种程序登录记录
+					-- uname -a 	>>	查看内核版本
+					-- su root 		>>	用户切换
+					-- su -u01 		>>	同时切换环境变量
+					-- passwd u01 	>>	修改普通用户密码
+
+
+					[root@mm home]# usermod -g root ti
+					[root@mm home]# id ti
+					uid=1000(ti) gid=0(root) groups=0(root)
+
+				---- 用户配置文件
+					-- less /etc/passwd
+						ti:x:1000:0::/home/ti:/bin/bash
+						mmc:x:1001:1001::/home/mmc:/bin/bash
+						u01:x:1002:1003::/home/u01:/bin/bash
+					-- 登录名：口令占位符：UID:GID:用户私人信息：用户主目录：登录shell
+					-- 加密口令：MD5，固定长度（32字符）
+						[root@mm home]# echo "tyc1900" |md5sum
+						74db638ca7ea9dee9bf76a99e5fcbc27  -
+					-- less /etc/shadow
+						ti:$6$tvibzhTn$5xIJuh1LLR/sAmVAX6MM4xsa7yQwP7/vWcLBpMzZEdFoZt5inyeiNX4iaaqqFEyISjPhGr6ro1LvXrhkOrGHN.:17981:0:99999:7:::
+						mmc:$6$KfUnCOyv$6d/6rJgvPagaTrg1XGEX2i90UPm7.AiELnoxtPnjUOi/HQ6X/jg8Zyxh.mGYQ9r1USfZgsfjNEqV2USJ6iraN1:17983:0:99999:7:::
+						u01:$6$haQmlnKG$zljF1/a2kNvQe22qVjHTHcQZ8F7dCEfEOe8vRZWzUSn4fbuIwSA3oMrRUeGsjcjkVN3xJ/4dsCJCi7xBzhDPy0:17984:0:99999:7:::
+					-- 用管理配置文件
+						[root@mm home]# less /etc/login.defs
+						[root@mm home]# less /etc/default/useradd
+
+				---- 提升普通用户权限
+					-- suid 		>>	提升某个命令的适用权限	chmod u+s /bin/ls
+					-- sudo 		>>	/etc/suders
+							sudo -l 查看sudo设置
+					-- visudo
+									## Allow root to run any commands anywhere
+
+									账户名		主机名称=（可切换的身份） 可用的指令
+									%wheel  ALL=(ALL)       ALL
+									%ti     ALL=(ALL)       ALL
+									%ti     ALL=(root)      ALL
+									%ti     ALL=(root)      NOPASSWD: ALL
+					-- 切换用户 su u01
+							   su root
+
+			---- 常用系统命令（环境变量及日期时间）
+				---- 软连接
+					ln -sv /usr/local/python3/bin/virtualenv /usr/bin/
+				---- 后台启动
+					(nohup jupyter notebook --allow-root --ip=0.0.0.0 > deep.log &)
+					(nohup 代码&)
+
+					[root@ti etc]# cat rc.local
+
+
+				---- [环境变量]
+					-- 查看 			
+						>>	env
+						>>	[root@mm ~]# echo $LANG
+
+					-- 临时环境变量
+						[root@mm ~]# export NAME=tian   #没有特殊字符，可以不写引号
+						查看	： env |grep var
+
+					-- 系统环境变量
+						/etc/profile
+						建议使用profile.d
+						vim /etc/profile.d
+						source /etc/profile  #更新
+
+					-- 用户环境变量
+						1. 推荐首选
+							用户文件夹下 .bash_profile 中设置 （root用户中不会有）
+							vim .bash_profile
+							source .bash_profile  #更新
+						2. 其次
+							vim .bashrc
+							source ~/.bashrc  #更新执行
+
+					-- 环境变量脚本的执行顺序
+						/etc/profile -> /etc/profile.d -> /etc/bashrc -> 用户的.bash_profile -> 用户的.bashrc
+						以最后一个为准
+
+					-- 重要的环境变量1.： PATH
+						PATH=路径1:路径2：....
+						缺省包含以下路径：
+						PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/root/bin
+
+						PATH=/usr/java/jdk-13/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/root/bin  #jdk是后加上的
+
+					-- 添加PATH的3种方法 实例：比如要把/home/program/apache-tomcat-7.0.40目录添加到PATH中
+						1. 临时
+							[root@lx_web_s1 ~]# export PATH=/home/program/apache-tomcat-7.0.40:$PATH
+						2. 系统级别
+							vim /etc/profile
+							export PATH="$PATH:/home/program/apache-tomcat-7.0.40
+
+							vim /etc/profile
+
+							"""
+							JAVA_HOME=/usr/java/jdk-13
+							PATH=$JAVA_HOME/bin:$PATH
+
+							export JAVA_HOME PATH
+							"""
+
+							# vim /etc/profile
+							在最后，添加:
+							export PATH="/usr/local/webserver/mysql/bin:$PATH"
+
+
+					- source /etc/profile
+						3. 针对用户
+							sudo vim ~/.bashrc
+							在最后添加 export PATH="$PATH:/home/program/apache-tomcat-7.0.40"  这种方法是针对用户起作用的
+
+					-- other1. 运行文件
+						全路径 or 当前文件夹 ./文件名
+
+
+
+
+
+				---- 日期与时间
+					-- 查看
+						date 		>>	日期与时间
+						hwclock		>>	硬件时钟
+						cal 		>>	日历
+
+
+					-- 修改
+						date -s '2016/1/1 18:18:18'
+
+					-- 时区设置
+						tzselect 
+
+					-- 系统重启及关机
+
+						重启
+							reboot
+							shutdown -r now  # 推荐
+							init 6 # 不推荐
+						关机
+							shutdown -h now
+
+							选项：
+								-c 取消前一个关机命令
+								-h 关机
+								-r 重启
+						关机
+							init 0
+
+						退出 ！！！
+							logout
+
+				---- 输入输出重定向
+					-- [root@ti tmp]# ifconfig > test.log      	# > 覆盖保存
+					-- [root@ti tmp]# ifconfig >> test.log 		# >> 追加保存 
+					-- [root@ti tmp]# ifconfigggg 2> test.log 	# 2> 报错信息保存 
+					-- [root@ti tmp]# ifconfigggg 2>> test.log 	# 2>> 报错信息追加保存 
+					！！！正确输出和错误输出同时记录保存
+					命令 >> 文件 2>&1    
+						ifconfig >> test.log 2>&1  #追加，正确和错误信息都保存在同一文件
+					命令 &>> 文件  -----  
+						[root@ti tmp]# ls &>> test3.log 作用和上面一样
+
+					命令 >> 文件1 2>> 文件2    # 正确日志，错误日志 分别保存
+						[root@ti tmp]# lss >> test1.log 2>> test2.log
+
+				---- 输入重定向
+					wc 文件名
+						wc test1.log
+						[root@ti tmp]# wc < test1.log
+
+				---- 管道符
+					-- 多命令顺序执行
+						; 		>>	依次执行 ->	[root@ti ~]# ls;ifconfig
+							典型应用（计算时间）：		date; tar -zcvf etc.tar.gz /etc; date
+						&& 		>>	前面成功，后面开始执行
+						||		>>	前面失败，后面开始执行
+							混合应用（不能颠倒顺序） [root@ti ~]# lsss && echo yes || echo no
+					-- 管道符 |
+						[root@ti ~]# ls |grep te*
+						[root@ti ~]# ls -l /etc/ |more
+
+
+
+				---- 命令相关
+					命令别名
+						alias tt='ls -al'
+						unalias tt
+
+					命令替换符（将一个命令的输出作为另一个命令的输入）
+						ls -l `which touch'
+
+
+				---- 打包、压缩
+					-- tar
+						- cvf 			>>	打包
+						- xvf 			>>	解包
+						- gzip 			>>	压缩 		[root@mm test]# gzip pyDict.py
+						- gunzip 		>>	解压缩
+						- czvf			>>	打包、压缩	[root@mm test]# tar czvf py.tar.gz ./pyDict.py
+						- xzvf 			>>	解包、解压缩	[root@mm test]# tar xzvf py.tar.gz
+						- zip/unzip -r	>>  压缩目录
+						- bzip2/bunzip2 >>	保留源文件（ -k )
+
+						- tar -cf imooc.tar imooc  # 压缩
+						- tar -tf imooc.tar   # 查看
+						- tar -tvf imooc.tar  # 查看详细信息
+						- tar -xf imooc.tar   # 解压缩
+
+						- tar -czvf imooc.tar.gz imooc   # 压缩为gz文件
+						- tar -tzvf imooc.tar.gz   # 查看!!
+						- tar -xzvf imooc.tar.gz   # 解压缩
+						-
+
+						- 解压至目标文件夹：
+							[ti@localhost soft]$ tar -zxvf jdk-8u181-linux-x64.tar.gz -C ~/app/
+
+						- tar -jcvf 解压缩包名.tar.bz2 -C /tmp/
+
+				---- 区域、语言
+					-- locale  			[root@mm test]# locale
+						en_US.UTF-8
+							en 		>>	语言
+							US 		>>	国家
+							UTF-8 	>>	字符集
+						-a 显示所有支持的区域语言 	[root@mm test]# locale -a
+					-- 配置文件
+						/etc/locale.conf   (centos7)    	[root@mm test]# /etc/locale.conf
+
+				---- 帮助文件
+					-- man ls
+						man -f ls
+					-- info 
+					-- whatis ls
+					-- help --ls
+					-- whereis passwd  -> passwd: /usr/bin/passwd /etc/passwd /usr/share/man/man1/passwd.1.gz
+						man 1 passwd
+
+
+
+				---- 补充
+					-- 查看系统信息
+						- uname -a 		>>	查看内核版本
+						- free -m 		>>	查看内存
+					-- 文件管理
+						- df -h 		>>	查看分区大小
+						- du -sh 		>>	查看目录、文件大小
+						- stat 文件 		>>	查看详细信息
+						- md5sum 文件 	>>	获得md5加密值
+
+					-- 网络通讯
+						- write 账户		>> 	[root@mm tmp]# write u01
+
+					-- 剔除在线用户
+						[root@mm tmp]# who
+						root     tty1         2019-03-27 00:46
+						root     pts/0        2019-03-30 14:06 (116.233.167.169)
+						u01      pts/1        2019-03-30 15:32 (116.233.167.169)
+						u02      pts/2        2019-03-30 15:33 (116.233.167.169)
+						root     pts/3        2019-03-30 17:01 (116.233.167.169)
+						[root@mm tmp]# ps -ef |grep pts/1
+						u01       6343  6336  0 15:32 ?        00:00:00 sshd: u01@pts/1
+						u01       6344  6343  0 15:32 pts/1    00:00:00 -bash
+						root     11693 10758  0 17:19 pts/3    00:00:00 grep --color=auto pts/1
+						[root@mm tmp]# kill -9 6343
+
+					-- 安装图形界面   #https://www.linuxidc.com/Linux/2018-04/152000.htm
+						- yum groupinstall "X Window System"
+						- yum grouplist  # 查看
+						- yum groupinstall "GNOME Desktop" "Graphical Administration Tools"
+						---- 设置运行级别
+							-需重启
+							systemctl set-default graphical.target
+							systemctl set-default multi-user.target
+							-运行时切换
+							systemctl isolate graphical.target
+							systemctl isolate multi-user.target
+
+
+
+
+
+			---- 进程管理
+				---- 1. 进程概念
+					-- 操作系统：表示正在运行的程序
+					-- linuxshi多用户、多进程的操作系统
+					-- 操作系统中维护一张表，记录当前系统的所有进程的各种信息
+						- PID：			进程的ID号
+						- PPID：			父进程的PID
+						- UID、EUID：	真实、有效的用户IDf
+						- GID、EGID：	真实、有效的用户组ID
+					-- 进程的优先级
+
+				---- 2. ps命令
+					-- ps -aux 					>>	ps -aux|grep redis
+					-- ps -aux |grep 进程名 			[root@mm home]# ps -aux|grep sshd
+					-- ps -aux |more 一屏屏查看
+					-- ps -ef 					>>	与-aux基本一样（显示的列少一些）
+					-- ps -lax					>>	更多列信息
+					-- pstree
+					-- w 						>>	登录用户信息
+					-- w u01					>>	查看某个用户进程
+
+				---- 3. top命令
+					-- top 						>>	load average: 0.00, 0.01, 0.05
+						-- top -d 	指定刷新时间		>>	[root@mm home]# top -d 5
+						-- top -c 	显示整个命令行
+						-- top -u 	显示指定用户		>>	[root@mm ~]# top -u u01
+					-- 结果列可选择
+						-- top -d 	按f
+
+					-- 排序
+						-- 按cpu 	按P
+						-- 按内存	按M
+					-- 退出
+						-- ctrl + c
+
+					-- 保存
+						top -b -n 1 > top.log
+
+				---- 4. 进程控制
+
+					-- 启动（二进制、shell脚本两种）
+						- 二进制：ls、top.... 		>>	bin目录下
+						- shell文件  文件名.sh
+
+						./command 	进到当前目录下运行
+						./command 	& 		后台
+						nohup ./command
+					-- 终止进程
+						- ctrl + c 					>>	控制台进程结束
+						- kill -9 PID （进程号）
+
+					-- 进程的优先级 【 -20 - +19 】
+						- nice 		>>	指定程序的优先级		nice -n 2 command
+						- renice	>>	改变正在运行的进程	renice +12 pid
+					-- 强制关闭进程
+						- rm -f /var/run/yum.pid
+
+
+				---- 5. kill 
+					kill
+						- 1. kill -9  id号  #用kill来杀死某一个进程
+								#kill，加选项-9，加PID，表示杀死进程编号为PID的这个进程 
+								#下面表示杀死进程PID为2899的进程 
+								[root@localhost ~]# kill -9 2899
+
+						- 2. kill -1 id号 #平滑重启
+							kill -HUP 1523(ID号)  # 如：重启apache 但不会中止正在登录的用户
+
+						- 用killall杀死一类进程
+								#killall，加选项-9，加服务名， 表示杀死该服务的所有进程
+								[root@localhost ~]# killall -9 httpd
+						- 用pkill踢出某个终端
+								#pkill，加选项-9，加终端号，表示踢出该终端
+								#下面表示提出我的远程登录终端pts/0 
+								[root@localhost ~]# pkill -9 pts/0
+
+
+				---- 6. 工作管理
+					- jobs #查看工作
+						方法1： top # ctrl+z  在jobs 查看
+						方法2： top &
+					- jobs -l  #可以查看pid号
+
+				---- 99. 补充
+					-- 查看占用问价您的进程
+						- lsof 文件名
+
+					-- proc 进程的映像文件
+						- more /proc/cpuinfo
+						- more /proc/meminfo
+
+
+
+
+			---- 计划任务
+				---- 1. 计划任务
+					-- at:安排作业在某一时刻执行一次
+					-- batch： 安排作业在系统负载不重时执行一次
+					-- cron： 安排周期性的作业 
+
+				---- 2. at命令
+					-- ps -ef|grep atd 		>>	查看atd是否开启
+					-- 开启atd服务			>>	systemctl start atd
+					-- 设置atd开机启动
+
+					-- 建立任务：
+						[root@mm tmp]# touch date.log
+						[root@mm tmp]# date
+						Mon Apr  1 20:20:11 CST 2019
+						[root@mm tmp]# at 20:22
+						at> date > /tmp/date.log
+						at> <EOT>
+						job 1 at Mon Apr  1 20:22:00 2019
+							ctrl + d
+						[root@mm tmp]# tail -f date.log
+						Mon Apr  1 20:22:00 CST 2019
+
+					-- 查询任务
+						atq (at -l)
+
+					-- 删除任务
+						atrm（at -d）
+						[root@mm tmp]# atq
+						4       Mon Apr  1 21:00:00 2019 a root
+						[root@mm tmp]# atrm 4  #4代表任务号
+
+				---- 3. batch命令
+					-- 与at一样，但是不需要指定时间
+						（平均负载小于0.8的时候）
+
+				---- 4. crontab
+
+					-- /sbin/service crond start
+					-- 访问控制
+						/etc/cron.allow
+						/etc/cron.deny
+					-- ps -ef|grep crond 		>>	查看atd是否开启
+					-- 任务分类
+						- 系统任务		/etc/crontab
+							- 第一种是把需要定时执行的脚本复制到 etc/cron.{daily,weekly,monthly}目录的任意一个
+							- 第二种是修改/etc/crontab
+								"""
+								SHELL=/bin/bash
+								PATH=/sbin:/bin:/usr/sbin:/usr/bin
+								MAILTO=root
+
+								# For details see man 4 crontabs
+
+								# Example of job definition:
+								# .---------------- minute (0 - 59)
+								# |  .------------- hour (0 - 23)
+								# |  |  .---------- day of month (1 - 31)
+								# |  |  |  .------- month (1 - 12) OR jan,feb,mar,apr ...
+								# |  |  |  |  .---- day of week (0 - 6) (Sunday=0 or 7) OR sun,mon,tue,wed,thu,fri,sat
+								# |  |  |  |  |
+								# *  *  *  *  * user-name  command to be executed
+
+								#*/1 * * * * root date >> /tmp/dateu01.log
+								30 4 * * * root systemctl restart mongod
+								"""
+
+						- 用户任务		/var/spool/cron/USERNAME
+
+					-- crond 命令
+						crontab -e 		>>	开始编辑定义自己的任务执行计划
+						crontab -r 		>>	删除
+						crontab -l 		>>	列清单
+						crond -e ti 	>>	帮助其他用户制定任务计划
+
+					-- 命令格式：  	*	*	*	*	*	*
+						min: 		0-59
+						hour:		0-23
+						day:		1-31
+						month:		1-12
+						weekday:	0-6
+						command:	待执行的命令，多条命令（命令1;命令2;...）
+							[root@mm sbin]# crontab -e
+							* * * * * date >> /tmp/date.log  #vim模式编辑
+							58 * * * * date >> /tmp/date.log 	 # 每小时58分执行
+							50-59 * * * * date >> /tmp/date.log  # 50-59分之间每分钟执行
+							8,18,28,38 * * * * date >> /tmp/date.log  # 各时间点执行
+							*/3 * * * * date >> /tmp/date.log  # 每个3分钟
+
+							crontab文件的一些例子：
+							30 21 * * * /usr/local/etc/rc.d/lighttpd restart
+							上面的例子表示每晚的21:30重启apache。
+							45 4 1,10,22 * * /usr/local/etc/rc.d/lighttpd restart
+							上面的例子表示每月1、10、22日的4 : 45重启apache。
+							10 1 * * 6,0 /usr/local/etc/rc.d/lighttpd restart
+							上面的例子表示每周六、周日的1 : 10重启apache。
+							0,30 18-23 * * * /usr/local/etc/rc.d/lighttpd restart
+							上面的例子表示在每天18 : 00至23 : 00之间每隔30分钟重启apache。
+							0 23 * * 6 /usr/local/etc/rc.d/lighttpd restart
+							上面的例子表示每星期六的11 : 00 pm重启apache。
+							* */1 * * * /usr/local/etc/rc.d/lighttpd restart
+							每一小时重启apache
+							* 23-7/1 * * * /usr/local/etc/rc.d/lighttpd restart
+							晚上11点到早上7点之间，每隔一小时重启apache
+							0 11 4 * mon-wed /usr/local/etc/rc.d/lighttpd restart
+							每月的4号与每周一到周三的11点重启apache
+							0 4 1 jan * /usr/local/etc/rc.d/lighttpd restart
+							一月一号的4点重启apache
+					-- anacron   # 执行补漏
+
+
+
+					-- 特殊符号
+						*: 		匹配所有时间
+						整数：	匹配一个时间单位
+						-:		时间范围
+						,:		多个时间
+						/:		每 如: */3
+
+			---- 系统引导流程及服务
+				---- 1. 系统引导流程
+
+				---- 2. Grub配置及应用
+					---- 配置文件 [root@mm /]# cd /boot/grub2/grub.cfg
+					---- grub命令
+						- e 编辑模式
+						- c 命令模式
+					---- 使用场景：忘记root密码，以单用户模式登录修改
+
+				---- 3. 系统运行级别
+					---- 查看当前运行级别 
+						[root@mm sbin]# systemctl get-default  >>	multi-user.target
+
+					---- 设置运行级别
+						-需重启
+						systemctl set-default graphical.target
+						systemctl set-default multi-user.target
+						-运行时切换
+						systemctl isolate graphical.target
+						systemctl isolate multi-user.target
+
+					---- centos7 路径
+						[root@mm system]# cd /etc/systemd/system
+						[root@mm system]# cat default.target
+
+						实际文件路径：
+						[root@mm ~]# cd /usr/lib/systemd/system
+
+					---- sysytemd简介
+						- 是Linux下的一种init初始化软件
+						- 替代了system V、BSD风格的init程序
+						- 采用并行启动服务的原理
+						- 配置文件位于 /etc/systemd
+
+				---- 4. 守护进程（deamon）
+					---- 在后台运行的特殊进程，用于执行特定的系统任务
+						- 自动启动，并一直运行		>>	standalone模式
+						- 需要时启动，完成任务后结束	>>	xinetd模式
+							- 查看xinetd是否启动 [root@mm ~]# ps -ef |grep xinetd
+
+				---- 4.1 服务加载  （centos6及以前）
+					---- centos6及以前 
+						[root@mm ~]# cd /etc/init.d    #（目前文件比较少）
+						[root@mm etc]# ls rc*.d
+							- runlevel
+							- K 	结束
+							- S 	开始
+							- 序号越小越早执行
+					---- chkconfig
+						--list 		>>	查看系统服务 			>	chkconfig --list
+						--add 		>>	增加所指定的系统服务	>
+						--del 		>>	删除所指定的系统服务  > 	[root@mm rc5.d]# chkconfig --del netconsole
+						--level 	>>	服务名<等级代号>		> 	[root@mm rc5.d]# chkconfig --level 2345 netconsole off
+
+
+						-- 服务文件都在/etc/init.d目录下，可根据chkconfig添加删除		!!!!			
+							[root@mm ~]# cd /etc/init.d
+							[root@mm init.d]# ls
+							aegis  agentwatch  functions  netconsole  network  README
+
+							查看脚本文件：					
+								[root@mm ~]# cd /etc/init.d
+								[root@mm init.d]# ls
+								aegis  agentwatch  functions  netconsole  network  README
+								[root@mm init.d]# cat netconsole
+									#!/bin/bash
+									#
+									# netconsole    This loads the netconsole module with the configured parameters.
+									#
+									# chkconfig: - 50 50
+									# chkconfig: 235 98 98
+					---- 服务启动、停止、重启、查看状态
+						-- systemctl start/stop/restart/status sshd.service
+						-- service *** start/stop/restart/status
+						
+
+					---- 总结：
+						-- 1. 自己的程序在哪里： 
+							/usr/sbin
+							/usr/local
+							/bin
+							/sbin
+							.....
+						-- 2. 写一个 “启动脚本”，写在 /etc/init.d 目录下
+						-- 3. 运行级别设定：
+							用chkconfig添加删除（条件是在脚本文件里有 # chkconfig：235 98 98）
+
+
+				---- 4.2 服务加载  （centos7！！！！）
+					---- 目录
+						/usr/lib/systemd/system
+
+					---- systemd  融合之前的serciehechkconfig的功能于一体
+						-- systemctl list-unit-files					>>	查看所有服务列表
+						-- systemctl list-unit-files |grep enabled		>>	查看已启动的服务列表
+						-- systemctl is-enabled mongodb.service 		>>  查看某个服务是否开机启动！！！
+						-- systemctl enabled mongodb.service 			>>	启动某个服务
+						-- systemctl disable mongodb.service 			>>	禁用某个服务
+
+						注释：启动服务就是在当前runlevel的配置文件目录/usr/lib/systemd/system/multi-user.target.wants里，建立对应服务配置文件/usr/lib/systemd/system的软连接；禁用服务就是删除这个软连接
+
+					---- 服务启动、停止、重启、查看状态
+						-- systemctl start/stop/restart/status sshd.service后台
+						-- systemctl start/stop/restart/status sshd（.service可省略）
+
+					---- 总结：
+						-- 1. 自己的程序在哪里： 
+							/usr/sbin
+							/usr/local
+							/bin
+							/sbin
+							.....
+						-- 2. 写一个 “启动脚本”，写在 /etc/init.d 目录下
+						-- 3. 运行级别设定：
+							用chkconfig添加删除（条件是在脚本文件里有 # chkconfig：235 98 98）
+
+
+				---- 5. 引导期间错误检查
+					---- 引导期间错误
+						-- dmesg |grep ***
+						系统日志（更全面）
+						-- /var/log/messages
+
+			---- 网络管理
+				---- 1. 基本概念
+					- 主机名hostname  localhost.localdomain   主机名.域名
+					- IP地址
+					- 子网掩码
+					- 网关
+					- DHCP  （自动分配IP地址）
+					- DNS  Domain Name System  域名系统
+					- MAC地址	（网卡的全球唯一标识）
+
+				---- 2. 主机名
+					-- 查看
+						hostname
+					-- 临时修改
+						hostname <name> 	[root@mm ~]# hostname mmc
+					-- 修改
+						-- centos6及以前
+							[root@mm ~]# cat /etc/sysconfig/network
+							# Created by anaconda
+							vim
+						-- hostnamectl set-hostname mmc
+					-- host文件（为了能使用主机名，如 ping hostname）
+						--	windows下 IP与域名绑定
+							C:\Windows\System32\drivers\etc\hosts
+							10.101.1.82		mm
+							# localhost name resolution is handled within DNS itself.
+							#	127.0.0.1       localhost
+							#	::1             localhost
+
+							windows cmd 
+							C:\Users\tianyunchuan>ping 10.101.1.82
+							C:\Users\tianyunchuan>ping mm
+
+						-- centos
+							[root@mm etc]# vim /etc/hosts
+							127.0.0.1       localhost       localhost.localdomain   localhost4      localhost4.localdomain4
+							::1     localhost       localhost.localdomain   localhost6      localhost6.localdomain6
+							172.26.134.136  mm01 	mm01.ti.com
+
+				---- 3. IP/DHCP
+					---- 查看
+						- ifconfig -a
+
+					---- 修改
+						- 临时修改
+							ifconfig <eth0> <ip> netmask <255.255.255.0>
+							会删除默认网关
+						- 永久修改
+							/etc/sysconfig/network-scripts
+
+				---- 4. 网关（Gateway）
+					---- 查看 	>> route
+						路由：有一个机器达到另外一个机器	，首先经过网关
+					---- 修改 ...
+
+				---- 5. DNS（域名解析服务）
+					-- 查看
+						[root@ti01 ~]# cat /etc/resolv.conf
+						options timeout:2 attempts:3 rotate single-request-reopen
+						; generated by /usr/sbin/dhclient-script
+						nameserver 100.100.2.138
+						nameserver 100.100.2.136
+					-- 修改...
+					-- nslookup（yum install bind-utils）
+						- 交互模式
+						[root@ti01 ~]# nslookup
+						> www.baidu.com
+					-- host 域名 	>>	查询对应的IP
+						[root@ti01 ~]# host www.sina.com
+
+
+				---- 6. 网络服务
+					-- [old] service network start/stip/restart/status
+					-- [new] systemctl start/stip/restart/status network 
+					-- 不必每次都重启整个网络
+						#[root@ti01 ~]# ifconfig eth0 down   # 停止eth0接口
+						#[root@ti01 ~]# ifconfig eth0 up 	 # 开启eth0接口
+
+				---- 7. 网络连通性
+					-- ping
+						- [root@ti01 ~]# ping 39.98.59.77
+						- C 	>>	数据包数量
+						- s 	>>	数据包大小
+						- ping不同不一定是服务器有问题（可能是防火墙等....）
+
+					-- telnet   IP端口（比如检查80端口开了没有）
+						- windows需开启
+						- C:\Users\tianyunchuan>ping 39.98.59.77    	！！！
+						- C:\Users\tianyunchuan>telnet 39.98.59.77 22	！！！
+
+					-- traceroute  ？？？(yum install traceroute)
+						[root@ti01 ~]# traceroute www.baidu.com
+
+
+				---- 8. 补充
+					-- netstat  ！！！
+						-an 			>>	列出所有的ip地址和端口
+						|grep 端口号   	>>	查看端口占用情况  		>>	[root@ti01 ~]# netstat -an|grep 22
+
+						netstat -tlun 
+
+						-t :列出TCP协议端口  可以看到有哪些服务是开启的 
+							-> netstat -tuln
+						-u :
+						退出时：logout
+						netstat -rn   	# 查询网关
+						route -n 		# 查询网关
+						nslookup  		# 查询DNS
+							需要安装yum -y install bind-utils
+
+
+
+
+							nslookup www.imooc.com
+											
+							[root@ti ~]# nslookup
+							> server
+							Default server: 100.100.2.136
+							Address: 100.100.2.136#53
+							Default server: 100.100.2.138
+							Address: 100.100.2.138#53
+						netstat -tunlp  （端口,pid查询）-- killall -9 python
+
+
+
+
+					-- 下载命令
+						wget url
+						curl -O  #用的不多
+
+					-- mtr (集合ping和traceroute)  推荐
+						yum install mtr
+						mtr www.baidu.com
+						                                    My traceroute  [v0.85]
+						ti01.ti.com (0.0.0.0)                                                 Fri Apr  5 09:47:52 2019
+						Keys:  Help   Display mode   Restart statistics   Order of fields   quit
+						                                                      Packets               Pings
+						 Host                                               Loss%   Snt   Last   Avg  Best  Wrst StDev
+						 1. ???
+						 2. 11.217.46.9                                      0.0%    87    2.0   2.2   1.8   5.6   0.6
+						 3. 11.219.74.225                                    3.4%    87    2.4  26.9   2.4  53.0  19.1
+						 4. 11.219.75.58                                     0.0%    87    1.4   1.3   1.2   1.5   0.0
+						 5. 119.38.212.146                                   0.0%    86    2.8   4.3   1.3  13.1   2.8
+
+		 			-- tcpdump（黑客软件，截取通讯数据）
+		 			-- arp
+		 				- 地址解析协议，根据IP地址获取物理地址MAC地址的一个TCP/IP协议
+		 				- 参数：hostname（过滤用的）
+		 			-- 开关网卡
+		 				- ifup
+		 				- ifdown
+
+
+
+					-- windows网络：
+						本地连接		->	网线连接
+						无线网连接 	->	无线网卡
+						VMnet1 		-> 	
+						VMnet8
+
+					-- 虚拟机设置：
+						桥接方式：使用真实网卡	（优点：配置简单、方便做实验，缺点：占用1个IP地址，比如学校容易IP冲突）
+							有时需确定使用真实网卡中的（有线、还是无线网卡）
+						NAT：使用VMnet8			（缺点：只能和主机通信，不能和局域网其他机器通信）
+							HostOnly：使用VMnet1		（缺点：只能和主机通信，不能和局域网其他机器通信，切不能上外网）
+
+
+
+
+		 	12. 软件安装
+		 		---- 1. 软件安装方式
+		 			- RPM包安装
+		 			- 源码安装
+		 			- 脚本安装
+
+		 		---- 2. RPM包安装
+		 			-- 初始化RPM数据库（一般不需要做！如果坏了可以用这个修复）
+		 				- rpm --initdb
+		 				- rpm --rebuilddb（时间较长）
+		 			-- 查询
+		 				- rpm -qa 					>>	安装了哪些
+		 					rpm -qa|more
+		 					rpm -qa |grep libssh2
+
+		 				- rpm -ql libssh2  			>>	查询安装到哪里了
+		 				- rpm -qi libssh2			>>	软件包信息
+		 				- rpm -qc libssh2 			>>	配置文件位置（这个貌似没有）
+		 				- rpm -qd libssh2			>>	文档的位置
+		 				- rpm -qR libssh2			>>	软件包依赖关系
+		 				- rpm -qf libssh2			>>	查询稳健属于哪个安装包
+		 				- rpm -qlp、qli				>>	和其他组合使用，查看未安装包文件位置
+
+
+		 			-- 安装 rpm -ivh  file.rpm
+		 				- replacepkgs 				>>	再安装一次
+		 				- --test 					>>	用来检验依赖关系，并不是真正安装
+		 					rpm -ivh --test yum-3.4.3-161.el7.centos.noarch.rpm
+
+		 				- --prefix(整体) 	-- relocate（局部）
+		 				- --oldpackage 				>>	新版本降级为旧版本
+		 				- --excludedocs 			>>	不安装文档
+		 				- --replacefiles			>>	其他包已安装，覆盖
+
+		 				- 例：rpm -ivh mysql-community-*.rpm     # 可以用*通配符
+
+
+		 			-- 删除 rpm -eh file.rpm(不带版本号)
+
+		 			-- 包依赖关系
+		 				- 暴力安装
+		 					--nodeps --force
+		 				- 包里删除
+		 					--nodeps
+		 				- 一次性安装全部
+		 					*.rpm (A.rpm,B.rpm,C.rpm 在同一目录，一并安装)
+
+		 		---- 3. yum详解（yellow dog update modified, 杜克大学）
+		 			-- 概述
+		 				- yum配置文件分为2部分
+		 				- main:/etc/yum.conf
+		 				- repository: 可以有多个，常位于 /etc/yum.repo.d
+							[root@ti01 etc]# cd yum.repos.d/
+							[root@ti01 yum.repos.d]# ls
+							CentOS-Base.repo       CentOS-fasttrack.repo  CentOS-Vault.repo
+							CentOS-CR.repo         CentOS-Media.repo      epel.repo
+							CentOS-Debuginfo.repo  CentOS-Sources.repo
+						- CentOS-Base.repo 是yum网络源的配置文件（优先级最高），禁用.bak
+						- CentOS-Media.repo 是yum本地源的配置文件，改路径，enabled=1
+
+					** 替换默认源（163）
+						http://mirrors.163.com/.help/centos.html
+						（http://mirrors.163.com/.help/CentOS7-Base-163.repo）
+
+						1.查看版本
+							cat /etc/redhat-release
+						2.
+							mv /etc/yum.repos.d/CentOS-Base.repo /etc/yum.repos.d/CentOS-Base.repo.backup
+							cd /etc/yum.repos.d/
+						3.
+							yum install wget
+							wget http://mirrors.163.com/.help/CentOS7-Base-163.repo
+						4.
+							yum clean all
+							yum makecache
+							yum list updates
+							yum -y update（更新内核）
+							或
+							yum -y upgrade（不更新内核）
+
+						5. ls查看（163.repo）
+					** Centos更换阿里云源
+						url：https://www.cnblogs.com/rhjeans/p/11311184.html
+						1. 备份：mv /etc/yum.repos.d/CentOS-Base.repo /etc/yum.repos.d/CentOS-Base.repo.backup
+						2. 下载新的CentOS-Base.repo 到/etc/yum.repos.d/
+							centos7
+							wget -O /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-7.repo
+						3. 之后生成缓存并更新系统
+							yum clear all
+							yum makecache
+							yum list updates
+							yum -y update（更新内核）
+							或
+							yum -y upgrade（不更新内核）
+
+					
+
+					-- 安装
+						yum instal ***
+
+					--  更新
+						yum check-update lynx
+						yum update lynx
+
+					-- 删除
+						yum remove lynx
+
+					-- 查看
+						yum info lynx
+						yum list
+					-- 缓存
+						yum clean all
+						yum makecache
+
+		 		---- 4. 源码安装
+		 			-- 1. tar -zxvf ***.tar.gz
+		 			-- 2. cd ***
+		 			-- 3. ./configure --prefix=/usr/local/***	>>	配置
+		 			-- 4. make 									>>	编译
+		 			-- 5. make install 							>>	安装
+
+		 		---- 5. 脚本安装 (不是很常见)
+		 		 	-- 1. tar -zxvf ***.tar.gz
+		 			-- 2. cd ***
+		 			-- 3. chmod u+x setup.sh
+		 			-- 4. ./setup.sh
+
+		 		---- 6. RHEL使用CentOS的yum源...
+
+		 		---- 7. CentOS替换和扩展源
+		 			-- 替换源（网易163）
+
+		 			-- 扩展源
+		 				yum install epel-release
+
+
+		 			-- 中间缓存
+
+		 			-- 检查是否添加成功
+
+		 	13. 远程访问
+		 		---- 1. ssh（putty）
+		 			-- 登录
+		 				ssh root@39.98.59.77
+		 				ssh-p 111111 root@39.98.59.77
+
+		 			-- ssh配置文件
+		 				/etc/ssh/sshd_config  (可以修改端口)
+
+		 			-- ssh远程linux不用输入密码
+		 				- 执行一行命令生成key文件： ssh-kengen -t rsa
+		 				- 生成的公钥key文件 /root/.ssh/id_rsa.pub
+		 				- scp ~/.ssh/id
+
+		 			-- 远程copy
+		 				- scp命令
+
+		 		---- 2. VNC	远程访问桌面环境
+		 				阿里云：https://helpcdn.aliyun.com/knowledge_detail/41530.html
+		 				一般虚拟机（启动文件路径不同）
+						yum install tigervnc-server
+						vncserver
+							tt72****
+							no
+						systemctl stop firewalld.service
+						ps -ef |grep vnc
+						netstat -an|grep 590
+
+
+						制作服务
+							vncserver -kill :1
+							cd /usr/lib/systemd/system
+							ls -la|grep vnc
+							cp vncserver@.service vncserver@:1.sVNCervice
+							vim vncserver@:1.service
+								:%s/<USER>/root/g
+								/home/root >> /root
+							systemctl enable vncserver@:1
+							systemctl start vncserver@:1
+
+						vnc登录： 192.168.0.107:5901     # 不要忘记加端口号
+
+		 		---- 3. xmanager
+		 		---- 4. Display环境变量
+		 		---- 5. Samba（与Windows协作）
+
+		 	14. 磁盘管理
+		 		---- 1. 分区原理
+
+		 			-- 基本分区结构
+		 				- /boot 		>>	引导分区
+		 				- /				>>	根分区
+		 				- swap 			>>	交换分区（磁盘）
+		 				- dev/shm tmpfs	>>	临时文件系统（内存）
+
+		 			-- 查看分区命令
+		 				- df-Th
+		 				- fdick -l
+		 				- swapon -s
+		 				- cat /proc/swapon
+
+		 		---- 2. 磁盘分区
+		 			-- 虚拟机中添加磁盘
+		 				add 硬盘
+
+		 			-- 查看dev磁盘
+		 				cd /dev
+		 				ls |grep sd
+
+		 			-- 操作sdb
+		 				fdisk /dev/sdb
+		 				fdisk -l 查看硬盘
+		 				n
+		 				p  # 主分区
+		 				1
+		 				w
+
+		 			-- 格式化
+		 				mkfs.xfs /dev/sdc1
+		 			-- 挂载
+		 				mkdir diskb
+		 				mount /dev/sdb1 ./diskb/
+		 				卸载： umount
+
+		 			-- /etc/fstab 挂载分区文件
+		 				cd /etc
+		 				vim fstab
+		 					"""
+		 					/dev/mapper/centos-root /                       xfs     defaults        0 0
+							UUID=2757c61a-df4c-4898-84da-0bb58f2ce9ba /boot                   xfs     defaults        0 0
+							/dev/mapper/centos-swap swap                    swap    defaults        0 0
+							/dev/sdb1               /diskb                  xfs     defaults        0 0     # 这行是添加的
+
+		 					"""
+
+		 		---- 3. swap交换分区
+		 			-- 扩展swap分区
+		 				!! fdisk /dev/sdc
+		 			 	n
+		 				p  # 主分区
+		 				1
+		 				+2G
+		 				w
+
+			 			-- 格式化
+				 			!! mkswap /dev/sdc1
+								Setting up swapspace version 1, size = 4194300 KiB
+								no label, UUID=00dea3d6-4fb1-467d-b5bd-2fc6e63c7115
+						-- 激活
+							!! swapon /dev/sdc1
+							!! swapoff /dev/sdc1  # 卸载
+						-- 开机时启动设置
+							vim /etc/fstab
+
+
+					-- 磁盘文件方式
+						dd if=/dev/zero of=/swapfile bs=1024 count=4000000
+						
+
+						vdir swapfile      # 根目录下操作
+						mkswap /swapfile   # 格式化
+						swapon swapfile
+						swapoff swapfile
+
+						chmod 600 swapfile # 只有root可以访问
+						vim /etc/fstab
+							# /etc/fstab
+							# Created by anaconda on Tue Sep 25 13:17:20 2018
+							#
+							# Accessible filesystems, by reference, are maintained under '/dev/disk'
+							# See man pages fstab(5), findfs(8), mount(8) and/or blkid(8) for more info
+							#
+							/dev/mapper/centos-root /                       xfs     defaults        0 0
+							UUID=2757c61a-df4c-4898-84da-0bb58f2ce9ba /boot                   xfs     defaults        0 0
+							/dev/mapper/centos-swap swap                    swap    defaults        0 0
+						/dev/sdb1               /diskb                  xfs     defaults        0 0
+						/dev/sdc1               swap                    swap    defaults        0 0
+						/swapfile               swap                    swap    defaults        0 0
+
+						chmod 644 swapfile
+						！卸载： rm -rf swapfile
+
+		 		---- 4. LVM（逻辑卷管理器）
+		 			**** 传统的磁盘分区不够灵活，不易扩展
+		 			---- LVM可以让磁盘组动态可扩展的管理
+		 			---- PV （物理卷 physical volume）
+		 				- pvdisplay
+		 				- pvcreate /dev/sdb
+							  Physical volume "/dev/sdb" successfully created.
+
+		 			---- VG （卷组 volume group）
+		 				- vgscan   或者 vgdisplay 		>>	查找卷组
+		 				- pvsacan   					>>	目前加了一个
+		 				- vgcreate vg01 /dev/sdb  		>>	新建卷组
+		 				- vgscan
+		 				- vgcreate vg01 /dev/sdc 		>>	再重新建物理卷
+		 				- vgextend vg01 /dev/sdc 		>>	添加至卷组
+
+		 			---- LV （逻辑卷 Logic Volume）
+		 				- lvscan 						>>	查找逻辑卷
+		 				- lvcreate -L 10G -n lv01 vg01 	>>	在新区划出10G
+		 				- mkfs.xfs /dev/vg01/lv01 		>>	格式化
+		 				- cd /
+		 				- mkdir lv01
+		 				- mount /dev/vg01/lv01 /lv01 	>>	挂载
+		 				- vim /etc/fstab				>>  开机挂载
+		 					"""
+		 					/dev/mapper/centos-swap swap                    swap    defaults        0 0
+							/dev/vg01/lv01          /lv01                   xfs     defaults        0 0
+
+		 					"""
+
+		 				- lvextend -L +2G /dev/vg01/lv01 >>	扩大
+		 				- xfs_growfs /dev/vg01/lv01     >>	放大
+		 				- df -h 						>>	查看
+
+		 			---- 删除
+		 				- 先删除 LV、再VG、再PV
+
+		 		---- 5. RAID（廉价冗余磁盘阵列）
+		 			---- 高效的SCSI价格昂贵，普通的IDE硬盘速度不够
+		 			---- 级别
+		 				- RAID0: Stripping 	>>	风险
+		 				- RAID1: Mirror 	>>	需要多用一块磁盘
+		 				- RAID5: 奇偶校验 	>>	服务器一般用RAID5
+		 				- RAIND0+1
+		 			---- 通常两者混合用，先用RAID，再LVM
+
+		 			---- ls |grep md 		>> 有的话就是RAID磁盘
+		 			---- ls |grep sd 		>> sd一般磁盘
+
+		 		---- 6. 补充
+
+		 			---- 磁盘配额quota      	>> 多用户的情况下限制各个用户的磁盘空间
+		 			---- fsck/e2fsck        >>	磁盘检查（要umount后）
+
+		 	15. 安全管理
+		 		---- 1. 防火墙、netfilter架构
+		 			-- systemctl status/start/stop/restart firewalld
+		 			-- systemctl enable firewall 				>>	开机启动
+		 			-- 实例防火墙端口设置
+		 				firewall-cmd --zone=public --add-port=5903/tcp --permanent
+		 				firewall-cmd --zone=public --add-port=80-90/tcp --permanent
+		 				firewall-cmd --zone=public --remove-port=5903/tcp --permanent
+		 				firewall-cmd --zone=public --add-port=3306/tcp --permanent
+
+
+
+		 				firewall-cmd --reload
+		 				firewall-cmd --list-all
+		 				firewall-cmd --list-ports
+		 			删除
+		 			永久保存设置
+
+		 		---- 2. SELinux
+		 			-- Security-Enhanced Linux) 是美国国家安全局（NSA）对于强制访问控制的实现，是 Linux历史上最杰出的新安全子系统。
+		 			-- 查看
+		 				""" 				
+						[root@mm ~]# getenforce
+						Disabled
+
+						[root@localhost ~]# setenforce 0
+						#切换成宽容模式
+
+						[root@localhost ~]# getenforce
+						Permissive
+
+						[root@localhost ~]# setenforce 1
+						#切换成强制模式
+
+						[root@localhost ~]# getenforce
+						Enforcing
+		 				"""
+		 				cat /etc/selinux/config     SELINUX=disabled <> SELINUX=enforcing
+
+
+		 			-- 修改
+		 				- 临时 		>> 	enforce 0
+		 				- 永久 		>>	vi /etc/selinux/config      SELINUX=disabled <> SELINUX=enforcing
+
+		 			-- 局部关闭
+		 				- getsebool -a|grep ftp
+		 				- setsebool -P *** on/off
+
+		 		---- 3. Linux-PAM认证模块
+
+		 		---- 4. /etc/security/limits.conf
+		 			-- ulimit -a
+		 			-- cat /proc/sys/fs/file-max
+
+		 		---- 5. 系统日志
+		 			-- 配置文件 		>>	/etc/rsyslog.conf
+		 			-- 日志位置 		>>	/var/log/*
+		 			-- 日志分析软件 	>>	watch
+		 	16. FTP服务器
+		 		---- 1. 基本概念
+		 		---- 2. FTP客户端工具（windows）
+		 		---- 3. sftp
+		 			-- ssh的子系统（安全性高、但是速度慢）
+		 			-- 用filezilla软件sftp方式连接
+
+		 		---- 4. vsftpd
+		 			-- yum install vsftpd
+		 			-- 作成服务
+		 				systemctl enable vsftpd
+		 				systemctl start vsftpd
+		 			-- 配置用户
+		 				cd /etc/vsftpd/
+		 				vim ftpusers
+		 					root > #root
+		 				vim user_list
+		 	 				root > #root			
+		 	 			systemctl restart vsftpd
+
+
+		 	 			systemctl stop firewalld
+		 	 			setenforce 0
+
+		 		---- 5. ftp命令 
+
+		 	17. Apache 
+		 		---- 安装
+		 			yum install httpd
+
+		 		---- 基本配置
+		 			端口： 			>> 	80
+		 			配置文件 		>> 	/etc/httpd
+		 			文档根目录 		>> 	/var/www/html/
+		 			日志文件			>> 	access.log    error.log
+
+		 			http://39.98.59.77/test.html     #html文件在/var/www/html/
+
+		 			tail -f access.log
+		 		---- 改端口
+		 			cd /etc/httpd/conf
+
+					#
+					#Listen 12.34.56.78:80
+					Listen 80        >  改成81
+
+			18. JAVA
+				- 安装
+					下载：https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+					- yum localinstall jdk-13_linux-x64_bin.rpm
+					- 默认路径： /usr/java/jdk-13
+
+				- 安装 java18
+					- yum install java-18
+					- vim /etc/profile
+					"""
+					JAVA_HOME=/usr/lib/jvm/jre-18-openjdk-18.0.1.0.10-2.rolling.el7.x86_64
+					PATH=$JAVA_HOME/bin:$PATH
+					export JAVA_HOME PATH
+					"""
+					- source /etc/profile
+
+
+
+
+				- 配置环境变量
+					- 全局变量
+						vim /etc/profile
+
+						"""
+						JAVA_HOME=/usr/java/jdk-13
+						PATH=$JAVA_HOME/bin:$PATH
+
+						export JAVA_HOME PATH
+						"""
+
+					- source /etc/profile
+
+			18. TOMCAT
+				- 下载url :https://tomcat.apache.org/download-90.cgi
+				- 解压：tar xzvf apache-tomcat-9.0.26.tar.gz
+				- 启动
+					cd apache-tomcat-9.0.26/bin
+					./startup.sh
+				- firewall设置
+					firewall-cmd --zone=public --add-port=8080/tcp --permanent
+					firewall-cmd --reload
+				- 查看
+					http://10.101.1.81:8080/
+					netstat -an |grep 8080
+
+				- 停止
+					./shutdown.sh
+				- 安装服务
+					cd /usr/lib/systemd/system  #service文件路径
+					touch tomcatd.service
+					vim tomcatd.service
+						"""
+						[Unit]
+						Description=Tomcat
+						After=syslog.target network.target remote-fs.target nss-lookup.target
+
+						[Service]
+						Type=forking
+
+						Environment="JAVA_HOME=/usr/java/jdk-13"
+
+						PIDFile=/opt/app/apache-tomcat-9.0.26/tomcat.pid
+
+						ExecStart=/opt/app/apache-tomcat-9.0.26/bin/startup.sh
+						ExecReload=/bin/kill -s HUP $MAINPID
+						#ExecStop=/bin/kill -s QUIT $MAINPID
+						ExecStop=/opt/app/apache-tomcat-9.0.26/bin/shutdown.sh
+						PrivateTmp=true
+
+						[Install]
+						WantedBy=multi-user.target
+						"""
+					systemctl start tomcatd.service
+
+
+		 	17.1 Nginx
+		 		-- 安装
+		 			yum install epel-release 
+			 		yum install nginx -y
+			 		cd /usr/lib/systemd/system
+			 		ls -al |grep nginx
+
+
+		 		-- 配置文件：
+		 			cd /etc/nginx/                > nginx.conf
+		 			  ** /usr/share/nginx/html;
+
+
+
+		 		-- 配置实例：
+		 			[root@mm nginx]# vim nginx.conf
+		 			        location /t {
+					            proxy_pass http://39.98.59.77/test.html;
+					        }
+					systemctl start nginx
+
+		 		-- 5. 补充
+		 	17.2 PHP
+
+				
+
+			
+
+
+[hoodop]..
+			0) Linux 常用命令
+				1. 软件操作
+					- 安装软件：yum install ***
+					- 卸载软件：yum remove ***
+					- 搜索软件：yum search ***
+					- 清理缓存：yum clean packages
+					- 列出已安装：yum list
+						-[ti@localhost ~]$ yum list |grep firewalld
+					- 软件包信息：yum info vim-common
+
+				2. 硬件资源信息
+					- 内存： free -m
+					- 硬盘： df -h
+					- 负载： w （最近1,5,15分钟负载）
+					- 负载： top
+					- cpu：cat /proc/cpuinfo
+
+				3. 文件目录
+					- 根目录： /
+					- 家目录： /home
+					- 临时目录： /tmp
+					- 配置目录： /etc
+					- 用户程序目录： /usr
+
+				4. 文件操作基本命令
+					- 查看目录下文件： ls
+						- ll = ls -al
+					- 新建文件： touch filename
+						- touch imooc
+						- touch imooc.log
+					- 新建文件夹： mkdir
+						- mkdir -p imooc/t1/t2/t3
+					- 删除文件和目录： rm (rm -rf filename)
+					- 复制： cp
+						- [root@localhost tmp]# cp ./imooc.log /tian
+					- 移动： mv
+						- [root@localhost tian]# mv /tian/imooc.log /tmp
+					- 显示路径： pwd
+
+				5. vim
+					- http://www.runoob.com/linux/linux-vim.html
+					- 显示行数： :set number
+					- G → 移动到这个档案的最后一行(常用)
+					- gg →  移动到这个档案的第一行，相当于 1G 啊！ (常用)
+					- /word →  	向光标之下寻找一个名称为 word 的字符串。例如要在档案内搜寻 vbird 这个字符串，就输入 /vbird 即可！ (常用)
+					- ?word →  	向光标之上寻找一个字符串名称为 word 的字符串。
+					- :n1,n2s/word1/word2/g →  	n1 与 n2 为数字。在第 n1 与 n2 行之间寻找 word1 这个字符串，并将该字符串取代为 word2 ！
+							例→  :1,60s/word/str/g    
+					- :1,$s/word1/word2/gc →  	从第一行到最后一行寻找 word1 字符串，并将该字符串取代为 word2 ！且在取代前显示提示字符给用户确认 (confirm) 是否需要取代！(常用)
+
+				8. 解压缩
+
+					- tar -cf imooc.tar imooc  # 压缩
+					- tar -tf imooc.tar   # 查看
+					- tar -tvf imooc.tar  # 查看详细信息
+					- tar -xf imooc.tar   # 解压缩
+
+					- tar -czvf imooc.tar.gz imooc   # 压缩为gz文件
+					- tar -tzvf imooc.tar.gz   #查看
+					- tar -xzvf imooc.tar.gz   # 解压缩
+
+					- 解压至目标文件夹：
+						[ti@localhost soft]$ tar -zxvf jdk-8u181-linux-x64.tar.gz -C ~/app/
+
+				9. 系统用户操作
+					- 添加用户： useradd
+						- useradd ti
+					- 删除用户： userdel
+						- userdel -r ti
+					- 设置密码： passwd
+						- passwd ti (密码输入)
+
+				10. 防火墙设置
+					- 设置防火墙规则：开放80,22端口
+					- 关闭防火墙
+					- 安装： yum install firewalld  (CentOS7默认安装好的)
+					- 确认防火墙已安装好
+						[ti@localhost ~]$ yum list |grep firewalld
+					- 确认服务已启动
+						[ti@localhost ~]$ ps -ef |grep firewalld
+					- 启动： service firewalld start
+					- 检查状态 service firewalld status
+					- 关闭或禁用： service firewalld stop
+					- 关闭开机启动：systemctl disable firewalld.service
+					- systemctl is-enabled firewalld.service
+
+					- firewall-cmd
+						- 查看版本：[root@localhost ~]# firewall-cmd --version
+						- 是否在运行：[root@localhost ~]# firewall-cmd --state
+						- 查看区域：[root@localhost ~]# firewall-cmd --get-zones
+									[root@localhost ~]# firewall-cmd --list-all-zone
+						- 端口：
+							- 查看： [root@localhost ~]# firewall-cmd --query-port=22/tcp
+							- 添加： [root@localhost ~]# firewall-cmd --add-port=22/tcp
+									[root@localhost ~]# firewall-cmd --add-service=ssh
+
+				11. 提权
+					- [root@localhost home]# visudo  （root状态）
+						## Allows people in group wheel to run all commands
+						%wheel  ALL=(ALL)       ALL
+						%imooc  ALL=(ALL)       ALL
+						%ti     ALL=(ALL)       ALL
+						%mmc  ALL=(ALL)       ALL
+
+				12. 文件上传、下载
+					- wget
+						wget http://www.baidu.com
+					- curl
+						[imooc@localhost tmp]$ curl -o baidu.html  http://baidu.com
+
+					- scp
+
+				95. Anaconda
+					- 版本：Anaconda3-4.4.0-Linux-x86_64.sh
+
+					- sudo yum -y install zlib-devel bzip2-devel openssl-devel ncurses-devel sqlite-devel readline-devel tk-devel gdbm-devel db4-devel libpcap-devel xz-devel
+
+					- vim ~/.bash_profile
+						export PATH=/home/hadoop/anaconda3/bin:$PATH
+
+						export SPARK_HOME=/home/hadoop/app/spark-2.3.0-bin-2.6.0-cdh5.7.0
+						export PATH=$SPARK_HOME/bin:$PATH
+						export PYSPARK_PYTHON=python3.6
+
+					- spark-conf配置（[hadoop@hadoop000 conf]$ vim spark-env.sh）
+						#!/usr/bin/env bash
+						export PYSPARK_PYTHON=/home/hadoop/anaconda3/bin/python3
+						SPARK_LOCAL_IP=127.0.0.1
+
+					- sudo yum -y install epel-release
+					- sudo yum -y install python-pip3
+					- pip install --upgrade pip
+
+					- pip install findspark
+
+					- spyder 设置
+						最终成的配置方法如下：1.安装好JDK SPARK并设置环境变量。
+						2.安装号spyder
+						3.启动spyder
+						在 tools ==> pythonpath manager 中加入如下2个路径
+						/opt/spark/python
+						/opt/spark/python/lib
+						将/opt/spark 替换成自己的spark实际安装目录
+						4.在SPARK_HOME/python/lib 下会有一个类似py4j-0.9-src.zip的压缩文件
+						将其解压到当前目录下（SPARK_HOME/python/lib），否则会报错 找不到py4j
+						重启spyder后就可以正常使用了。
+							unzip
+
+					- 重启
+
+					- easy_install -U pip
+					- python -m pip uninstall pip setuptools
+					
+
+				95. cat
+					- cat sales.csv |head -5
+					- cat sales.csv |tail -5
+
+
+				96. python virtualenvwrapper
+					0. 参考url 
+						https://www.cnblogs.com/hester/p/12369522.html
+					
+
+
+
+
+					5. 使用virtualenvwrapper（进阶）
+
+				97. hadoop用户操作赋权
+						sudo chown -R hadoop:hadoop /home/hadoop
+						sudo chown -R ti:ti /home/ti
+
+
+				98. Apache
+			    - 下载方法：链接+后缀 tar.gz   http://archive.cloudera.com/cdh5/cdh/5/hbase-0.98.6-cdh5.3.0.tar.gz
+				- hadoop-2.5.0
+				- hbase-0.98.6-cdh5.3.0.tar.gz
+				- zookeeper-3.4.5-cdh5.10.0.tar.gz
+
+				99. 其他常用命令
+					- 切换用户 sudo su
+					- 访问文件最后几行：[root@localhost logs]# tail -f access_log 
+
+					- wc计算功能
+						- 读取制定文本的函数： [root@localhost tian]# grep -n "76" imooc.log
+							11:76
+							22:76
+						- 计算行数： [root@localhost tian]# cat imooc.log |wc -l
+						- 计算某个文本个数： 
+							[root@localhost tian]# grep "76" imooc.log |wc -l
+							[root@localhost tian]# grep "2018-08-14" imooc.log |wc -l
+						- 显示某个文本：
+							[root@localhost tian]# grep "76" imooc.log |more
+
+
+
+
+
+					998. 赋予普通账户root权限
+						- chmod 777 /etc/sudoers
+						- 修改上述文件
+							## Allow root to run any commands anywhere 
+							root    ALL=(ALL)       ALL
+							hadoop  ALL=(ALL)       ALL
+							ti  ALL=(ALL)       ALL
+
+
+					999. 修改主机名
+						https://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_linux_043_hostname.html
+
+						1. 查看主机名：hostnamectl
+						2. 修改主机名：1	3. hosts修改：
+							- [root@localhost ~]# vim /etc/hosts
+							- 127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4 hadoop11
+
+							https://jingyan.baidu.com/article/0964eca24fea938284f53669.html
+							https://www.linuxidc.com/Linux/2016-10/135886.htm
+
+							1. 查看主机名：hostnamectl
+							2. 修改主机名：hostnamectl set-hostname hadoop000
+							/etc/hosts
+							192.168.0.107   hadoop000
+
+			1）安装（省略）
+
+			2）初始准备工作 start 
+				1.查看IP
+					ifconfig(开始时无法用)
+					ip addr  →ens33
+					su root
+					vi /etc/sysconfig/network-scripts/ifcfg-ens33
+						注：ONBOOT=no 改为 yes  （esc :wq)
+					
+					ip addr
+					service network restart(systemctl restart network)
+					->> centos8 nmcli c reload
+
+
+					yum install net-tools -y
+					yum install vim -y
+					yum install wget -y
+
+					→ 可以使用 ifconfig
+
+				2.替换默认源
+					http://mirrors.163.com/.help/centos.html
+					（http://mirrors.163.com/.help/CentOS7-Base-163.repo）
+
+					1.	yum install wget
+						cd /etc/yum.repos.d/
+						wget http://mirrors.163.com/.help/CentOS7-Base-163.repo
+
+					2.查看版本
+						cat /etc/redhat-release
+					3.
+						mv /etc/yum.repos.d/CentOS-Base.repo /etc/yum.repos.d/CentOS-Base.repo.backup
+						cd /etc/yum.repos.d/
+
+					4.
+						yum clean all
+						yum makecache
+					5. ls查看（163.repo）
+
+				3.安装vim
+					yum install vim
+
+			3）远程连接SHH
+
+				1. 安装SSH
+					1. 安装：yum install openssh-server
+					2. 启动：service sshd start
+					3. 设置开机运行：chkconfig sshd on
+								systemctl enable sshd.service
+				
+				2. Xshell远程登录
+					ssh root@192.168.0.101
+
+				3. 启动sshservice
+					/bin/systemctl start sshd.service
+
+				4. 查看ssh进程
+					ps -ef |grep ssh
+
+				-. ping测试ip是否对
+					ping 192.168.0.***
+					ctl+c 退出当前命令
+
+				5. SSH config （字符串代替IP地址登录）
+					1. root家目录中 touch config
+					2. config设置“imooc”登录
+						vim config
+							host "imooc"
+							    HostName 192.168.0.101
+							    User root
+							    Port 22
+					3. ssh imooc
+
+				6. SSH name登录
+					1. [root@localhost .ssh]# ssh-keygen （名称例：imooc_rsa）			回车-回车
+					2. [root@localhost .ssh]# touch authorized_keys
+					3. cat
+
+			4) WebServer安装、配置
+				1. Appache安装
+					- 安装： yum install httpd
+					- 启动： service httpd start
+					- 停止： service httpd stop
+					- 查看进程： [imooc@localhost tmp]$ ps -ef |grep httpd
+
+					- 浏览器输入ip： 192.168.0.101 （因为防火墙，无法显示网页）
+					- [imooc@localhost tmp]$ sudo netstat -anpl |grep 'http'
+
+				2. Apache的虚拟主机配置及伪静态操作
+					- hosts文件修改：192.168.0.101 www.imooc.test
+						- windows路径 ：C:\Windows\System32\drivers\etc
+								192.168.0.101  www.imooc.test
+								192.168.0.102  www.imooc.test
+								192.168.0.103  www.imooc.test
+								192.168.0.104  www.imooc.test
+								192.168.0.105  www.imooc.test
+								192.168.0.106  www.imooc.test
+								192.168.0.107  www.imooc.test
+								192.168.0.108  www.imooc.test
+								192.168.0.109  www.imooc.test
+								192.168.0.110  www.imooc.test
+						- linux路径： [imooc@localhost www]$ sudo vim /etc/hosts
+
+					- 修改httpd.conf文件
+						-[ti@localhost conf]$ sudo vim /etc/httpd/conf/httpd.conf 
+							# virtual host being defined.
+							#
+							<VirtualHost *:80>
+							        ServerName www.imooc.test
+							        DocumentRoot /data/www
+							</VirtualHost>
+					- 重启：[imooc@localhost conf]$ sudo service httpd restart
+					- 新建/data/www 
+					- 权限更改：
+						[imooc@localhost www]$ sudo chown -R imooc:imooc /data
+					- 新建测试html文件： vim index.html
+
+				3. Nginx安装
+					- 安装：
+						1. rpm -Uvh http://nginx.org/packages/centos/7/noarch/RPMS/nginx-release-centos-7-0.el7.ngx.noarch.rpm
+
+						2. yum install nginx
+					- 启动： service nginx start
+					- 停止： service nginx stop
+					- 重载： service nginx reload
+					- 查看进程： [imooc@localhost tmp]$ ps -ef |grep nginx
+					- 开机启动： [root@hadoop000 ~]# systemctl enable nginx.service
+
+					[root@mm etc]#  /etc/init.d/nginx start
+
+
+
+					- 配置虚拟主机：
+						- [imooc@localhost conf.d]$ sudo cp default.conf  imooc.conf
+
+								server {
+								    listen       80;
+								    server_name  www.tian.test;
+								    root /data/www;
+								    index  index.html index.htm; 
+								} 
+			 
+					- 192.168.0.108浏览器页面内容设置 
+						[imooc@localhost conf.d]$ sudo vim /usr/share/ng inx/html/index.html 
+			 
+			5）mysql 
+				1. 安装 
+					1. 卸载 yum remove mariadb-libs.x86_64
+
+					2. 下载 wget https://dev.mysql.com/get/mysql57-community-release-el7-11.noarch.rpm
+
+					3. 本地安装：yum localinstall mysql57-community-release-el7-11.noarch.rpm 
+
+					4. 安装：sudo yum install mysql-community-server
+
+			 			配置文件 		>> 	cat /etc/my.cnf
+			 			数据库主目录 		>>	/var/lib/mysql
+			 			日志文件 		>> 	/var/log/mysqld.log
+
+					5. 启动：systemctl restart mysqld (sudo service mysqld restart)
+
+					6. 获取密码：cat /var/log/mysqld.log |grep password
+						!%Wr#aj4C?d<
+
+					7. [root@localhost tmp]# mysql -uroot -p
+
+				3. use mysql
+					所以你更改密码必须满足：数字、小写字母、大写字母 、特殊字符、长度至少8位
+
+					#mysql> use mysql;
+					mysql> alter  user 'root'@'localhost' identified by '#mmc2014MMC';
+					mysql> flush privileges;	  #刷新
+
+				3. 重置密码
+					1. 免密登录
+						https://blog.csdn.net/qq_28347599/article/details/71915209
+					2. 修改密码
+					mysql> update mysql.user set authentication_string=PASSWORD('123456') where user='root';
+					
+					flush privileges;
+
+					远程root登录
+					update user set host='%' where user='root';
+					flush privileges;
+
+					或者：
+					myssqladmin -u用户名 -p旧密码 password 新密码
+
+				
+				4. 设置简单密码
+					set global validate_password_policy=0;
+					set global validate_password_length=1;
+					SET PASSWORD = PASSWORD('123456');   //123456 是重置的新密码
+					flush privileges;
+
+
+				4.1 重设密码（有效！！）
+					1.  vi /etc/my.cnf，在[mysqld]中添加
+
+					skip-grant-tables
+
+					例如：
+
+					[mysqld]
+					skip-grant-tables
+					datadir=/var/lib/mysql
+					socket=/var/lib/mysql/mysql.sock
+
+					2.  重启mysql
+
+					service mysql restart
+
+					3.  使用用户无密码登录
+
+					mysql -uroot -p (直接点击回车，密码为空)
+
+					4. 选择数据库
+
+					use mysql;
+
+					5. 修改root密码
+
+					update user set authentication_string=password('123456') where user='root';
+
+					6 .刷新权限
+
+					 flush privileges;
+
+					7 .退出
+
+					exit;
+
+					8 .删除第1部增加的配置信息
+
+					skip-grant-tables
+
+					9 .重启mysql
+
+					service mysql restart
+
+
+
+
+
+
+
+
+				5. 远程登录
+					mysql -h39.98.59.77 -uroot -p
+						Enter password:
+						ERROR 1130 (HY000): Host '39.98.59.77' is not allowed to connect to this MySQL server
+					mysql -uroot -p
+					mysql> use mysql;
+					mysql> update user set host='%' where user='root';
+					mysql> flush privileges;
+
+					firewall-cmd --zone=public --add-port=3306/tcp --permanent
+					firewall-cmd --reload
+
+
+
+
+				6. 新建用户
+					什么都没有的数据库
+					- mysql> create user 'imooc'@'%' identified by '123456';
+
+					赋予权限
+					- grant all privileges on *.* to 'imooc'@'%' identified by '123456' with grant option;
+					- [hadoop@hadoop000 ~]$ sudo chown -R hadoop:hadoop /home/hadoop/app/hadoop-2.6.0-cdh5.7.0/logs
+
+				7. 允许root用户在任何地方进行远程登录，并具有所有库任何操作权限，
+
+					具体操作如下：
+
+					在本机先使用root用户登录mysql： mysql -u root -p"youpassword" 进行授权操作：
+
+					mysql>GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY 'mmc_999' WITH GRANT OPTION;
+
+					重载授权表：
+
+					FLUSH PRIVILEGES;
+
+					退出mysql数据库：
+
+					exit
+
+			6) hadoop为分布式安装
+				1. java安装
+					1. 解压：[imooc@localhost software]$ sudo tar -zxvf jdk-8u181-linux-x64.tar.gz -C ~/app/
+
+						[hadoop@hadoop000 jdk1.8.0_181]$ pwd
+						/home/hadoop/app/jdk1.8.0_181
+
+
+					2. 环境变量设置添加
+						[hadoop@hadoop000 ~]$ vim ~/.bash_profile 
+
+						添加路径：
+							export JAVA_HOME=/home/hadoop/app/jdk1.8.0_181
+							export PATH=$JAVA_HOME/bin:$PATH
+
+
+					3. 使得环境变量生效
+						[hadoop@hadoop000 ~]$ source ~/.bash_profile
+
+					4. 检查配置成功与否
+						[ti@localhost ~]$ echo $JAVA_HOME
+						/home/imooc/app/jdk1.8.0_181
+					5. 查询java版本
+						java -v
+
+				2. ssh安装
+					1. yum安装
+						sudo yum install ssh
+
+					2. 免密登录
+						ssh-keygen -t rsa
+						生成：
+						Enter file in which to save the key (/home/imooc/.ssh/id_rsa): 
+						[hadoop@hadoop000 .ssh]$ cp ~/.ssh/id_rsa.pub ~/.ssh/authorized_keys
+
+					3. 验证
+						ssh localhost
+						ssh hadoop000
+
+
+				3. hadoop安装 
+					0. 网址参考
+						http://archive.cloudera.com/cdh5/cdh/5/hadoop-2.6.0-cdh5.7.6/hadoop-project-dist/hadoop-common/SingleCluster.html
+					1. 解压
+						sudo tar -zxvf hadoop-2.6.0-cdh5.7.0.tar.gz -C ~/app/
+								/home/hadoop/app/
+
+
+					2. 配置文件修改 hadoop-env.sh（etc/hadoop
+						[imooc@localhost hadoop]$ sudo vim hadoop-env.sh
+
+						export JAVA_HOME=/home/hadoop/app/jdk1.8.0_181
+
+					3. etc/hadoop/core-site.xml:
+						[imooc@localhost hadoop]$ sudo vim core-site.xml 
+
+						<configuration>
+							<property>
+							    <name>fs.defaultFS</name>
+							    <value>hdfs://localhost:8020</value>
+							</property>
+
+							<property>
+							    <name>hadoop.tmp.dir</name>
+							    <value>/home/hadoop/app/tmp</value>
+							</property>
+						</configuration>
+
+					4. etc/hadoop/hdfs-site.xml:
+						[imooc@localhost hadoop]$ sudo vim hdfs-site.xml 
+
+
+						<configuration>
+						    <property>
+						        <name>dfs.replication</name>
+						        <value>1</value>
+						    </property>
+						    <property>
+						        <name>dfs.permissions.enabled</name>
+						        <value>false</value>
+						    </property>
+						</configuration>
+
+
+					5. slaves
+						配置dataNode
+
+					5.1 /etc/hosts
+						127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4 hadoop000
+						::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+						192.168.0.101 hadoop000
+						192.168.0.102 hadoop000
+						192.168.0.103 hadoop000
+						192.168.0.104 hadoop000
+						192.168.0.105 hadoop000
+						192.168.0.106 hadoop000
+						192.168.0.107 hadoop000
+						192.168.0.108 hadoop000
+						192.168.0.109 hadoop000
+
+						10.101.1.48     hadoop000
+						10.101.1.36     hadoop000
+						10.101.1.109    hadoop000
+						10.101.1.91    hadoop000
+
+
+					5.2 native
+						https://blog.csdn.net/jack85986370/article/details/51902871
+
+						sudo tar -xvf hadoop-native-64-2.6.0.tar -C /home/hadoop/app/hadoop-2.6.0-cdh5.7.0/lib/native
+						sudo tar -xvf hadoop-native-64-2.6.0.tar -C /home/hadoop/app/hadoop-2.6.0-cdh5.7.0/lib/
+
+						[hadoop@hadoop000 etc]$ sudo vi /etc/profile
+						export HADOOP_COMMON_LIB_NATIVE_DIR=$HADOOP_HOME/lib/native
+						export HADOOP_OPTS="-Djava.library.path=$HADOOP_HOME/lib"
+
+						export HADOOP_COMMON_LIB_NATIVE_DIR=$HADOOP_HOME/lib/native
+						export HADOOP_HOME=/home/hadoop/app/hadoop-2.6.0-cdh5.7.0
+
+						export HADOOP_OPTS="-Djava.library.path=$HADOOP_HOME/lib:$HADOOP_COMMON_LIB_NATIVE_DIR"
+
+						生效：
+						source /etc/profile
+
+
+					6. 启动hdfs
+						1. 格式化文件系统（仅第一次执行即可）
+							sudo chown -R hadoop:hadoop /home/hadoop/app/tmp   # tmp文件夹权限设置
+
+							[hadoop@hadoop000 bin]$ ./hdfs namenode -format
+
+						2. 启动
+							[imooc@localhost sbin]$ ./start-dfs.sh 
+
+						3. 创建、修改logs文件权限
+							[hadoop@localhost hadoop-2.5.0-cdh5.3.0]$ sudo mkdir logs
+							[hadoop@hadoop000 ~]$ sudo chown -R hadoop:hadoop /home/hadoop/app/hadoop-2.6.0-cdh5.7.0/logs
+
+						4. http://hadoop000:50070
+
+						5. 格式化后datanode无法启动问题：
+							https://jingyan.baidu.com/article/3c343ff7e75e9e0d36796347.html
+
+			7) HDFS shell操作
+				- ls、mkdir、put、get、rm、
+
+				- 配置HADOOP_HOME
+					vi ~/.bash_profile
+
+					export HADOOP_HOME=/home/hadoop/app/hadoop-2.6.0-cdh5.7.0
+					export PATH=$HADOOP_HOME/bin:$PATH
+
+
+					source ~/.bash_profile
+
+					[hadoop@localhost bin]$ echo $HADOOP_HOME
+
+				- 
+					[hadoop@localhost data]$ vi hello.txt
+					[hadoop@localhost data]$ hadoop fs -ls /
+					[hadoop@localhost data]$ hadoop fs -put helle.txt  /
+
+					[hadoop@localhost data]$ hadoop fs -ls /
+
+					put复制文件
+					hadoop fs -put helle.txt /h1.txt
+
+					查看hdfs文件内容：
+					hadoop fs -text /helle.txt
+					hadoop fs -tail /Hamlet.txt
+
+				
+					创建hdfs目录：
+					hadoop fs -mkdir /test
+
+					创建递归目录：
+					hadoop fs -mkdir -p /test1/a/b/c
+
+					递归展示：
+					hadoop fs -lsr /
+					hadoop fs -ls -R /
+
+					copyFromLocal：
+					hadoop fs -copyFromLocal helle.txt /test1/a
+					hadoop fs -copyFromLocal helle.txt /test1/h.txt
+
+					get复制：
+					hadoop fs -get /test1/h.txt 
+
+					删除文件：
+					hadoop fs -rm /test1/a/helle.txt
+
+					删除文件夹：
+					hadoop fs -rm -R /test
+
+					浏览器查看:
+					http://192.168.0.109:50070
+
+					随机返回指定行数的样本数据 
+					hadoop fs -cat /test/gonganbu/scene_analysis_suggestion/* | shuf -n 5
+
+					返回前几行的样本数据 
+					hadoop fs -cat /test/gonganbu/scene_analysis_suggestion/* | head -100
+
+					返回最后几行的样本数据 
+					hadoop fs -cat /test/gonganbu/scene_analysis_suggestion/* | tail -5
+
+					查看文本行数 
+					hadoop fs -cat hdfs://172.16.0.226:8020/test/sys_dict/sysdict_case_type.csv |wc -l
+
+					查看文件大小(单位byte) 
+					hadoop fs -du hdfs://172.16.0.226:8020/test/sys_dict/*
+
+					hadoop fs -count hdfs://172.16.0.226:8020/test/sys_dict/*
+
+					---------------------
+
+					本文来自 Ronney-Hua 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/github_38358734/article/details/79272521?utm_source=copy 
+
+					修改权限：
+					
+			9) yarn
+				1. 不同的计算框架可以共享同一个HDFS集群上的数据，享受整体的资源调度
+					XXX on YARN
+				2. YARN环境搭建
+					1- sudo vim mapred-site.xml (etc/hadoop目录中，先复制 cp 文件， 文件)
+					    <property>
+					        <name>mapreduce.framework.name</name>
+					        <value>yarn</value>
+					    </property>
+					2- sudo vim yarn-site.xml
+			    <property>
+			        <name>yarn.nodemanager.aux-services</name>
+			        <value>mapreduce_shuffle</value>
+			    </property>
+
+					3- 启动
+						$ sbin/start-yarn.sh
+
+					4- 验证：
+						jps
+							1617 DataNode
+							6020 NodeManager
+							1770 SecondaryNameNode
+							5930 ResourceManager
+							1500 NameNode
+							6316 Jps
+
+						ResourceManager - http://hadoop11:8088/
+					5- Run a MapReduce job.
+					6- stop the daemons with: sbin/stop-yarn.sh (虚拟机关机前停止)
+
+				3. 初识提交PI的MapReduce作业到YARN上执行
+					a. 案例路径：/home/hadoop/app/hadoop-2.6.0-cdh5.7.0/share/hadoop/mapreduce
+					   包名：hadoop-mapreduce-examples-2.6.0-cdh5.7.0.jar
+
+					b. hadoop jar 运行：
+						- hadoop jar hadoop-mapreduce-examples-2.6.0-cdh5.7.0.jar pi 2 3  
+							参数：Usage: org.apache.hadoop.examples.QuasiMonteCarlo <nMaps> <nSamples>
+
+						- http://localhost:8088
+
+						- 正式项目中 jar 是自己开发的 
+
+				99. 启动HDFS
+					a. vim /etc/hosts
+					b. hosts
+						10.101.1.48	localhost
+					c. ./stop-all.sh
+					d. ./start-dfs.sh
+					e. jps或http://localhost:50070
+					f. sbin/start-yarn.sh      验证：http://hadoop000:8088/
+
+			10)PySpark(pk)
+				0. 资料：
+					1）官网 https://spark.apache.org
+					2）源码 https://github.com/apache/spark/
+				1. 环境安装
+					1) jdk
+					2) scala
+						- 安装：[hadoop@hadoop000 softwear]$ tar -zxvf scala-2.11.8.tgz -C ~/app/
+						- [hadoop@hadoop000 scala-2.11.8]$ vim ~/.bash_profile
+
+								export SCALA_HOME=/home/hadoop/app/scala-2.11.8
+								export PATH=$SCALA_HOME/bin:$PATH
+						- source ~/.bash_profile
+
+					3) hadoop
+						- 安装
+						- vim ~/.bash_profile
+								export HADOOP_HOME=/home/hadoop/app/hadoop-2.6.0-cdh5.7.0
+								export PATH=$HADOOP_HOME/bin:$PATH
+
+
+						- [hadoop@hadoop000 hadoop]$ vim hadoop-env.sh
+
+								# export JAVA_HOME=${JAVA_HOME}
+								export JAVA_HOME=/home/hadoop/app/jdk1.8.0_181
+
+						- [hadoop@hadoop000 hadoop]$ vim core-site.xml 
+							    <property>
+							        <name>fs.default.name</name>
+							        <value>hdfs://hadoop000:8020</value>
+							    </property>
+
+
+						- [hadoop@hadoop000 hadoop]$ vim hdfs-site.xml 
+								<property>
+								    <name>dfs.namenode.name.dir</name>
+								    <value>/home/hadoop/app/tmp/dfs/name</value>
+								</property>
+
+								<property>
+								    <name>dfs.datanode.data.dir</name>
+								    <value>/home/hadoop/app/tmp/dfs/data</value>
+								</property>
+
+								<property>
+								    <name>dfs.replication</name>
+								    <value>1</value>
+								</property>
+						- [hadoop@hadoop000 hadoop]$ cp mapred-site.xml.template mapred-site.xml
+						  [hadoop@hadoop000 hadoop]$ vim mapred-site.xml
+
+								<property>
+								    <name>mapreduce.framework.name</name>
+								    <value>yarn</value>
+								</property>
+
+			            - [hadoop@hadoop000 hadoop]$ vim yarn-site.xml 
+				<property>
+			        <name>yarn.nodemanager.aux-services</name>
+			        <value>mapreduce_shuffle</value>
+			    </property>
+
+						- [hadoop@hadoop000 hadoop]$ vim slaves 
+								主机名
+
+
+						- 格式化：[hadoop@hadoop000 bin]$ ./hdfs namenode -format
+
+						- 启动：[hadoop@hadoop000 sbin]$ ./start-dfs.sh
+
+						- 使用dfs：
+								[hadoop@hadoop000 sbin]$ hadoop fs -ls /
+								[hadoop@hadoop000 sbin]$ hadoop fs -mkdir /test
+								[hadoop@hadoop000 hadoop-2.6.0-cdh5.7.0]$ hadoop fs -put README.txt  /test/
+
+						- native（报错解除）
+								https://blog.csdn.net/jack85986370/article/details/51902871
+
+								sudo tar -xvf hadoop-native-64-2.6.0.tar -C /home/hadoop/app/hadoop-2.6.0-cdh5.7.0/lib/native
+								sudo tar -xvf hadoop-native-64-2.6.0.tar -C /home/hadoop/app/hadoop-2.6.0-cdh5.7.0/lib/
+
+								[hadoop@hadoop000 etc]$ sudo vi /etc/profile
+									export HADOOP_COMMON_LIB_NATIVE_DIR=$HADOOP_HOME/lib/native
+									export HADOOP_OPTS="-Djava.library.path=$HADOOP_HOME/lib"
+
+									export  HADOOP_COMMON_LIB_NATIVE_DIR=$HADOOP_HOME/lib/native
+									export  HADOOP_HOME=/home/hadoop/app/hadoop-2.6.0-cdh5.7.0
+
+									export  HADOOP_OPTS="-Djava.library.path=$HADOOP_HOME/lib:$HADOOP_COMMON_LIB_NATIVE_DIR"
+
+								生效：
+								source /etc/profile
+
+					4) maven
+						- 安装：tar -zxvf apache-maven-3.3.9-bin.tar.gz -C ~/app/
+						- vim ~/.bash_profile 
+								export MAVEN_HOME=/home/hadoop/app/apache-maven-3.3.9
+								export PATH=$MAVEN_HOME/bin:$PATH
+						- 
+								[hadoop@hadoop000 apache-maven-3.3.9]$ cd conf
+								[hadoop@hadoop000 conf]$ vim settings.xml 
+
+									[hadoop@hadoop000 ~]$ mkdir maven_repository
+										  <!-- localRepository
+										   | The path to the local repository maven will use to store artifacts.
+										   |
+										   | Default: ${user.home}/.m2/repository
+										  <localRepository>/path/to/local/repo</localRepository>
+										  -->
+										<localRepository>/home/hadoop/maven_repository</localRepository>
+
+									[hadoop@hadoop000 conf]$ mvn
+										[INFO] Scanning for projects...
+										[INFO] ------------------------------------------------------------------------
+										[INFO] BUILD FAILURE
+										[INFO] ------------------------------------------------------------------------
+										[INFO] Total time: 0.154 s
+										[INFO] Finished at: 2018-09-11T23:12:10+08:00
+										[INFO] Final Memory: 4M/29M
+
+					5) python
+						- 基础环境安装
+								gcc安装：[root@hadoop000 ~]# yum install gcc
+								gccc++安装：[root@hadoop000 ~]# yum install gcc-c++   
+
+						- 安装：
+								[hadoop@hadoop000 softwear]$ tar -zxvf Python-3.6.5.tgz   #解压到本地、准备编译安装
+						- 依赖包下载：
+								进入Python解压包：cd Python-3.6.5
+
+								sudo yum -y install zlib-devel bzip2-devel openssl-devel ncurses-devel sqlite-devel readline-devel tk-devel gdbm-devel db4-devel libpcap-devel xz-devel
+
+						- 编译：
+								[hadoop@hadoop000 app]$ mkdir python3    #创建路径包
+								/home/hadoop/app/python3    #编译路径
+								[hadoop@hadoop000 Python-3.6.5]$ ./configure --prefix=/home/hadoop/app/python3
+
+								[hadoop@hadoop000 Python-3.6.5]$ make && make install
+
+						- vim ~/.bash_profile:
+								export PATH=/home/hadoop/app/python3/bin:$PATH
+							source ~/.bash_profile
+
+						- 运行：python3
+						- 退出：quit();
+						- 版本检验：[hadoop@hadoop000 Python-3.6.5]$ python3 --version
+
+					6) spark
+						- 安装：
+							[hadoop@hadoop000 softwear]$ tar -zxvf spark-2.3.0.tgz   #本地解包
+
+						- pom.xml配置：
+							[hadoop@hadoop000 spark-2.3.0]$ vim pom.xml 
+							搜 <repositories>标签!!!! 之内添加
+								<repository>
+								<id>cloudera</id>
+								<name>cloudera Repository</name>
+								<url>https://repository.cloudera.com/artifactory/cloudera-repos/</url>
+								</repository>
+
+						- 编译：
+							[hadoop@hadoop000 spark-2.3.0]$ cd dev/
+						   ./dev/make-distribution.sh --name 2.6.0-cdh5.7.0 --tgz  -Pyarn -Phadoop-2.6 -Phive -Phive-thriftserver -Dhadoop.version=2.6.0-cdh5.7.0
+
+						- 解压tar包至app：tar -zxvf spark-2.3.0-bin-2.6.0-cdh5.7.0.tgz -C ~/app/
+						- 尝试启动：[hadoop@hadoop000 bin]$ ./spark-shell 
+						- 浏览器查看：http://hadoop000:4042/
+
+				2. spark启动
+					0.0) 设置默认启动python3
+							[hadoop@hadoop000 conf]$ cp spark-env.sh.template spark-env.sh
+
+							vim spark-env.sh
+								export PYSPARK_PYTHON=/home/hadoop/app/python3/bin/python3  
+								SPARK_LOCAL_IP=127.0.0.1
+
+					0.1) [hadoop@hadoop000 spark-2.3.0-bin-2.6.0-cdh5.7.0]$ vim ~/.bash_profile
+								export SPARK_HOME=/home/hadoop/app/spark-2.3.0-bin-2.6.0-cdh5.7.0
+								export PATH=$SPARK_HOME/bin:$PATH
+								export PYSPARK_PYTHON=python3.6
+
+			  
+
+					1) /home/hadoop/app/spark-2.3.0-bin-2.6.0-cdh5.7.0/python/pyspark
+
+					2) [hadoop@hadoop000 bin]$ ./pyspark 
+
+					3）>>> sc
+						<SparkContext master=local[*] appName=PySparkShell>
+
+					4）[hadoop@hadoop000 bin]$ ./pyspark --master local[4]
+
+				3. RDD
+					0） 两种方式
+							- Parallelized Collections
+							- External Datasets
+					1） RDD创建 （Parallelized Collections）
+						a. 启动：[hadoop@hadoop000 bin]$ ./pyspark --master local[2]
+
+						b. 集合转RDD：
+								>>> data = [1,2,3,4,5]
+								>>> distData=sc.parallelize(data)
+
+								>>> data
+								[1, 2, 3, 4, 5]
+								>>> distData
+								ParallelCollectionRDD[1] at parallelize at PythonRDD.scala:175
+
+						c. 输出
+								>>> distData.collect()
+
+						d. 计算,拆分数据
+								>>> distData.reduce(lambda a,b :a+b)
+								15      
+								>>> distData = sc.parallelize(data,5)	#分partition
+								** Typically you want 2-4 partitions for each CPU in your cluster.
+
+						e. External Datasets
+
+					2) 导入外部数据文件：
+						a. 本地文件读取
+								>>> sc.textFile("file:///home/hadoop/data/hello.txt").collect()
+
+						b. hdfs文件读取
+								>>> sc.textFile("hdfs://hadoop000:8020/hello.txt").collect()
+
+						c. 测试
+								>>> distFile = sc.textFile("hdfs://hadoop000:8020/hello.txt")
+								>>> distFile.collect()
+								['hello python', 'hello saprk', 'hello pyspark', 'helle python java html']
+								>>> distFile
+								hdfs://hadoop000:8020/hello.txt MapPartitionsRDD[5] at textFile at NativeMethodAccessorImpl.java:0
+								>>> distFile.map(lambda s:len(s)).reduce(lambda a,b:a+b)
+								58        
+						d. wholeTextFiles
+								>>> sc.wholeTextFiles("hdfs://hadoop000:8020/hello.txt").collect()
+								[('hdfs://hadoop000:8020/hello.txt', 'hello python\nhello saprk\nhello pyspark\nhelle python java html\n')]
+								## 以键值对的形式返回
+
+						e. Saving and Loading SequenceFiles
+								>>> rdd = sc.parallelize(range(1, 4)).map(lambda x: (x, "a" * x))
+								>>> rdd.saveAsSequenceFile("path/to/file")
+								>>> sorted(sc.sequenceFile("path/to/file").collect())
+								[(1, u'a'), (2, u'aa'), (3, u'aaa')]
+
+						f. 保存数据再测试
+								>>> data = [1,2,3,4,5]
+								>>> disData =sc.parallelize(data)
+								>>> disData.saveAsTextFile("/home/hadoop/data/output/")
+								[hadoop@hadoop000 output]$ cat part-0000*
+
+				4. pycharm
+					0) 网页参考：https://www.linuxidc.com/Linux/2018-04/152003.htm
+					1) 下载：wget https://download.jetbrains.com/python/pycharm-professional-2018.1.tar.gz
+					2) 解压：tar -zxvf
+					3) pip install pyspark
+					4) Environment Variables:
+								pycharm：先建立新的project，new directory，new python文件
+								右上角：hello，角标，Edit configurations
+								Environment Variables:
+								PYTHONPATH		/home/hadoop/app/spark-2.3.0-bin-2.6.0-cdh5.7.0/python
+								SPARK_HOME		/home/hadoop/app/spark-2.3.0-bin-2.6.0-cdh5.7.0
+					4.1) 启动   [hadoop@hadoop000 bin]$ ./pycharm.sh
+
+					5) Project Structure  +add content root
+								/home/hadoop/app/spark-2.3.0-bin-2.6.0-cdh5.7.0/python/lib
+									py4j-0.10.6-src.zip
+									pyspark.zip
+
+					6) 测试：
+								from pyspark import SparkConf, SparkContext
+
+								# 创建SparkConf：设置的是Spark相关的参数信息
+								conf = SparkConf().setMaster("local[2]").setAppName("spark0301")
+
+								# 创建SparkContext
+								sc = SparkContext(conf=conf)
+
+								# 业务逻辑
+								data = [1, 2, 3, 4, 5]
+								distData = sc.parallelize(data)
+								print(distData.collect())
+
+								# 好的习惯
+								sc.stop()
+
+					7) 提交pyspark作业到服务器上运行
+							a. 创建py脚本文件
+									根目录下 mkdir script
+									vi spark0301.py
+										from pyspark import SparkConf, SparkContext
+
+										# 创建SparkConf：设置的是Spark相关的参数信息
+										conf = SparkConf()
+
+										# 创建SparkContext
+										sc = SparkContext(conf=conf)
+
+										# 业务逻辑
+										data = [1, 2, 3, 4, 5]
+										distData = sc.parallelize(data)
+										print(distData.collect())
+
+										# 好的习惯
+										sc.stop()
+							b. 提交spar程序运行：./spark-submit
+									[hadoop@hadoop000 bin]$ ./spark-submit --master local[2] --name saprk0301 /home/hadoop/script/spark0301.py
+
+							c. 具体详见：
+									http://spark.apache.org/docs/latest/submitting-applications.html
+
+				5. RDD Operation   -------> transformation
+					0) a. transformations
+							create a new dataset from an existing one
+
+							RDDA -------transformation--------> RDDB
+
+							y=f(x)
+							rddb = rdda.map(....)
+
+							All transformations in Spark are lazy
+							rdda.map().filter().....
+
+							比如：map/filter/group by /distinct.....
+
+						b. action
+								which return a value to the driver program after running a computation on the dataset.
+
+								比如：count/reduce/collect....
+
+
+					1）map
+							 map(func)
+							 将func函数作用到数据集的每一个元素上，生成一个新的数据集并返回
+
+							from pyspark import SparkConf, SparkContext
+
+							if __name__ == '__main__':
+							    conf = SparkConf().setMaster("local[2]").setAppName("spark0401")
+							    sc = SparkContext(conf = conf)
+
+							    def my_map():
+							        data = [1,2,3,4,5]
+							        rdd1 = sc.parallelize(data)
+							        rdd2 = rdd1.map(lambda x: x*2)
+							        print(rdd2.collect())
+
+							    def my_map2():
+							        a = sc.parallelize(['dog','tiger','lion','cat'])
+							        b = a.map(lambda x:(x,1))
+							        print(b.collect())s
+
+							    my_map2()
+
+							    sc.stop()
+					2) filter:
+							    def my_filter():
+							        data = [1,2,3,4,5]
+							        rdd1 = sc.parallelize(data)
+							        mapRdd = rdd1.map(lambda x:x*2)
+							        filterRdd = mapRdd.filter(lambda x: x>5)
+							        print(filterRdd.collect())
+
+							        print(sc.parallelize(data).map(lambda x:x*2).filter(lambda x:x<5).collect())
+
+					3) faltMap:
+							    def my_flatMap():
+							        data = ['hello spark','hello world','hello world']
+							        rdd = sc.parallelize(data)
+							        print(rdd.flatMap(lambda line:line.split(' ')).collect())
+							        #output:['hello', 'spark', 'hello', 'world', 'hello', 'world']
+
+					4) groupByKey:
+							    def my_groupBy():
+							        data = ['hello spark','hello world','hello world']
+							        rdd = sc.parallelize(data)
+							        mapRdd = rdd.flatMap(lambda line:line.split(' ')).map(lambda x:(x,1))
+							        groupByRdd = mapRdd.groupByKey()
+							        print(mapRdd.collect())
+							        print(groupByRdd.collect())
+							        print(groupByRdd.map(lambda x:{x[0]:list(x[1])}).collect())
+					
+					5) reduceByKey:
+							    def my_reduceByKey():
+							        data = ['hello spark','hello world','hello world']
+							        rdd = sc.parallelize(data)
+							        mapRdd = rdd.flatMap(lambda line:line.split(' ')).map(lambda x:(x,1))
+							        reduceByKeyRdd = mapRdd.reduceByKey(lambda a,b: a+b).collect()
+							        print(reduceByKeyRdd)
+
+					6) sortByKey:
+							    def my_sortByKey():
+							        data = ['hello spark', 'hello world', 'hello world']
+							        rdd = sc.parallelize(data)
+							        mapRdd = rdd.flatMap(lambda line:line.split(' ')).map(lambda x:(x,1))
+							        reduceByKeyRdd = mapRdd.reduceByKey(lambda a,b:a+b)
+							        print(reduceByKeyRdd.map(lambda x: (x[1], x[0])).sortByKey(False).map(lambda x: (x[1], x[0])).collect())
+
+					7) union
+							    def my_union():
+							        a = sc.parallelize([1,2,3,4,5])
+							        b = sc.parallelize((100,200,300))
+							        print(a.union(b).collect())
+
+					8) distinct
+							    def my_distinct():
+							        a = sc.parallelize([1,2,3,4,5])
+							        b = sc.parallelize((1,3,4,6,7))
+							        print(a.union(b).distinct().collect())
+
+					9) join
+							a. join(内连接)
+								    def my_join():
+								        a = sc.parallelize([('A','a1'),('C','c1'),('D','d1'),('F','f1'),('F','f2')])
+								        b = sc.parallelize([('A','a2'),('C','c2'),('C','c3'),('E','e1')])
+								        print(a.join(b).collect())
+							b. a.leftOuterJoin(b).collect()
+									[('A', ('a1', 'a2')), ('F', ('f1', None)), ('F', ('f2', None)), ('C', ('c1', 'c2')), ('C', ('c1', 'c3')), ('D', ('d1', None))]
+
+							c. a.rightOuterJoin(b).collect()
+									[('A', ('a1', 'a2')), ('C', ('c1', 'c2')), ('C', ('c1', 'c3')), ('E', (None, 'e1'))]
+
+							d. a.fullOuterJoin(b).collect()
+									[('A', ('a1', 'a2')), ('F', ('f1', None)), ('F', ('f2', None)), ('C', ('c1', 'c2')), ('C', ('c1', 'c3')), ('D', ('d1', None)), ('E', (None, 'e1'))]
+
+				5. RDD Operation   -------> action
+					0) 主要项目：
+						- collect
+						- count
+						- take
+						- reduce
+						- saveAsTextFile
+						- foreach
+						-...
+					1) 用法
+						    def my_action():
+						        data = [1,2,3,4,5,6,7,8,9,10]
+						        rdd = sc.parallelize(data)
+						        rdd.collect()
+						        rdd.count()
+						        rdd.take(3)
+						        rdd.max()
+						        rdd.min()
+						        rdd.sum()
+						        rdd.reduce(lambda x,y:x+y)
+						        rdd.foreach(lambda x: print(x))
+						        rdd.saveAsTextFile("/home/hadoop/data/output1/")
+
+					2）实战（词频统计）
+							- 思路：
+								a. input 1-n文件、文件夹、后缀
+									hello spark
+									hello hadoop
+									hello welcome
+								b. 开发步骤
+									- 文本内容每一行转成单个单词 flatMap
+									- 单词--> （单词,1) map
+									- 单词计数相加 reduceByKey
+
+								c. file:///home/hadoop/data/hello.txt   	#spark0402 下角标 ---->  paramenters选项中填写路径
+
+								d. 词频统计pycharm代码：
+										from pyspark import SparkConf, SparkContext
+										import sys
+
+
+										if __name__ == '__main__':
+
+										    if len(sys.argv) !=2:
+										        print('Usage: wordcount <input>', file=sys.stderr)
+										        sys.exit(-1)
+
+
+										    conf = SparkConf()
+										    sc = SparkContext(conf=conf)
+
+										    def printResult():
+										        counts = sc.textFile(sys.argv[1]) \
+										            .flatMap(lambda line:line.split(" "))\
+										            .map(lambda x:(x,1))\
+										            .reduceByKey(lambda a,b:a+b)
+										        output = counts.collect()
+
+										        for (word,count) in output:
+										            print('%s: %i' % (word,count))
+
+										    printResult()
+
+										    sc.stop()
+								e. 提交./pyspark-submit
+										[hadoop@hadoop000 bin]$ ./spark-submit --master local[2] --name spark0402 /home/hadoop/script/spark0402.py file:///home/hadoop/data/hello.txt
+
+								f. 执行多文件，（可以处理文件夹）
+										#	18/09/16 16:16:17 INFO FileInputFormat: Total input paths to process : 4
+										[hadoop@hadoop000 bin]$ ./spark-submit --master local[2] --name spark0402 /home/hadoop/script/spark0402.py file:///home/hadoop/data/wc
+
+								g. 支持模糊匹配文件后缀
+										[hadoop@hadoop000 bin]$ ./spark-submit --master local[2] --name spark0402 /home/hadoop/script/spark0402.py file:///home/hadoop/data/wc/*.txt
+
+								h. savaFile(文件形式导出)   # 必须没有该文件夹，必须删除！！！
+										#	配置 sys.argv[2]
+										#	追加 spark0402 下角标 ---->  paramenters选项中填写路径
+										#   如果要从hdfs中调用数据的话，设置sys.argv[1]即可
+
+												import sys
+												from pyspark import SparkConf, SparkContext
+
+												if __name__ == '__main__':
+
+												    if len(sys.argv) != 3:
+												        print("Usage: wordcount <input> <output>", file=sys.stderr)
+												        sys.exit(-1)
+
+												    conf = SparkConf()
+												    sc = SparkContext(conf=conf)
+
+
+												    def printResult():
+												        counts = sc.textFile(sys.argv[1]) \
+												            .flatMap(lambda line: line.split("\t")) \
+												            .map(lambda x: (x, 1)) \
+												            .reduceByKey(lambda a, b: a + b)
+
+												        output = counts.collect()
+
+												        for (word, count) in output:
+												            print("%s: %i" % (word, count))
+
+
+											    def saveFile():
+											        sc.textFile(sys.argv[1]) \
+											            .flatMap(lambda line: line.split(" ")) \
+											            .map(lambda x: (x, 1)) \
+											            .reduceByKey(lambda a, b: a + b) \
+											            .saveAsTextFile(sys.argv[2])
+
+											    def printS():
+											        print(sys.argv[0])  # 打印第一个参数
+											        print(sys.argv[1])  # 打印第二个参数
+											        print(sys.argv[2])  # 打印第3个参数
+
+											    #printS()
+											    saveFile()
+
+											    sc.stop()
+										[hadoop@hadoop000 bin]$ ./spark-submit --master local[2] --name spark0402 /home/hadoop/script/spark0402.py file:///home/hadoop/data/wc file:///home/hadoop/tmp/wc
+
+										### 输入、输出路径全部需要
+
+								i. TopN统计
+											import sys
+											from pyspark import SparkConf, SparkContext
+
+											if __name__ == '__main__':
+
+											    if len(sys.argv) != 2:
+											        print("Usage: topn <input>", file=sys.stderr)
+											        sys.exit(-1)
+
+											    conf = SparkConf()
+											    sc = SparkContext(conf=conf)
+
+											    counts = sc.textFile(sys.argv[1]) \
+											        .map(lambda x: x.split('\t')) \
+											        .map(lambda x: (x[5], 1)) \
+											        .reduceByKey(lambda a, b: a+b) \
+											        .map(lambda x:(x[1], x[0])) \
+											        .sortByKey(False) \
+											        .map(lambda x:(x[1], x[0])) \
+											        .take(5)
+
+											    for (word, count) in counts:
+											        print("%s: %i" % (word, count))
+
+											    sc.stop()
+
+										# submiit应用提交
+												./spark-submit --master local[2] --name spark0403 /home/hadoop/script/spark0403.py file:///home/hadoop/data/page_views.dat
+
+
+									j. 统计平均年龄：
+										id  age
+										975 50
+										976 92
+										977 52
+										978 49
+										979 84
+											开发步骤分析
+												1）取出年龄		map
+												2) 计算年龄总和	reduce
+												3) 计算记录总数	count
+												4) 求平均数
+
+												import sys
+												from pyspark import SparkConf, SparkContext
+
+												if __name__ == '__main__':
+
+												    if len(sys.argv) != 2:
+												        print("Usage: avg <input>", file=sys.stderr)
+												        sys.exit(-1)
+
+												    conf = SparkConf()
+												    sc = SparkContext(conf=conf)
+
+												    ageData = sc.textFile(sys.argv[1]).map(lambda x:x.split(' ')[1])
+												    totalAge = ageData.map(lambda age:int(age)).reduce(lambda a,b:a+b)
+												    counts = ageData.count()
+												    avgAge = totalAge/counts
+
+												    print(counts)
+												    print(totalAge)
+												    print(avgAge)
+
+												    sc.stop()
+
+
+										- 提交运行：./spark-submit --master local[2] --name spark0404 /home/hadoop/script/spark0404.py file:///home/hadoop/data/sample_age_data.txt
+
+
+
+									k. 控制台
+										>>> rdd1 = sc.textFile('/home/hadoop/data/sample_age_data.txt',2)
+										>>> ageData = rdd1.map(lambda x:x.split(' ')[1]).map(lambda age:int(age))
+										>>> totalAge = ageData.reduce(lambda a,b:a+b)
+										>>> counts = ageData.count()
+										>>> avgAge = totalAge/counts
+
+
+					3) 运行模式
+						0）各种模式
+							- local    
+							- standalone
+							- yarn
+							- mesos
+							- Kubernetes
+						1) local
+								./spark-submit --master local[2] --name spark-local /home/hadoop/script/spark0402.py file:///home/hadoop/data/hello.txt file:///home/hadoop/wc/output
+
+						2）standalone
+								和以下一样：
+								hdfs:NameNode DataNode
+								yarn:ResourceManager NodeManager
+
+								a) 配置conf
+									-slave
+										路径:/home/hadoop/app/spark-2.3.0-bin-2.6.0-cdh5.7.0/conf
+										# A Spark Worker will be started on each of the machines listed below.
+										hadoop000
+										#hadoop001
+
+
+										假设你有5台机器，就应该进行如下slaves的配置
+										hadoop000
+										hadoop001
+										hadoop002
+										hadoop003
+										hadoop005
+										如果是多台机器，那么每台机器都在相同的路径下部署spark
+
+									-spark-env.sh
+										[hadoop@hadoop000 conf]$ vim spark-env.sh
+
+										#!/usr/bin/env bash
+										export PYSPARK_PYTHON=/home/hadoop/app/python3/bin/python3
+										JAVA_HOME=/home/hadoop/app/jdk1.8.0_181
+
+
+								b) 运行
+										[hadoop@hadoop000 sbin]$ ./start-master.sh
+
+										[hadoop@hadoop000 sbin]$ cat /home/hadoop/app/spark-2.3.0-bin-2.6.0-cdh5.7.0/logs/spark-hadoop-org.apache.spark.deploy.master.Master-1-hadoop000.out
+
+
+								c) 验证启动成功
+										jps： Master和Worker进程，就说明我们的standalone模式安装成功
+										webUI：
+											Starting Spark master at spark://localhost:7077
+											Bound MasterWebUI to 0.0.0.0, and started at http://192.168.0.107:8080/  #集群webUI
+
+
+
+										    URL: spark://localhost:7077
+										    REST URL: spark://localhost:6066 (cluster mode)
+										    Alive Workers: 1      						##### 就是hadoop000
+										    Cores in use: 1 Total, 0 Used
+										    Memory in use: 1024.0 MB Total, 0.0 B Used
+										    Applications: 0 Running, 0 Completed
+										    Drivers: 0 Running, 0 Completed
+										    Status: ALIVE
+
+								d) 提交
+										[hadoop@hadoop000 bin]$ ./pyspark --master spark://localhost:7077 
+										#data、sc.para、collect等可以在webUI上查看
+
+
+								e) spark-submit模式
+										./spark-submit --master spark://hadoop000:7077 --name spark-standalone /home/hadoop/script/spark0402.py hdfs://hadoop000:8020/wc.txt hdfs://hadoop000:8020/wc/output
+
+										如果使用standalone模式，而且你的节点个数大于1的时候，如果你使用本地文件测试，必须要保证每个节点上都有本地测试文件
+
+
+								ps) 要在spark-env.sh中添加JAVA_HOME，否则会报错
+
+
+						3) yarn模式（必须掌握!!!!!!)
+								0) 概述：
+										mapreduce yarn
+										spark on yarn 70%
+										spark作业客户端而已，他需要做的事情就是提交作业到yarn上去执行
+										yarn vs standalone
+											yarn： 你只需要一个节点，然后提交作业即可   这个是不需要spark集群的（不需要启动master和worker的）
+											standalone：你的spark集群上每个节点都需要部署spark，然后需要启动spark集群（需要master和worker）
+								1) 配置
+										[hadoop@hadoop000 conf]$ vim spark-env.sh
+											HADOOP_CONF_DIR=/home/hadoop/app/hadoop-2.6.0-cdh5.7.0/etc/hadoop
+
+								2) 部署模式
+										- yarn支持client和cluster模式：driver运行在哪里
+											client：提交作业的进程是不能停止的，否则作业就挂了
+											cluster：提交完作业，那么提交作业端就可以断开了，因为driver是运行在am里面的
+
+										- Error: Cluster deploy mode is not applicable to Spark shells.
+											交互式只能跑在client模式
+
+								3) 如何查看已经运行完的yarn日志信息
+										- [hadoop@hadoop000 bin]$ yarn logs -applicationId application_1537703829534_0003
+											# 必须先开日志功能：Log aggregation has not completed or is not enabled.
+											# 参见：https://coding.imooc.com/class/chapter/128.html#Anchor  JobHistory使用
+
+					4) spark core 进阶	
+							1. Spark核心概述
+								Application	：基于Spark的应用程序 =  1 driver + executors
+									User program built on Spark. 
+									Consists of a driver program and executors on the cluster.
+									spark0402.py
+									pyspark/spark-shell
+
+								Driver program	
+									The process running the main() function of the application 
+									creating the SparkContext	
+
+								Cluster manager
+									An external service for acquiring resources on the cluster (e.g. standalone manager, Mesos, YARN)	
+									spark-submit --master local[2]/spark://hadoop000:7077/yarn
+
+								Deploy mode	
+									Distinguishes where the driver process runs. 
+										In "cluster" mode, the framework launches the driver inside of the cluster. 
+										In "client" mode, the submitter launches the driver outside of the cluster.	
+
+								Worker node	
+									Any node that can run application code in the cluster
+									standalone: slave节点 slaves配置文件
+									yarn: nodemanager
+
+
+								Executor	
+									A process launched for an application on a worker node
+									runs tasks 
+									keeps data in memory or disk storage across them
+									Each application has its own executors.	
+
+
+								Task	
+									A unit of work that will be sent to one executor	
+
+								Job	
+									A parallel computation consisting of multiple tasks that 
+									gets spawned in response to a Spark action (e.g. save, collect); 
+									you'll see this term used in the driver's logs.
+									一个action对应一个job
+
+								Stage	
+									Each job gets divided into smaller sets of tasks called stages 
+									that depend on each other
+									(similar to the map and reduce stages in MapReduce); 
+									you'll see this term used in the driver's logs.	
+									一个stage的边界往往是从某个地方取数据开始，到shuffle的结束
+
+
+
+
+								Spark Cache
+									rdd.cache(): StorageLevel
+
+									cache它和tranformation: lazy   没有遇到action是不会提交作业到spark上运行的
+
+									如果一个RDD在后续的计算中可能会被使用到，那么建议cache
+
+									cache底层调用的是persist方法，传入的参数是：StorageLevel.MEMORY_ONLY
+									cache=persist
+
+									unpersist: 立即执行的
+
+							2. Spark Cache
+									rdd.cache(): StorageLevel
+									cache它和tranformation: lazy   没有遇到action是不会提交作业到spark上运行的
+									如果一个RDD在后续的计算中可能会被使用到，那么建议cache
+									cache底层调用的是persist方法，传入的参数是：StorageLevel.MEMORY_ONLY
+									cache=persist
+									unpersist: 立即执行的
+
+
+									- lines.cache()
+									- lines.count()
+									http://192.168.0.107:4040/storage/  #可以看到缓存状态，缓存作用disc到作业间的中间层
+
+									！！！ 缓存一个数据集到内存里面
+
+									One of the most important capabilities in Spark is persisting (or caching) a dataset in memory across operations. When you persist an RDD, each node stores any partitions of it that it computes in memory and reuses them in other actions on that dataset (or datasets derived from it). This allows future actions to be much faster (often by more than 10x). Caching is a key tool for iterative algorithms and fast interactive use.
+
+								- 移除cache
+									>>> lines.unpersist()   #非lazy，立即执行
+
+								- StorageLevel
+									>>> from pyspark import StorageLevel
+									>>> lines.persist(StorageLevel.MEMORY_ONLY_2)
+									# Memory Serialized 2x Replicated 
+
+
+					5) spark优化
+							a) 概述
+								1. 序列化
+								2. 内存管理
+								3. 广播变量
+								4. 数据本地性
+
+							b) HistoryServer配置及使用
+								1. conf文件修改
+									[hadoop@hadoop000 conf]$ cp spark-defaults.conf.template spark-defaults.conf
+									[hadoop@hadoop000 conf]$ vim spark-defaults.conf
+										# Example:
+										# spark.master                     spark://master:7077
+										spark.eventLog.enabled           true     # 释放设置为true
+										spark.eventLog.dir               hdfs://hadoop000:8020/directory
+								2. 创建路径
+									[hadoop@hadoop000 hadoop-2.6.0-cdh5.7.0]$ hadoop fs -mkdir /directory
+
+								3. spark-env.sh 配置
+									SPARK_HISTORY_OPTS="-Dspark.history.fs.logDirectory=hdfs://hadoop000:8020/directory"
+
+								4. 启动history-server
+									[hadoop@hadoop000 sbin]$ ./start-history-server.sh 
+
+								5. webUI：
+									http://hadoop000:18080
+
+							c) 优化之序列化
+							d) 优化之内存管理
+							e) 优化之广播变量
+								>>> broadcastVar = sc.broadcast([1,2,3,4,6,7.7])
+								>>> broadcastVar.value
+								[1, 2, 3, 4, 6, 7.7]
+							f) 优化之数据本地性
+
+
+					6) Spark SQL
+						0) 概述
+								SQL:  MySQL、Oracle、DB2、SQLServer
+								很多小伙伴熟悉SQL语言
+								数据量越来越大 ==> 大数据(Hive、Spark Core)
+								直接使用SQL语句来对大数据进行分析：这是大家所追逐的梦想
+
+								person.txt ==> 存放在HDFS
+								1,zhangsan,30
+								2,lisi,31
+								3,wangwu,32
+
+								hive表：person
+									id:int   name:string  age:int
+								导入数据：
+									load .....
+								统计分析：
+									select ... from person	
+
+								SQL on Hadoop
+									Hive
+									Shark 
+									Impala: Cloudera
+									Presto
+									Drill
+									.....
+
+								Hive: on MapReduce
+									SQL ==> MapReduce ==> Hadoop Cluster
+
+								Shark: on Spark
+									基于Hive源码进行改造
+
+								Spark SQL: on Spark
+
+								Hive on Spark
+
+								共同点： metastore  mysql
+
+
+								Spark SQL不仅仅是SQL这么简单的事情，它还能做更多的事情
+									Hive: SQL
+									Spark SQL: SQL
+
+								Spark SQL提供的操作数据的方式
+									SQL
+									DataFrame API
+									Dataset API
+
+								一个用于处理结构化数据的Spark组件，强调的是“结构化数据”，而非“SQL”
+
+
+
+								Spark RDD  VS  MapReduce
+								R/Pandas :  one machine  
+									==> DataFrame：像开发单机版应用程序一样来开发分布式应用程序
+
+
+								A DataFrame is a Dataset organized into named columns
+								以列(列名、列类型、列值)的形式构成分布式的数据集
+
+								面试题：RDD与DataFrame的区别 12345
+
+							/home/hadoop/PycharmProjects/pySpark_test/spark0401.py
+
+						1) dataframeApi
+							a) 读取数据（pyspark）：
+								>>> df = spark.read.json("file:///home/hadoop/app/spark-2.3.0-bin-2.6.0-cdh5.7.0/examples/src/main/resources/people.json")
+								>>> df.show()
+
+								** 注意metastore_bd是否存在，在的话删除(路径：/home/hadoop/app/spark-2.3.0-bin-2.6.0-cdh5.7.0/bin  ？？？)
+
+								>>> df1 = spark.read.load("file:///home/hadoop/app/spark-2.3.0-bin-2.6.0-cdh5.7.0/examples/src/main/resources/people.json", format="json")
+
+								>>> df.printSchema()
+								>>> df.select("name").show()
+								>>> df.select(df['name'], df['age'] + 1000).show()
+								>>> df.filter(df['age'] > 21).show()
+								>>> df.groupBy("age").count().show()
+
+								# 临时表建立
+								>>> df.createOrReplaceTempView("people")
+								>>> sqlDF = spark.sql("SELECT * FROM people")
+								>>> sqlDF.show()
+							b) pycharm运行
+
+									from pyspark.sql import SparkSession
+
+										def basic(spark):
+										    df = spark.read.json("file:///home/hadoop/app/spark-2.3.0-bin-2.6.0-cdh5.7.0/examples/src/main/resources/people.json")
+										    df.show()   
+
+										if __name__ == '__main__':
+										    spark = SparkSession.builder.appName("spark0801").getOrCreate()
+
+										    basic(spark)
+
+										    spark.stop()
+
+							c) RDD 与 DataFrame 互换
+									Spark SQL supports two different methods for converting existing RDDs into Datasets. The first method uses reflection to infer the schema of an RDD that contains specific types of objects. This reflection based approach leads to more concise code and works well when you already know the schema while writing your Spark application.
+
+									The second method for creating Datasets is through a programmatic interface that allows you to construct a schema and then apply it to an existing RDD. While this method is more verbose, it allows you to construct Datasets when the columns and their types are not known until runtime.
+									
+									a) Interoperating with RDDs
+										>>> lines = sc.textFile("file:///home/hadoop/app/spark-2.3.0-bin-2.6.0-cdh5.7.0/examples/src/main/resources/people.txt")
+										>>> parts = lines.map(lambda l: l.split(","))
+										>>> people = parts.map(lambda p: Row(name=p[0], age=int(p[1])))
+										>>> schemaPeople = spark.createDataFrame(people)
+
+										>>> from pyspark import Row
+
+										>>> schemaPeople = spark.createDataFrame(people)
+										>>> schemaPeople.printSchema()
+										>>> schemaPeople.show()
+
+										>>> schemaPeople.createOrReplaceTempView("people")
+										>>> teenagers = spark.sql("SELECT name FROM people WHERE age>=13 AND AGE<19")
+
+										>>> teenagers.rdd.map(lambda p:"Name: "+p.name).collect()
+
+
+
+									b) Programmatically Specifying the Schema
+									    - Create an RDD of tuples or lists from the original RDD;
+									    - Create the schema represented by a StructType matching the structure of tuples or lists in the RDD created in the step 1.
+									    - Apply the schema to the RDD via createDataFrame method provided by SparkSession.
+
+									    code:
+
+									    lines = sc.textFile("file:///home/hadoop/app/spark-2.3.0-bin-2.6.0-cdh5.7.0/examples/src/main/resources/people.txt")
+									    parts = lines.map(lambda l: l.split(","))
+									    # Each line is converted to a tuple.
+									    people = parts.map(lambda p: (p[0], p[1].strip()))
+
+									    # The schema is encoded in a string.
+									    schemaString = "name age"
+
+									    from pyspark.sql.types import *
+
+									    fields = [StructField(field_name, StringType(), True) for field_name in schemaString.split()]
+									    schema = StructType(fields)
+
+									    # Apply the schema to the RDD.
+									    schemaPeople = spark.createDataFrame(people, schema)
+
+									    # Creates a temporary view using the DataFrame
+									    schemaPeople.createOrReplaceTempView("people")
+
+									    # SQL can be run over DataFrames that have been registered as a table.
+									    results = spark.sql("SELECT name FROM people")
+
+									    results.show()
+
+
+									    转换成RDD
+
+					7) SparkStreaming
+							a) nc -lk 9996
+								import sys
+
+								from pyspark import SparkContext
+								from pyspark.streaming import StreamingContext
+
+								if __name__ == '__main__':
+
+								    if len(sys.argv) != 3:
+								        print("Usage: spark0901.py <hostname> <port>", file=sys.stderr)
+								        sys.exit(-1)
+
+								    sc = SparkContext(appName="spark0901")
+								    ssc = StreamingContext(sc, 5)
+
+								    # TODO... 根据业务需求开发我们自己的业务
+
+								    # Define the input sources by creating input DStreams.
+								    lines = ssc.socketTextStream(sys.argv[1], int(sys.argv[2]))
+
+								    # Define the streaming computations by applying transformation
+								    counts = lines.flatMap(lambda line: line.split(" ")) \
+								        .map(lambda word: (word, 1)) \
+								        .reduceByKey(lambda a, b: a + b)
+
+								    # output operations to DStreams
+								    counts.pprint()
+
+								    # Start receiving data and processing it
+								    ssc.start()
+
+								    # Wait for the processing to be stopped
+								    ssc.awaitTermination()
+
+							b) SparkStreaming操作文件系统数据实战
+									# Parameters:file:///home/hadoop/softwear/ss
+									# 将数据mv到ss包中去，hdfs同样处理
+
+									import sys
+
+									from pyspark import SparkContext
+									from pyspark.streaming import StreamingContext
+
+									if __name__ == '__main__':
+
+									    if len(sys.argv) !=2:
+									        print("Usage spark0902.py <directory>",file=sys.stderr)
+									        sys.exit(-1)
+
+									    sc = SparkContext(appName="spark0902")
+									    ssc = StreamingContext(sc,5)
+
+									    lines = ssc.textFileStream(sys.argv[1])
+									    counts = lines.flatMap(lambda line:line.split(" "))\
+									        .map(lambda word:(word,1))\
+									        .reduceByKey(lambda a,b:a+b)
+
+									    counts.pprint()
+
+									    ssc.start()
+									    ssc.awaitTermination()
+
+					8) Azkaban
+							a) 工作流在大数据处理中的重要性
+								Spark SQL/Hadoop用于做离线统计处理
+								ETL
+								1) 数据抽取： 
+									Sqoop把RDBMS中的数据抽取到Hadoop
+									Flume进行日志、文本数据的采集，采集到Hadoop
+								2) 数据处理
+									Hive/MapReduce/Spark/......
+								3) 统计结果入库
+									数据就存放到HDFS(Hive/Spark SQL/文件)
+										启动一个Server: HiveServer2 / ThriftServer
+										jdbc的方式去访问统计结果
+									使用Sqoop把结果导出到RDBMS中
+
+								这些作业之间是存在时间先后依赖关系的
+								Step A ==> Step B ==> Step C 
+
+								crontab定时调度
+								为了更好的组织起这样的复杂执行计算的关系===> 这就需要一个工作流调度系统来进行依赖关系作业的调度
+
+
+								Linux crontab + shell
+									优点：简单、易用
+									缺点：
+										维护
+										依赖
+											step a:  01:30  30分钟
+											step b:  02:10  30分钟
+											step c:  02:50  30分钟
+											.....
+											资源利用率
+											集群在0130压力非常大，资源没有申请到
+
+								常用的调度框架
+									Azkaban：轻量级
+									Oozie：重量级
+										cm hue
+										xml
+									宙斯(Zeus)
+
+							b) 概述
+									Azkaban概述
+										Open-source Workflow Manager
+										批处理工作流，用于跑Hadoop的job
+										提供了一个易于使用的用户界面来维护和跟踪你的工作流程
+
+									Azkaban架构
+										Relational Database (MySQL)
+										AzkabanWebServer
+										AzkabanExecutorServer
+
+
+									Azkaban运行模式
+										solo-server
+											数据信息存储在H2==>MySQL
+											webserver和execserver是运行在同一个进程中
+										the heavier weight two server mode
+											数据信息存储在MySQL，在生产上一定要做主备 
+											webserver和execserver是运行在不同的进程中的
+										distributed multiple-executor mode
+
+
+									Azkaban编译：万世开头难，务必要保证你的网络速度不错
+										1） 去github上下载源码包
+										2） ./gradlew build installDist
+										3） 建议搭建先去下载gradle-4.1-all.zip 然后整合到azkaban源码中来，避免在编译的过程中去网络上下载，导致编译速度非常慢
+										4） 编译成功之后，去对应的目录下找到对应模式的安装包即可
+
+
+
+									Azkaban环境搭建
+										1) 解压编译后的安装包到~/app
+										2）启动azkaban   $AZKABAN_HOME/bin/azkaban-solo-start.sh
+											验证：jps  AzkabanSingleServer
+											ip:8081
+
+
+[python安装]
+	# https://www.cnblogs.com/zhanghan5/p/12100510.html
+	yum -y groupinstall "Development tools"
+	yum -y install zlib-devel bzip2-devel openssl-devel ncurses-devel sqlite-devel readline-devel tk-devel gdbm-devel db4-devel libpcap-devel xz-devel
+	yum install -y libffi-devel zlib1g-dev
+	yum install zlib* -y
+
+	cd /opt
+	wget https://www.python.org/ftp/python/3.7.2/Python-3.7.2.tar.xz
+	tar -xvJf Python-3.7.2.tar.xz 
+
+	mkdir /usr/local/python3
+	cd Python-3.7.2/
+
+	ln -s /usr/local/python3/bin/python3 /usr/bin/python3
+	ln -s /usr/local/python3/bin/pip3 /usr/bin/pip3
+
+	python3
+	pip3
+	pip3 install --upgrade pip
+
+
+
+			
+
+[PySpark(163)]
+	1. 概述：
+		01 概述
+		Scipy
+		Scikit-image
+		NetworkX
+		Pymc
+		sunpy
+		nipy
+		Sympy
+
+		01_07_Pyspark以及一个简单的Spark程序
+			import findspark
+			findspark.init()
+			from pyspark import SparkConf,SparkContext
+			conf = SparkConf().setMaster("local").setAppName("wordcount")
+			sc = SparkContext(conf=conf)
+
+			text_file = sc.textFile("file:///home/data/hello.txt")
+	2. RDD：
+		章节3课时21案例1-小王子一书的词频统计V1 
+			import findspark
+			findspark.init()
+			from pyspark import SparkConf,SparkContext
+			import findspark
+			findspark.init()
+			from pyspark import SparkConf,SparkContext
+
+			Version.1
+
+				wc = text_file.flatMap(lambda s: s.split())\
+				    .map(lambda s: (s,1))\
+				    .reduceByKey(lambda a,b: a+b)
+
+				wc.count()
+
+				word_counts = text_file.flatMap(lambda s: s.split()).countByValue()
+				print(word_counts)
+
+			Version.2
+				import re
+				def normalizeWords(text):
+				    return re.compile(r'\W+', re.UNICODE).split(text.lower())
+
+				wc=text_file.flatMap(normalizeWords)\
+				    .map(lambda word: (word, 1))\
+				    .filter(lambda x: x[0])\
+				    .reduceByKey(lambda a, b: a+b)
+
+			Version.3
+				wc=text_file.flatMap(normalizeWords)\
+				    .map(lambda word: (word, 1))\
+				    .filter(lambda x: x[0])\
+				    .reduceByKey(lambda a, b: a+b)
+
+				wcSorted = wc.map(lambda x: (x[1], x[0])).sortByKey(ascending=False)
+				results = wcSorted.collect()
+				print(results)
+
+
+		章节3课时23案例-门店平均销售额分析
+			import findspark
+			findspark.init()
+			from pyspark import SparkConf,SparkContext
+
+			conf = SparkConf().setMaster("local").setAppName("sales_1")
+			sc = SparkContext(conf=conf)
+
+			def parseLine(line):
+			    fields = line.split(',')
+			    dist = int(fields[1])
+			    sales = int(fields[2])
+			    return (dist, sales)
+
+			lines = sc.textFile("file:///home/hadoop/data/sales.csv")
+			rdd = lines.map(parseLine)
+			totalsByAge = rdd.mapValues(lambda x: (x, 1)).reduceByKey(lambda x, y: (x[0] + y[0], x[1] + y[1]))
+			averagesByAge = totalsByAge.mapValues(lambda x: x[0] / x[1])
+			results = averagesByAge.collect()
+			for result in results:
+			    print(result)
+
+		章节3课时25案例-最流行电影
+
+			step.1
+
+				import findspark
+				findspark.init()
+				from pyspark import SparkConf,SparkContext
+
+				conf = SparkConf().setMaster("local").setAppName("movie_1")
+				sc = SparkContext(conf=conf)
+
+				lines = sc.textFile("file:///home/hadoop/data/ml-100k/u.data")
+
+				lines.take(4)
+
+				movies = lines.map(lambda x: (int(x.split()[1]), 1))
+
+				movies.take(4)
+
+				sortedMovies = movies.reduceByKey(lambda x,y:(x+y))\
+				    .map(lambda x: (x[1],x[0]))\
+				    .sortByKey(ascending=False)\
+				    .map(lambda x:(x[1],x[0]))
+
+				sortedMovies.take(4)
+
+				results = sortedMovies.collect()
+
+				for s in results:
+				    print(s)
+
+			step.2
+
+				def getMovieNames()
+				    movieNames = {}
+				    with open("/home/hadoop/data/ml-100k/u.item",encoding="iso-8859-15") as f:
+				        for line in f:
+				            fields = line.split("|")
+				            movieNames[int(fields[0])] = fields[1]        
+				    return movieNames
+
+				movieDict = sc.broadcast(getMovieNames())
+
+				lines = sc.textFile("file:///home/hadoop/data/ml-100k/u.data")
+
+				movies =lines.map(lambda x: (int(x.split()[1]),1))
+
+				movieCounts = movies.reduceByKey(lambda x,y: x+y)
+
+				sortedMovies = movieCounts.map(lambda x: (x[1],x[0])).sortByKey(ascending=False)
+
+				sortedMoviesWithNames = sortedMovies.map(lambda x: (movieDict.value[x[1]],x[0]))
+
+				sortedMoviesWithNames.take(10)
+	3. SparkSQL
+		0.0 概述
+			- spark2.0+		进行了 Full Stage 的优化
+			- 可以理解为有schema的RDD
+			- 更高层次的抽象（统一读写+更少代码，例：参数定义数据格式）
+			- DataFrame性能更优化
+			- DataFrame便于R/Python用户的转换
+
+		章节4课时30DataFrame 与Spark SQL编程实践
+				import findspark
+				findspark.init()
+
+				from pyspark.sql import SparkSession
+				from pyspark.sql import Row
+				from pyspark.sql.types import *
+				import pyspark.sql.functions as func
+
+				spark = SparkSession.builder\
+				    .appName("dataFrame_1").getOrCreate()
+
+				sc = spark.sparkContext
+
+				rdd = sc.textFile("/home/hadoop/data/people.csv")
+
+			1. 转换为DataFrame方法1
+
+				rdd.take(2)
+
+				Person = Row("first_name","last_name","gender","age")
+
+				def line_to_person(line):
+				    cells = line.split(",")
+				    cells[3] =  int(cells[3])
+				    return Person(*cells)
+
+				peopleRDD = rdd.map(line_to_person)
+
+				df = spark.createDataFrame(peopleRDD)
+
+				df.show()
+
+				df.printSchema()
+
+			2. 转换为DataFrame方法2
+				from collections import namedtuple
+
+				Person_2 = namedtuple("Person",["first_name","last_name","gender","age"])
+
+				def line_to_person_2(line): cells = line.split(",") return Person(cells[0],cells[1],cells[2],int(cells[3]))
+
+				peopleRDD_2 = rdd.map(line_to_person_2)
+
+				peopleRDD_2.take(2)
+
+				df_2 = spark.createDataFrame(peopleRDD_2)
+
+				df_2.show()
+
+			3. Operation
+				df.select(df["first_name"],df["age"]>20).show()
+
+				df.select(df["first_name"],df["age"]>20,df["age"]+100).show()
+
+				### --- filter
+
+				df.filter(df.age>30).show()
+
+				df.filter(df.age>30).select("first_name","age").show()
+
+				df.filter((df.age>30) & (df.gender=="F")).select("first_name","age").show()
+
+				df.filter?
+
+				### --- orderBy
+
+				df.filter(df["age"] > 49).select("first_name", "age").orderBy(["age","first_name"]).show()
+
+				df.filter(df["age"] > 49).select("first_name", "age").orderBy(["age","first_name"],ascending=[1,1]).show()
+
+				### --- alias
+
+				df.select(df['first_name'],df['age'],(df['age'] < 30).alias('young')).show(5)
+
+			6. 建立临时SQL表
+				df.registerTempTable("names")
+
+				spark.sql("SELECT first_name, age, age < 30 AS young FROM names").show()
+
+				### --- groupBy
+
+				df.groupBy("age").count().show()
+
+				spark.sql("SELECT age, count(age) FROM names GROUP BY age").show()
+
+			7. 数据横向join
+				df2 = spark.read.json("file:///home/hadoop/data/artists.json")
+
+				df.join(df2,(df.first_name == df2.firstName)&(df.last_name == df2.lastName)).show()
+
+				df3=df.join(df2,(df.first_name == df2.firstName)&(df.last_name == df2.lastName)).show()
+
+			8. toPandas
+				df = df.toPandas()
+
+
+[pyspark项目实战]
+	1) 实战前
+		a) 大数据项目开发流程
+
+			1) 调研
+				业务
+			2) 需求分析
+				项目的需求
+					显示
+					隐式
+				甘特图：项目周期管理	
+			3) 方案设计
+				概要设计
+				详细设计
+					基本要求
+					系统要求：扩展性、容错性、高可用(HDFS YARN HA???)、定制化
+			4) 功能开发
+				开发
+				单元测试  junit
+			5) 测试
+				测试环境 QA 
+				功能、性能、压力
+				用户测试
+			6) 部署上线
+				试运行   DIFF  “双活”
+				正式上线
+			7) 运维
+				7*24
+			8) 后期迭代开发
+
+		b) 大数据企业级应用
+			1) 数据分析
+				商业
+				自研
+			2）搜索/引擎
+				Lucene/Solr/ELK
+			3）机器学习
+			4) 精准营销
+			5) 人工智能
+
+
+			企业级大数据分析平台
+			1) 商业
+
+			2) 自研
+				Apache
+				CDH
+				HDP
+
+			数据量预估及集群规划
+			Q: 一条日志多大、多少个字段、一天多少数据
+			300~500字节 * 1000W * 5 * 5  =  100G
+			HDFS 3副本 * 100G * (2~3年)
+
+			服务器一台：磁盘多少？ ==> Node数量
+				集群规模：数据量 + 存储周期
+
+
+			集群机器规模：
+				DN: 数据量大小/每个Node的磁盘大小
+				NN: 2
+				RM: 2
+				NM: DN
+				ZK: 3/5/7/9
+				GATEWAY: 
+
+			资源设置：cpu/memory/disk/network
+				
+			作业规划：
+				MapReduce/Hive/Spark
+				Server: ***** 
+				调度：AZ、OOZIE
+
+		c) 项目需求
+			数据来源：http://stateair.net/web/historical/1/1.html
+
+			根据北京的数据进行统计分析
+
+			同时间：北京 vs 广州 vs 成都
+
+
+			空气质量指数     pm2.5 健康建议
+			0-50          健康
+			51-100    中等
+			101-150  对敏感人群不健康
+			151-200   不健康
+			201-300 非常不健康
+			301-500 危险
+			>500   爆表
+
+			数据分析==>es==>kibana
+
+	2) 实战（控制台操作）
+		a) 数据导入
+			[hadoop@hadoop000 bin]$ rm -rf metastore_db/	#删除metestore
+
+			>>> data2017 = spark.read.load("file:///home/hadoop/data/bj_2017.csv",format="csv",  inferSchema="true", header="true").select("Year","Month","Day","Hour","Value","QC Name")
+			>>> data2016 = spark.read.load("file:///home/hadoop/data/bj_2016.csv",format="csv",  inferSchema="true", header="true").select("Year","Month","Day","Hour","Value","QC Name")
+			>>> data2015 = spark.read.load("file:///home/hadoop/data/bj_2015.csv",format="csv",  inferSchema="true", header="true").select("Year","Month","Day","Hour","Value","QC Name")
+
+
+		b) udf函数开发
+
+			>>> data2017.show()
+
+					def get_grade(value):
+						if (value <=50 and value>=0):
+							return "健康"
+						elif value <= 100:
+							return "中等"
+						elif value <=150:
+							return "对敏感人群不健康"
+						elif value <=200:
+							return "不健康"
+						elif value <=300:
+							return "非常不健康"
+						elif value <=500:
+							return "危险"
+						elif value >500:
+							return "爆表"
+						else:
+							return None
+
+			>>> def get_grade(value):
+			...     if (value <=50 and value>=0):
+			...             return "健康"
+			...     elif value <= 100:
+			...             return "中等"
+			...     elif value <=150:
+			...             return "对敏感人群不健康"
+			...     elif value <=200:
+			...             return "不健康"
+			...     elif value <=300:
+			...             return "非常不健康"
+			...     elif value <=500:
+			...             return "危险"
+			...     elif value >500:
+			...             return "爆表"
+			...     else:
+			...             return None
+
+
+			from pyspark.sql import SparkSession
+			from pyspark.sql.types import *
+			from pyspark.sql.functions import udf
+
+			>>> grade_function_udf = udf(get_grade,StringType())
+			>>> data2017.withColumn("Grade", grade_function_udf(data2017['Value']))
+
+		c) 频次计算
+			group2017 = data2017.withColumn("Grade", grade_function_udf(data2017['Value'])).groupBy("Grade").count()
+			group2016 = data2016.withColumn("Grade", grade_function_udf(data2016['Value'])).groupBy("Grade").count()
+			group2015 = data2015.withColumn("Grade", grade_function_udf(data2015['Value'])).groupBy("Grade").count()
+
+		d) 频次+百分比列
+			group2017.select('Grade','count',group2017['count']/data2017.count()).show()
+			group2016.select('Grade','count',group2016['count']/data2016.count()).show()
+			group2015.select('Grade','count',group2015['count']/data2015.count()).show()
+
+	3) 实战 （pycharm code)
+		from pyspark.sql import SparkSession
+		from pyspark.sql.types import *
+		from pyspark.sql.functions import udf
+
+		if __name__ == '__main__':
+		    spark = SparkSession.builder.appName("project").getOrCreate()
+
+		    data2015 = spark.read.load("file:///home/hadoop/data/bj_2015.csv", format="csv", inferSchema="true",header="true").select("Year", "Month", "Day", "Hour", "Value", "QC Name")
+		    data2016 = spark.read.load("file:///home/hadoop/data/bj_2016.csv", format="csv", inferSchema="true",header="true").select("Year", "Month", "Day", "Hour", "Value", "QC Name")
+		    data2017 = spark.read.load("file:///home/hadoop/data/bj_2017.csv", format="csv", inferSchema="true",header="true").select("Year", "Month", "Day", "Hour", "Value", "QC Name")
+
+		    data2017.show()
+		    data2016.show()
+		    data2015.show()
+
+		    def get_grade(value):
+		        if (value <=50 and value>=0):
+		            return "健康"
+		        elif value <= 100:
+		            return "中等"
+		        elif value <=150:
+		            return "对敏感人群不健康"
+		        elif value <=200:
+		            return "不健康"
+		        elif value <=300:
+		            return "非常不健康"
+		        elif value <=500:
+		            return "危险"
+		        elif value >500:
+		            return "爆表"
+		        else:
+		            return None
+
+		    grade_function_udf = udf(get_grade,StringType())
+
+		    group2017 = data2017.withColumn("Grade", grade_function_udf(data2017['Value'])).groupBy("Grade").count()
+		    group2016 = data2016.withColumn("Grade", grade_function_udf(data2016['Value'])).groupBy("Grade").count()
+		    group2015 = data2015.withColumn("Grade", grade_function_udf(data2015['Value'])).groupBy("Grade").count()
+
+		    group2017.select('Grade', 'count', group2017['count'] / data2017.count()).show()
+		    group2016.select('Grade', 'count', group2016['count'] / data2016.count()).show()
+		    group2015.select('Grade', 'count', group2015['count'] / data2015.count()).show()
+
+		    spark.stop()
+
+	5) yarn
+		1. 数据hdfs生成
+
+			[hadoop@hadoop000 bin]$ hadoop fs -rm -r /data
+			[hadoop@hadoop000 bin]$ hadoop fs -mkdir -p /data
+
+		2. spark-submit
+
+
+[aliyun]
+	1. 新建用户
+		[root@ti home]# useradd ti
+		[root@ti home]# passwd ti #mmc2014MMC
+		Changing password for user ti.
+		New password:
+		Retype new password:
+
+	2. mongoDB
+		参考：https://blog.csdn.net/guandongsheng110/article/details/87934319
+		1. 下载安装包
+			wget https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-4.0.6.tgz
+
+
+			[ti@mm mongodb-linux-x86_64-4.0.6]$ mkdir db
+			[ti@mm mongodb-linux-x86_64-4.0.6]$ mkdir log
+			[ti@mm mongodb-linux-x86_64-4.0.6]$ cd log/
+			[ti@mm log]$ touch mongo.log
+			[ti@mm mongodb-linux-x86_64-4.0.6]$ vim mongo.conf 	# 在mongodb-linux-x86_64-4.0.6目录下创建mongo.conf配置文件
+				port=27017
+				bind_ip=0.0.0.0
+				dbpath=/home/ti/app/mongodb-linux-x86_64-4.0.6/db
+				logpath=/home/ti/app/mongodb-linux-x86_64-4.0.6/log/mongo.log
+				logappend=true
+				#fork = true 
+				#auth = true
+
+
+			启动:
+			[ti@mm mongodb-linux-x86_64-4.0.6]$ bin/mongod -f mongo.conf &
+			
+			后台挂起：
+			nohup bin/mongod -f mongo.conf &
+			exit
+			！！！使用了nohup之后，很多人就这样不管了，其实这样有可能在当前账户非正常退出或者结束的时候，命令还是自己结束了。所以在使用nohup命令后台运行命令之后，需要使用exit正常退出当前账户，这样才能保证命令一直在后台运行。
+
+			测试连接：
+			bin/mongo 127.0.0.1:27017
+
+			/home/ti/app/mongodb-linux-x86_64-4.0.6
+
+
+
+
+
+
+		-- systemd添加新的unit(daemon)
+				# 参考 https://www.cnblogs.com/alan2kat/p/7771635.html
+			/usr/lib/systemd/system
+
+			1.创建配置文件：
+			vim /etc/systemd/system/mongodb.service
+
+			2.在里面追加文本：
+				"""
+				[Unit]
+				Description=High-performance, schema-free document-oriented database
+				After=network.target
+				 
+				[Service]
+				User=mongodb
+				ExecStart=/usr/bin/mongod --quiet --config /etc/mongod.conf
+				 
+				[Install]
+				WantedBy=multi-user.target
+				"""
+			3. 启动服务
+				systemctl start mongod
+				systemctl status mongod
+			4. 让它永久启动
+				systemctl enable mongod
+
+			999. systemctl daemon-reload
+
+		-- 非正常关闭时重启mongodb
+			# https://blog.csdn.net/qq_42575499/article/details/104332819
+
+			chown -R mongod:mongod /var/lib/mongo
+			chown -R mongod:mongod /var/log/mongodb
+			chown mongod:mongod /tmp/*.sock	#代码中的*为通配符，表示合法文件名，我的文件全名是mongodb-27017.sock
+
+			systemctl start mongod
+
+
+			
+
+		-- mmc_001 mmc_999s
+
+	3. redis
+		-- yum安装
+			https://www.cnblogs.com/hjw-zq/p/9778514.html
+		-- 安装 （https://www.cnblogs.com/zuidongfeng/p/8032505.html）
+			-- wget http://download.redis.io/releases/redis-4.0.6.tar.gz
+			-- tar -zxvf redis-4.0.6.tar.gz -C ~/app
+			-- yum install gcc
+			-- cd redis-4.0.6
+			-- make MALLOC=libc
+			-- cd src && make install
+
+		-- 防火墙开放端口
+			-- firewall-cmd --zone=public --add-port=3306/tcp --permanent
+			-- firewall-cmd --reload
+
+
+		-- 启动   https://www.cnblogs.com/zuidongfeng/p/8032505.html
+			-- 方式1  直接启动redis
+				-- cd src
+				-- ./redis-server
+
+			-- 方式2. 以后台进程方式启动redis
+				-- [root@mm redis-4.0.6]# vim redis.conf
+				-- daemonize no > yes
+				-- [root@mm src]# ./redis-server /root/app/redis-4.0.6/redis.conf
+				-- [root@mm src]# ./redis-cli -p 6379
+					127.0.0.1:6379> set "111" 222
+					OK
+					127.0.0.1:6379> get "111"
+					"222"
+			-- 方式3. 设置redis开机自启动
+				-- 1. 在/etc目录下新建redis目录 
+				-- 2. cp /root/app/redis-4.0.6/redis.conf /etc/redis/6379.conf
+				-- 3. [root@mm utils]# cp /root/app/redis-4.0.6/utils/redis_init_script /etc/init.d/redisd
+				-- 4. 设置redis开机自启动,先切换到/etc/init.d目录下
+					[root@mm init.d]# chkconfig redisd on
+						service redisd does not support chkconfig
+				-- 5. [root@mm init.d]# vim redisd  使用vim编辑redisd文件，在第一行加入如下两行注释，保存退出
+					# chkconfig:   2345 90 10
+					# description:  Redis is a persistent key-value database
+				-- 6. 启动服务
+					chkconfig redisd on   (on/off)
+					systemctl start redis (service redisd start)
+				-- **rm -rf /var/run/redis_6379.pid
+
+		-- 远程  （https://www.cnblogs.com/hltswd/p/6223824.html）
+			[root@mm src]# ./redis-cli
+			127.0.0.1:6379> config set requirepass tt72****
+			OK
+			127.0.0.1:6379> quit
+			[root@mm src]# ./redis-cli
+			127.0.0.1:6379> auth tt72****
+			OK
+
+		-- windows-cmd  >>  telnet 10.101.1.79 6379   >>  空白 OK！
+
+
+
+		-- 配置  	#https://www.cnblogs.com/sybblogs/p/5665123.html
+			-- vim redis.conf
+			-- #bind 127.0.0.1
+			-- daemonize no  	>> daemonize yes
+			-- protected-mode yes 	>> protected-mode no
+
+		-- redis常用命令
+			-- string
+				[root@localhost src]# ./redis-cli
+				127.0.0.1:6379> auth tt72****
+				OK
+				127.0.0.1:6379> set age 35
+				OK
+				127.0.0.1:6379> get age
+				"35"
+				127.0.0.1:6379> set name daniel
+				OK
+				127.0.0.1:6379> get name
+				"daniel"
+				127.0.0.1:6379> mget age name
+				1) "35"
+				2) "daniel"
+				127.0.0.1:6379> incr age
+				(integer) 36
+				127.0.0.1:6379> incr age
+				(integer) 37
+				127.0.0.1:6379>
+				127.0.0.1:6379> incrby age 40
+				(integer) 77
+				127.0.0.1:6379> decr age
+				(integer) 76
+				127.0.0.1:6379> decr age
+				(integer) 75
+				127.0.0.1:6379> decrby age 29
+				(integer) 46
+				127.0.0.1:6379> setnx age 80
+				(integer) 0
+				127.0.0.1:6379> get age
+				"46"
+				127.0.0.1:6379> setnx class 131
+				(integer) 1
+				127.0.0.1:6379> get class
+				"131"
+				127.0.0.1:6379> setex age2 20 49
+				OK
+				127.0.0.1:6379> get age2
+				"49"
+				127.0.0.1:6379> get age2
+				"49"
+				127.0.0.1:6379> get age2
+				(nil)
+				127.0.0.1:6379> set name abcdefghijk
+				OK
+				127.0.0.1:6379> getname
+				(error) ERR unknown command 'getname'
+				127.0.0.1:6379> get name
+				"abcdefghijk"
+				127.0.0.1:6379> getrange name 1-5
+				(error) ERR wrong number of arguments for 'getrange' command
+				127.0.0.1:6379> getrange name 1 5
+				"bcdef"
+				127.0.0.1:6379> mset age 23 name jerry class 1001
+				OK
+				127.0.0.1:6379> mset age2 111 name2 tommy
+				OK
+				127.0.0.1:6379> get name2
+				"tommy"
+				127.0.0.1:6379> getset age 1234
+				"23"
+				127.0.0.1:6379> get age
+				"1234\x1d"
+				127.0.0.1:6379> append name zzzzz
+				(integer) 10
+				127.0.0.1:6379> get name
+				"jerryzzzzz"
+				127.0.0.1:6379>
+
+			-- hash
+
+				[root@mm src]# ./redis-cli
+				127.0.0.1:6379> auth tt72****
+				OK
+				127.0.0.1:6379> hset myinfo age 35
+				(integer) 1
+				127.0.0.1:6379> hset myinfo name jerry
+				(integer) 1
+				127.0.0.1:6379> hset myinfo salary 600000
+				(integer) 1
+				127.0.0.1:6379> hget myinfo age
+				"35"
+				127.0.0.1:6379> hgetall myinfo
+				1) "age"
+				2) "35"
+				3) "name"
+				4) "jerry"
+				5) "salary"
+				6) "600000"
+				127.0.0.1:6379> hmset info1 age1 40 name Li salary 1000
+				OK
+				127.0.0.1:6379> hgetall info1
+				1) "age1"
+				2) "40"
+				3) "name"
+				4) "Li"
+				5) "salary"
+				6) "1000"
+				127.0.0.1:6379> hlen myinfo
+				(integer) 3
+				127.0.0.1:6379> hmset info2 age 40 name Li
+				OK
+				127.0.0.1:6379> hgetall info2
+				1) "age"
+				2) "40"
+				3) "name"
+				4) "Li"
+				127.0.0.1:6379> hdel info2 age
+				(integer) 1
+				127.0.0.1:6379> hgetall info2
+				1) "name"
+				2) "Li"
+				127.0.0.1:6379> hmget info1 age name salary
+				1) (nil)
+				2) "Li"
+				3) "1000"
+				127.0.0.1:6379>
+
+			List (队列！！)
+				127.0.0.1:6379> lpush newlist1 v1 v2 v3
+				(integer) 3
+				127.0.0.1:6379> lpop newlist1
+				"v3"
+				127.0.0.1:6379> rpush newlist1 value10
+				(integer) 3
+				127.0.0.1:6379> lrange newlist1 0 -1
+				1) "v2"
+				2) "v1"
+				3) "value10"
+				127.0.0.1:6379> llen newlist
+				(integer) 5
+				127.0.0.1:6379> lindex newlist 2
+				"v3"
+				127.0.0.1:6379> lrem newlist 1 v2
+				(integer) 1
+				127.0.0.1:6379> lrange newlist 0 -1
+				1) "v5"
+				2) "v4"
+				3) "v3"
+				4) "v1"
+
+			set
+				127.0.0.1:6379> sadd myset news1 news2 news3 news1
+				(integer) 3
+				127.0.0.1:6379> smembers myset
+				1) "news2"
+				2) "news3"
+				3) "news1"
+				127.0.0.1:6379> spop myset
+				"news2"
+				127.0.0.1:6379> smembers myset
+				1) "news3"
+				2) "news1"
+				127.0.0.1:6379> sadd myset2 news10 news9 news3 news1
+				(integer) 4
+				127.0.0.1:6379> sdiff myset myset2
+				(empty list or set)
+				127.0.0.1:6379> sdiff myset2 myset
+				1) "news10"
+				2) "news9"
+				127.0.0.1:6379> sunion myset2 myset
+				1) "news9"
+				2) "news3"
+				3) "news1"
+				4) "news10"
+				127.0.0.1:6379> sinter myset2 myset
+				1) "news3"
+				2) "news1"
+
+
+
+			SortSet
+				127.0.0.1:6379> zadd myzset 1 "one"
+				(integer) 1
+				127.0.0.1:6379> zadd myzset 2 "two" 3 "three"
+				(integer) 2
+				127.0.0.1:6379> zrange myzset 0 -1
+				1) "one"
+				2) "two"
+				3) "three"
+				127.0.0.1:6379> zrange myzset 0 -1 withscore
+				(error) ERR syntax error
+				127.0.0.1:6379> zrange myzset 0 -1 withscores
+				1) "one"
+				2) "1"
+				3) "two"
+				4) "2"
+				5) "three"
+				6) "3"
+				127.0.0.1:6379> zrem myzset one
+				(integer) 1
+				127.0.0.1:6379> zrange myzset 0 -1
+				1) "two"
+				2) "three"
+				127.0.0.1:6379> zrangebyscore myzset 2
+				(error) ERR wrong number of arguments for 'zrangebyscore' command
+				127.0.0.1:6379> zrangebyscore myzset 2 3
+				1) "two"
+				2) "three"
+				127.0.0.1:6379> zadd myzset 6 "six" 10 "ten"
+				(integer) 2
+				127.0.0.1:6379> zrangebyscore myzset 3 6
+				1) "three"
+				2) "six"
+				127.0.0.1:6379> zrangebyscore myzset 0 1000
+				1) "two"
+				2) "three"
+				3) "six"
+				4) "ten"
+				127.0.0.1:6379> zrank myzset ten
+				(integer) 3
+				127.0.0.1:6379> zrank myzset six
+				(integer) 2
+				127.0.0.1:6379> zcard myzset
+				(integer) 4
+
+			发布订阅
+				PUBLISH
+				SUBSCRIBE
+				UNSUBSCRIBE
+
+
+[squid]
+	阿里云 centos7 服务器搭建代理IP !!!
+		https://blog.csdn.net/qq_27598243/article/details/89713220
+	yum install squid
+		修改配置文件(修改端口，也可以不修改)
+			[root@ti ~]# vim /etc/squid/squid.conf
+				"""
+				# Recommended minimum configuration:
+				#
+				 
+				# Example rule allowing access from your local networks.
+				# Adapt to list your (internal) IP networks from where browsing
+				# should be allowed
+				acl localnet src 10.0.0.0/8     # RFC1918 possible internal network
+				acl localnet src 172.16.0.0/12  # RFC1918 possible internal network
+				acl localnet src 192.168.0.0/16 # RFC1918 possible internal network
+				acl localnet src fc00::/7       # RFC 4193 local private network range
+				acl localnet src fe80::/10      # RFC 4291 link-local (directly plugged) machines
+				 
+				acl SSL_ports port 443
+				acl Safe_ports port 80          # http
+				acl Safe_ports port 21          # ftp
+				acl Safe_ports port 443         # https
+				acl Safe_ports port 70          # gopher
+				acl Safe_ports port 210         # wais
+				acl Safe_ports port 1025-65535  # unregistered ports
+				acl Safe_ports port 280         # http-mgmt
+				acl Safe_ports port 488         # gss-http
+				acl Safe_ports port 591         # filemaker
+				acl Safe_ports port 777         # multiling http
+				acl CONNECT method CONNECT
+				 
+				#
+				# Recommended minimum Access Permission configuration:
+				#
+				# Deny requests to certain unsafe ports
+				http_access deny !Safe_ports
+				 
+				# Deny CONNECT to other than secure SSL ports
+				http_access deny CONNECT !SSL_ports
+				 
+				# Only allow cachemgr access from localhost
+				http_access allow localhost manager
+				http_access deny manager
+				 
+				# We strongly recommend the following be uncommented to protect innocent
+				# web applications running on the proxy server who think the only
+				# one who can access services on "localhost" is a local user
+				#http_access deny to_localhost
+				 
+				#
+				# INSERT YOUR OWN RULE(S) HERE TO ALLOW ACCESS FROM YOUR CLIENTS
+				#
+				 
+				# Example rule allowing access from your local networks.
+				# Adapt localnet in the ACL section to list your (internal) IP networks
+				# from where browsing should be allowed
+				#http_access allow localnet
+				#http_access allow localhost
+				 
+				auth_param basic program /usr/lib64/squid/basic_ncsa_auth /etc/squid3/passwords
+				acl ncsa_users  proxy_auth REQUIRED
+				http_access allow ncsa_users
+				 
+				acl localnet src 222.93.8.140
+				# And finally deny all other access to this proxy
+				http_access deny all
+				 
+				# Squid normally listens to port 3128
+				http_port 31300
+				 
+				# Uncomment and adjust the following to add a disk cache directory.
+				#cache_dir ufs /var/spool/squid 100 16 256
+				 
+				# Leave coredumps in the first cache dir
+				coredump_dir /var/spool/squid
+				 
+				#
+				# Add any of your own refresh_pattern entries above these.
+				#
+				refresh_pattern ^ftp:           1440    20%     10080
+				refresh_pattern ^gopher:        1440    0%      1440
+				refresh_pattern -i (/cgi-bin/|\?) 0     0%      0
+				refresh_pattern .               0       20%     4320
+				"""
+	netstat -tunlp
+		查看3130端口运行与否
+
+	[root@ti ~]# curl -x 127.0.0.1:3130 www.baidu.com
+		云服务器验证是否可以访问baidu
+
+
+	设置密码
+		yum install httpd
+		htpasswd -c squid_passwd username
+		username:tianyunchuan
+		Tt11划线
+	[root@ti ~]# vim /etc/squid/squid.conf
+
+
+	测试
+		export http_proxy=http://username:password@39.98.59.77:3130
+		wget http://www.baidu.com  
+
+[Vim]
+	---- 常用
+		删除所有：ggdG
+	---- 编辑器选择
+		-- 图形界面和字符界面
+		-- Vim编辑器，是Vi的增强版本
+		-- gedit （图形界面）
+		-- Emacs （图形界面）
+
+	---- 插入命令
+		a 	在光标后附加文本
+		A 	在本行行末附加文本
+		i 	在光标前插入文本
+		I 	在本行开始插入文本
+		o 	在光标下插入新行
+		O 	在光标上插入新行
+
+	---- 定位命令
+		美元符号		>>	移至行尾
+		0			>>	移至行首
+		gg  		>>	移至文件开始位置
+		G 			>>	移至文件结束为止
+		H 			>>	移至屏幕上端
+		M 			>>	移至屏幕中央
+		L 			>>	移至屏幕下端
+		:set nu 	>>	设置行号
+		:set nonu	>>	取消行号
+		nG 			>>	到第n行
+		:n 			>>	到第n行
+
+	---- 删除命令
+		x 			>>	删除光标所在位置字符
+		nx 			>>	删除光标所在处n个字符
+		dd 			>>	删除行
+		ndd 		>>	删除n行
+		dG 			>>	删除光标-末尾的内容
+		D 			>>	删除光标所在处到行位
+		:n1,n2d 	>>	删除指定范围内的行
+
+	---- 复制与剪切
+		yy 			>>	复制整行
+		p、P			>>	粘贴yy复制的行
+
+	---- 查找、替换
+		查看模式 u
+		查找 		>>	/string  + n（下一个）
+		忽略大小写	>>	:set ic
+		全文替换 	>>	：%s/old/new/g
+		段落内替换	>>	:n1,n2s/old/new/g
+		取消操作		>>	u 	(重要！！！)
+
+	---- 保存与退出
+		:w 			>>	保存
+		:w new_file	>>	另存为
+		:wq 		>>	保存并退出
+		:q!			>>	不保存退出
+		:wq!		>>	保存退出（可以忽略只读属性
+
+[docker]
+	Docker 系统性入门+进阶实践（2021最新版）
+		url
+			https://dockertips.readthedocs.io/en/latest/docker-install.html
+			https://github.com/docker-library/official-images/tree/master/library
+		基础：
+			安装：
+				curl -fsSL get.docker.com -o get-docker.sh
+				sh get-docker.sh  #注意用国内源
+			查看信息
+				docker version
+				docker info
+				docker
+			命令行结构
+				docker image ***
+				docker container ls
+			镜像 image 
+				read-only
+				具有分层的概念
+				获取方法
+					1. 自己制作
+					2. registry拉取
+
+		容器 container
+			docker container stop ****
+			docker container ps -a
+			docker container run nginx
+			docker container run --rm -it ipinfo ipinfo
+			docker container rm 7335cfb0e91a
+			docker container top b1   查看容器进程
+			docker system prune
+			容器=进程 containers are just processes
+				进程树查询：pstree -halps 17535
+			删除所有容器和镜像
+				docker container rm -f $(docker container ps -aq)
+				docker system prune -a -f
+
+
+			〇attached, detached 模式
+				attached模式：前台模式，ctl+c 会退出容器（linux）
+					docker container run -p80:80 nginx
+				detached模式：后台运行模式
+					docker container run -d -p 80:80 nginx
+					如果要看log，可以进入容器，docker container attach 1c
+					-d模式下，查看日志
+						可以用 docker container logs ** 
+						可以用 docker container logs -f ** 
+			〇交互模式
+				方法1. 进入ubuntu交互shell模式（交互式创建容器）
+					docker container run -it ubuntu sh
+					退出：# exit
+					推出后 容器也会退出
+				方法2. （交互式运行进入容器）
+					docker container run -d -p 80:80 nginx
+					docker container exec -it b1b sh
+					docher exec -it b1b sh  （同上，使用最为频繁！！！）	
+					# ls
+					# pwd
+					# ...
+					# exit
+					! 退出后容器还是 up状态
+				例：
+					docker container run -it busybox sh
+					# ip a  -> 查看container的ip地址
+					# exit
+			〇docker container run 背后发生了什么
+				docker container run -d --publish *):*) --name webhost nginx
+
+		        1. 在本地查找是否有nginx这个image镜像，但是没有发现
+		        2. 去远程的image registry查找nginx镜像（默认的registry是Docker Hub)
+		        3. 下载最新版本的nginx镜像 （nginx:latest 默认)
+		        4. 基于nginx镜像来创建一个新的容器，并且准备运行
+		        5. docker engine分配给这个容器一个虚拟IP地址
+		        6. 在宿主机上打开80端口并把容器的80端口转发到宿主机上
+		        7. 启动容器，运行指定的命令（这里是一个shell脚本去启动nginx）
+
+		镜像 images
+			docker image history a22
+			docker image prune -a
+
+
+			获取方式：
+				方式1. pull from registry (online从refistry拉取)
+					dorckerhub（默认）
+					Qury
+				方式2. build from Dockerfile  (online从Dockerfile构建)
+				方式3. load from file  （offline文件导入，文件加载）
+			导入/导出
+				docker image save 695 -o busybox.image
+				docker image load -i ./busybox.image
+			Dockerfile
+				Dockerfile初步了解:
+					概念：
+						https://docs.docker.com/engine/reference/builder/
+						Docker can build images automatically by reading the instructions from a Dockerfile. A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image. Using docker build users can create an automated build that executes several command-line instructions in succession.
+
+					    Dockerfile是用于构建docker镜像的文件
+					    Dockerfile里包含了构建镜像所需的“指令”
+					    Dockerfile有其特定的语法规则
+					例（docker运行python程序）：
+						Dockerfile设置：
+						"""
+						FROM ubuntu:21.04
+						RUN apt-get update && \
+						    DEBIAN_FRONTEND=noninteractive apt-get install --no-install-recommends -y python3.9 python3-pip python3.9-dev
+						ADD hello.py /
+						CMD ["python3", "/hello.py"]
+						"""
+				Dockerfile尝试构建docker，运行python文件
+					1. 同一文件夹下建立两个文件
+						vim dockerfile
+							"""
+							FROM ubuntu:21.04
+							RUN apt-get update && \
+							    DEBIAN_FRONTEND=noninteractive apt-get install --no-install-recommends -y python3.9 python3-pip python3.9-dev
+							ADD hello.py /
+							CMD ["python3", "/hello.py"]
+							"""
+						vim hello.py
+							"""
+							print("hello docker")
+							"""
+					2. 构建
+						docker image build -t pyhello .
+					3. 运行
+						docker run -it pyhello
+						-> hello docker
+				Docker image push
+					1. 构建
+						docker image build -t tianyunchuan/pyhello:1.0 .
+						# dockerhub格式：tianyunchuan/pyhello:1.0  (与docker注册用户名一致!)
+						# 修改tag： docker image tag pyhello tianyunchuan/pyhello:1.0
+					2. push到dockerhub上
+						docker login (username, password)
+						docker image push tianyunchuan/pyhello:1.0
+				通过commit创建镜像（很少用）
+					docker container commit 884 tianyunchuan/nginx 
+
+					例：
+						docker container run -it ubuntu sh
+							"""
+							apt-get update && \
+							DEBIAN_FRONTEND=noninteractive apt-get install --no-install-recommends -y python3.9 python3-pip python3.9-dev
+							"""
+						docker container commit d6a tiayunchuan/python-demo
+
+						docker container run -it tiayunchuan/python-demo python3 /tmp/hello.py
+
+		Dockefile详解
+			FROM（基础镜像的选择）
+			    1. 官方镜像优于非官方的镜像，如果没有官方镜像，则尽量选择Dockerfile开源的
+			    2. 固定版本tag而不是每次都使用latest
+			    3. 尽量选择体积小的镜像
+
+			RUN
+				命令行转换为dockerfile格式
+				"""
+				$ apt-get update
+				$ apt-get install wget
+				$ wget https://github.com/ipinfo/cli/releases/download/ipinfo-2.0.1/ipinfo_2.0.1_linux_amd64.tar.gz
+				$ tar zxf ipinfo_2.0.1_linux_amd64.tar.gz
+				$ mv ipinfo_2.0.1_linux_amd64 /usr/bin/ipinfo
+				$ rm -rf ipinfo_2.0.1_linux_amd64.tar.gz
+				"""
+
+				Dockerfile
+				"""
+				FROM ubuntu:21.04
+				RUN apt-get update
+				RUN apt-get install -y wget
+				RUN wget https://github.com/ipinfo/cli/releases/download/ipinfo-2.0.1/ipinfo_2.0.1_linux_amd64.tar.gz
+				RUN tar zxf ipinfo_2.0.1_linux_amd64.tar.gz
+				RUN mv ipinfo_2.0.1_linux_amd64 /usr/bin/ipinfo
+				RUN rm -rf ipinfo_2.0.1_linux_amd64.tar.gz
+				"""
+				运行： docker image build -f DockerFile.bad -tipinfo-bad .
+
+
+				注：
+				上述这样些会生成6层，所以尽量放在一个RUN语句种
+
+				改进版Dockerfile
+				"""
+				FROM ubuntu:21.04
+				RUN apt-get update && \
+				    apt-get install -y wget && \
+				    wget https://github.com/ipinfo/cli/releases/download/ipinfo-2.0.1/ipinfo_2.0.1_linux_amd64.tar.gz && \
+				    tar zxf ipinfo_2.0.1_linux_amd64.tar.gz && \
+				    mv ipinfo_2.0.1_linux_amd64 /usr/bin/ipinfo && \
+				    rm -rf ipinfo_2.0.1_linux_amd64.tar.gz
+				"""
+
+			文件复制、目录操作
+				- 方法
+					往镜像里复制文件有两种方式，COPY 和 ADD , 我们来看一下两者的不同。
+					COPY 和 ADD 都可以把local的一个文件复制到镜像里，如果目标目录不存在，则会自动创建
+						"""
+						FROM python:3.9.5-alpine3.13
+						COPY hello.py /app/hello.py
+						"""
+					ADD 比 COPY高级一点的地方就是，如果复制的是一个gzip等压缩文件时，ADD会帮助我们自动去解压缩文件。
+						"""
+						FROM python:3.9.5-alpine3.13
+						ADD hello.tar.gz /app/
+						"""
+					因此在 COPY 和 ADD 指令中选择的时候，可以遵循这样的原则，所有的文件复制均使用 COPY 指令，仅在需要自动解压缩的场合使用 ADD。
+
+					例：
+						1）准备文件
+							1. Dockerfile-copy
+								"""
+								FROM python:3.9.5-alpine3.13
+								COPY hello.py /app/hello.py
+								"""
+
+								"""
+								FROM python:3.9.5-alpine3.13
+								ADD hello.tar.gz /app
+								"""
+
+							2. hello.py
+								"""
+								print('hello, docker copy')
+								"""
+
+						2）构建docker
+							docker image build -f Dockerfile-copy -t hello-copy .
+							docker image history c1
+
+						3) 查看
+							docker container run -it hello-copy sh
+							ls
+							cd app
+
+			构建参数和环境变量 (ARG vs ENV)
+				-- ENV
+					"""
+					FROM ubuntu:21.04
+					ENV VERSION=2.0.1
+					RUN apt-get update && \
+					    apt-get install -y wget && \
+					    wget https://github.com/ipinfo/cli/releases/download/ipinfo-${VERSION}/ipinfo_${VERSION}_linux_amd64.tar.gz && \
+					    tar zxf ipinfo_${VERSION}_linux_amd64.tar.gz && \
+					    mv ipinfo_${VERSION}_linux_amd64 /usr/bin/ipinfo && \
+					    rm -rf ipinfo_${VERSION}_linux_amd64.tar.gz
+					"""
+
+				-- ARG
+					"""
+					FROM ubuntu:21.04
+					ARG VERSION=2.0.1
+					RUN apt-get update && \
+					    apt-get install -y wget && \
+					    wget https://github.com/ipinfo/cli/releases/download/ipinfo-${VERSION}/ipinfo_${VERSION}_linux_amd64.tar.gz && \
+					    tar zxf ipinfo_${VERSION}_linux_amd64.tar.gz && \
+					    mv ipinfo_${VERSION}_linux_amd64 /usr/bin/ipinfo && \
+					    rm -rf ipinfo_${VERSION}_linux_amd64.tar.gz
+					"""
+				
+				-- 构建
+					docker image build -f Dockerfile-env -t ipinfo-env .
+
+				-- 运行
+					docker container run -it ipinfo-env sh
+					查看 ipinfo版本： ipinfo version
+
+			CMD
+				格式
+					"""
+					FROM ubuntu:21.04
+					RUN apt-get update && \
+					    apt-get install -y wget && \
+					    wget https://github.com/ipinfo/cli/releases/download/ipinfo-2.0.1/ipinfo_2.0.1_linux_amd64.tar.gz && \
+					    tar zxf ipinfo_2.0.1_linux_amd64.tar.gz && \
+					    mv ipinfo_2.0.1_linux_amd64 /usr/bin/ipinfo && \
+					    rm -rf ipinfo_2.0.1_linux_amd64.tar.gz
+					CMD ["ipinfo"]
+					"""
+
+			ENTRYPOINT
+				介绍
+					1. CMD 设置的命令，可以在docker container run 时传入其它命令，覆盖掉 CMD 的命令，但是 ENTRYPOINT 所设置的命令是一定会被执行的。
+					2. ENTRYPOINT 和 CMD 可以联合使用，ENTRYPOINT 设置执行的命令，CMD传递参数 ！
+
+			Shell格式, Exec格式
+				shell格式：
+					CMD echo "hello docker"
+					ENTRYPOINT echo "hello docker"
+				exec格式（用的比较多）：
+					ENTRYPOINT ["echo", "hello docker"]
+					CMD ["echo", "hello docker"]
+
+			构建一个python flask
+				-- app.py
+					"""
+					from flask import Flask
+
+					app = Flask(__name__)
+
+
+					@app.route('/')
+					def hello_world():
+					    return 'Hello, World!'
+					"""
+
+				-- Dockerfile-flask
+					"""
+					FROM python:3.9.5-slim
+
+					COPY app.py /src/app.py
+
+					RUN pip install flask
+
+					WORKDIR /src
+					ENV FLASK=app.py
+
+					EXPOSE 5000
+
+					CMD ["flask", "run", "-h", "0.0.0.0"]
+					""""
+
+				-- 构建：
+					docker image build -f Dockerfile-flask -t flask-demo .
+
+				-- 执行：
+					docker container run -d -p 5000:5000 flask-demo
+
+			Dockerfile 技巧
+				-- 合理使用缓存
+				-- dockerignore
+				-- 多阶段构建
+				-- 尽量使用非root用户
+				-- 学习方法
+					https://github.com/docker-library/official-images/tree/master/library
+
+		容器的存储
+			简介
+			    1. Data Volume, 由Docker管理，(/var/lib/docker/volumes/ Linux), 持久化数据的最好方式
+			    2. Bind Mount，由用户指定存储的数据具体mount在系统什么位置
+
+			数据持久化-Volume
+				1) 准备文件
+					https://dockertips.readthedocs.io/en/latest/docker-volume/data-volume.html
+					1. Dockerfile
+						"""
+						FROM alpine:latest
+						RUN apk update
+						RUN apk --no-cache add curl
+						ENV SUPERCRONIC_URL=https://github.com/aptible/supercronic/releases/download/v0.1.12/supercronic-linux-amd64 \
+						    SUPERCRONIC=supercronic-linux-amd64 \
+						    SUPERCRONIC_SHA1SUM=048b95b48b708983effb2e5c935a1ef8483d9e3e
+						RUN curl -fsSLO "$SUPERCRONIC_URL" \
+						    && echo "${SUPERCRONIC_SHA1SUM}  ${SUPERCRONIC}" | sha1sum -c - \
+						    && chmod +x "$SUPERCRONIC" \
+						    && mv "$SUPERCRONIC" "/usr/local/bin/${SUPERCRONIC}" \
+						    && ln -s "/usr/local/bin/${SUPERCRONIC}" /usr/local/bin/supercronic
+						COPY my-cron /app/my-cron
+						WORKDIR /app
+
+						VOLUME ["/app"]
+
+						# RUN cron job
+						CMD ["/usr/local/bin/supercronic", "/app/my-cron"]
+						"""
+					2. 模拟定时任务
+						vim my-cron
+						"""
+						*/1 * * * * date >> /app/test.txt
+						"""
+
+				2) 构建
+					docker image build -t my-cron .
+				3) 运行
+					docker container run -d my-cron
+					docker container run -d -v cron-data:/app my-cron 　　　#可以加-v参数
+
+				4) 进入容器
+					docker container exec -it 6bf sh
+				5) 查看test.text
+					每分钟打印时间
+				6) 查看 VOLUME ["/app"] 保存的位置
+					docker volume ls
+					结果↓
+					DRIVER    VOLUME NAME
+					local     eeaa1494de7d2f3398b710034fd7bea4332ef9bce6717fb6aeb226e2e46969d5
+				7) 查看保存位置
+					docker volume inspect cron-data↓
+						[
+						    {
+						        "CreatedAt": "2021-08-16T15:55:00+08:00",
+						        "Driver": "local",
+						        "Labels": null,
+						        "Mountpoint": "/var/lib/docker/volumes/cron-data/_data",
+						        "Name": "cron-data",
+						        "Options": null,
+						        "Scope": "local"
+						    }
+						]
+
+			Data Volume 练习：MySQL
+				1. 准备MySQL镜像
+					docker pull mysql:5.7
+				2. vim dockerfile
+					https://github.com/docker-library/mysql/blob/master/5.7/Dockerfile.debian
+				3. 运行
+					docker container run --name some-mysql -e MYSQL_ROOT_PASSWORD=my-secret-pw -d -v mysql-data:/var/lib/mysql mysql:5.7
+				4. 进入mysql容器
+					docker container exec -it 022 sh
+					mysql -u root -p
+					密码：my-secret-pw
+					"""
+					create database demo;
+					show databases;
+					"""
+				5. 查看
+					docker volume ls
+					docker volume inspect 
+					ls  /var/lib/docker/volumes/mysql-data/_data
+				6. 删除
+					docker container rm 7e -f
+					docker volume prune
+
+
+			数据持久化：Bind Mount
+
+		Docker网络
+			网络知识回顾
+				IP、子网掩码、网关、DNS、端口号
+				https://zhuanlan.zhihu.com/p/65226634
+			网络相关命令
+				ip a
+				ping baidu.com
+				docker network ls
+				docker network disconnect bridge box3
+			测试准备
+				1) 虚拟机t01,busybox1 busybox2
+				2) docker container run -d --rm --name box1 busybox /bin/sh -c "while true; do sleep 3600;done"
+				3) docker container exec -it box2 sh
+				4) 查看 ip a
+					box1
+						"""
+						/ # ip a
+						1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue qlen 1000
+						    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+						    inet 127.0.0.1/8 scope host lo
+						       valid_lft forever preferred_lft forever
+						8: eth0@if9: <BROADCAST,MULTICAST,UP,LOWER_UP,M-DOWN> mtu 1500 qdisc noqueue
+						    link/ether 02:42:ac:11:00:02 brd ff:ff:ff:ff:ff:ff
+						    inet 172.17.0.2/16 brd 172.17.255.255 scope global eth0
+						       valid_lft forever preferred_lft forever
+						"""
+						可以ping通baidu
+						exit在容器外：ping 172.17.0.2 可以ping通
+					box2 
+						"""
+						/ # ip a
+						1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue qlen 1000
+						    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+						    inet 127.0.0.1/8 scope host lo
+						       valid_lft forever preferred_lft forever
+						8: eth0@if9: <BROADCAST,MULTICAST,UP,LOWER_UP,M-DOWN> mtu 1500 qdisc noqueue
+						    link/ether 02:42:ac:11:00:03 brd ff:ff:ff:ff:ff:ff
+						    inet 172.17.0.3/16 brd 172.17.255.255 scope global eth0
+						       valid_lft forever preferred_lft forever
+						/ #
+						"""
+						ping 172.17.0.2 -> ok
+
+					web1
+						docker container run -d --name web1 nginx
+						docker container inspect web1
+							"""
+				            "Networks": {
+				                "bridge": {
+				                    "IPAMConfig": null,
+				                    "Links": null,
+				                    "Aliases": null,
+				                    "NetworkID": "7973f6e3c682424c66063a75ec370099bbd5f9c2536d3b                                                                             733ff566ac069acfcf",
+				                    "EndpointID": "3d006bc92c2aa3a07268bdc8c2eae686903673e94b12c                                                                             707ac68d7ccccb420ee",
+				                    "Gateway": "172.17.0.1",
+				                    "IPAddress": "172.17.0.4",
+				                    "IPPrefixLen": 16,
+				                    "IPv6Gateway": "",
+				                    "GlobalIPv6Address": "",
+				                    "GlobalIPv6PrefixLen": 0,
+				                    "MacAddress": "02:42:ac:11:00:04",
+				                    "DriverOpts": null
+				                }
+				            }
+				            """
+				5) 虚拟机01中的 box1, box2, web1 都可以通信
+				6) 虚拟机02 
+					crul 172.17.0.4  无法连接虚拟机01-web1
+				7) 虚拟机01构建web2
+					docker container run -d -p 80:80 --name web2 nginx
+				8) 虚拟机02
+					curl 192.168.3.194:80
+					可以获取html页面
+			容器间通信 Bridge模式
+				docker network ls
+					"""
+					NETWORK ID     NAME      DRIVER    SCOPE
+					7973f6e3c682   bridge    bridge    local
+					c592f4183221   host      host      local
+					66977e524a19   none      null      local
+					"""
+			容器对外通信 Bridge模式
+				查看桥接网络接口
+					yum install -y bridge-utils
+					brctl
+				查看路由
+					ip route
+				转发规则
+					iptables --list -t nat
+			NAT	Network Address Translation 
+			创建&自定义 Bridge
+				创建
+					docker network create -d bridge mybridge
+				查看
+					docker network ls
+						"""
+						NETWORK ID     NAME       DRIVER    SCOPE
+						f176850a07b6   bridge     bridge    local
+						c592f4183221   host       host      local
+						320dc6da8d5d   mybridge   bridge    local
+						66977e524a19   none       null      local
+						"""		
+					docker network inspect mybridge
+				测试构建
+					docker container run -d --rm --name box3 --network mybridge busybox /bin/sh -c "while true;do sleep 3600;done"
+				查看
+					docker container inspect box3
+						"""
+			            "Networks": {
+			                "mybridge": {
+			                    "IPAMConfig": null,
+			                    "Links": null,
+			                    "Aliases": [
+			                        "2aa268b75302"
+			                    ],
+			                    "NetworkID": "320dc6da8d5d6fe82ad531ad2d9e697cd57ba6ad26d78f0b008d2fee451afde1",
+			                    "EndpointID": "c009147a055a309c03f5674b8a510ca8f8aa8c1f779374aeec9042a91643953d",
+			                    "Gateway": "172.18.0.1",
+			                    "IPAddress": "172.18.0.2",
+			                    "IPPrefixLen": 16,
+			                    "IPv6Gateway": "",
+			                    "GlobalIPv6Address": "",
+			                    "GlobalIPv6PrefixLen": 0,
+			                    "MacAddress": "02:42:ac:12:00:02",
+			                    "DriverOpts": null
+			                }
+			            }
+						"""			
+				同时连两个网络
+					再连一个默认的bridge：
+						docker network connect bridge box3
+					查看
+						docker container inspect box3
+							"""
+							"Networks": {
+							    "bridge": {
+							        "Gateway": "172.17.0.1",
+							        "IPAddress": "172.17.0.2",
+							    },
+							    "mybridge": {
+							        "Gateway": "172.18.0.1",
+							        "IPAddress": "172.18.0.2",
+							    }
+							}
+							"""
+					另一种查看方式
+						docker container exec -it box3 sh
+							"""
+							/ # ip a
+							1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue qlen 1000
+							    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+							    inet 127.0.0.1/8 scope host lo
+							       valid_lft forever preferred_lft forever
+							13: eth0@if14: <BROADCAST,MULTICAST,UP,LOWER_UP,M-DOWN> mtu 1500 qdisc noqueue
+							    link/ether 02:42:ac:12:00:02 brd ff:ff:ff:ff:ff:ff
+							    inet 172.18.0.2/16 brd 172.18.255.255 scope global eth0
+							       valid_lft forever preferred_lft forever
+							15: eth1@if16: <BROADCAST,MULTICAST,UP,LOWER_UP,M-DOWN> mtu 1500 qdisc noqueue
+							    link/ether 02:42:ac:11:00:02 brd ff:ff:ff:ff:ff:ff
+							    inet 172.17.0.2/16 brd 172.17.255.255 scope global eth1
+							       valid_lft forever preferred_lft forever
+							"""		
+					切断链接 disconnect
+						docker network disconnect bridge box3
+				设置Gateway, subnet
+					docker network create -d bridge --gateway 172.200.0.1 --subnet 172.200.0.0/16 mybridge-demo
+					docker network inspect mybridge-demo
+						"""
+						"Config": [
+						    {
+						        "Subnet": "172.200.0.0/16",
+						        "Gateway": "172.200.0.1"
+						    }
+						]
+						"""
+			容器端口转发
+				构建
+					docker container run -d --rm --name web -p 8080:80 nginx
+				查看ip
+					docker container inspect --format '{{.NetworkSettings.IPAddress}}' web
+					172.17.0.6
+				box1 ip
+					172.17.0.2
+
+				浏览器访问：
+					192.168.3.198:8080/
+			端口转发和Dockerfile		nginx官方DOckerfile -> EXPOSE 80
+			HOST网络详解 ->与主机相同
+			Linux网络命名空间
+				常用Namespace
+					user namespace
+					process namespace
+					network namespace
+			Demo: flask_redis https://dockertips.readthedocs.io/en/latest/single-host-network/flask-redis.html
+
+		# 操作技巧
+			批量操作				docker container stop $(docker container ps -aq) 
+			强制删除(-f)			docker container rm *** -f
+
+		# docker compose
+			安装&Doc
+				pip install docker-compose
+				https://docs.docker.com/compose/compose-file/
+	系统学习Docker 践行DevOps理念
+		url: https://coding.imooc.com/class/189.html
+		yum install docker
+		systemctl start docker
+		systemctl enable docker
+		0.4)  Doocker
+			---- ** CentOS docker 常用命令
+				https://www.cnblogs.com/yingsi/p/8324452.html
+
+			---- 概要
+				1. Docker是容器（隔离、打包）技术的代表
+				2. 2013年开源
+				3. 理顺了开发、运维环境的差异问题
+			---- 
+				1. 定义
+					Docker 是一个开源的应用容器引擎，让开发者可以打包他们的应用以及依赖包到一个可移植的镜像中，然后发布到任何流行的 Linux或Windows 机器上，也可以实现虚拟化。容器是完全使用沙箱机制，相互之间不会有任何接口。
+				2. 粗糙的理解为轻量级的虚拟机
+				3. server > Host OS > DockerEngine > Bins/Libs > App A,B,C...
+
+			---- CentOS环境下安装
+				# https://www.cnblogs.com/yufeng218/p/8370670.html
+
+				1. uname -r
+					# Docker 要求 CentOS 系统的内核版本高于 3.10 ，查看本页面的前提条件来验证你的CentOS 版本是否支持 Docker 。
+				2. yum update
+					# 使用 root 权限登录 Centos。确保 yum 包更新到最新。
+				3. yum remove docker  docker-common docker-selinux docker-engine
+					# 卸载旧版本(如果安装过旧版本的话)
+				4. yum install -y yum-utils device-mapper-persistent-data lvm2
+					# 安装需要的软件包， yum-util 提供yum-config-manager功能，另外两个是devicemapper驱动依赖的
+				5. yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
+					# 设置yum源
+				6. yum list docker-ce --showduplicates | sort -r
+					# 可以查看所有仓库中所有docker版本，并选择特定版本安装
+				7. yum install docker-ce  #由于repo中默认只开启stable仓库，故这里安装的是最新稳定版17.12.0
+					# 安装docker
+				8. systemctl start docker
+				9. systemctl enable docker  # 开机启动
+				10. docker version 			# 验证安装是否成功(有client和service两部分表示docker安装启动都成功了)
+				11. docker info
+
+			阿里云docker：
+				https://helpcdn.aliyun.com/document_detail/51853.html
+
+				https://cr.console.aliyun.com/cn-zhangjiakou/instances/mirrors
+				阿里云容器加速器
+				https://8dbo18w5.mirror.aliyuncs.com
+
+			第2章 实践第一步 
+				2-1 docker架构介绍与实战 (11:43) 
+					docker run centos echo 'Hello World' 			# Hello World
+					docker images 									# 镜像查看
+					docker run nginx
+
+					docker pull		获取image
+					docker build 	创建image
+					docker images 	列出image
+					docker run 		运行container
+					dorker ps 		列出container
+					docker rm 		删除container
+					docker rmi 		删除image
+					docker rmi -f $(docker images -q)
+					docker cp 		在host和container质安监拷贝
+					docker commit 	保存改动为新的image
+
+
+
+
+					# 建立容器
+					docker run -p 8080:80 -d daocloud.io/nginx      # ?
+
+						http://10.101.1.111:8080/
+						http://192.168.3.12:8080/
+
+					docker ps
+						CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                  NAMES
+						b3ea0bab0445        daocloud.io/nginx   "nginx -g 'daemon of…"   6 minutes ago       Up 6 minutes        0.0.0.0:8080->80/tcp   musing_tereshkova
+
+					vim index.html
+						<html>
+						<h1>Docker in fun !</h1>
+						</html>	
+
+					# 开启
+					docker cp index.html b3ea0bab0445://usr/share/nginx/html
+
+					# 保存
+					docker commit -m 'fun' 6a403a68c979 nginx-fun
+
+					# 删除
+					docker rmi d6d857645173
+
+					# 显示所有
+					docker ps -a
+
+					# 删除
+					docker rm 6a403a68c979
+
+					# 停止容器
+					[root@09100502dc17 ~]# exit     # 退出容器
+
+
+					run（命名、命令行交互） [root@ti ~]# docker run -it --name cos1 centos
+					退出 ： exit
+					退出不断开 ctr + p, q
+					进入容器 [root@ti ~]# docker attach 09100502dc17
+					启动容器 start, restart, stop, kill
+					一次性删除多个容器 	[root@ti ~]# docker rm -f $(docker ps -a -q)
+					一次性删除多个容器 	[root@ti ~]# docker ps -a -q|xargs docker rm -f
+
+					# 后台守护程序模式运行（ubuntu没有前台，立即中止，用于有前台的程序，如nginx，mangodb....）
+					[root@ti ~]# docker run -d --name ubt1 docker.io/ubuntu
+					a9ea56051562543321da4b9e2745b91f1dce8a23c108516baa8fa350f575f67c
+
+					# 查看日志
+					[root@ti ~]# docker run -d centos /bin/sh -c "while true;do echo hello yyds;sleep 2;done;"
+					[root@ti ~]# docker logs -t -f --tail 3 fa474893d5ac
+
+					# 不进入交互状态执行命令（exec, 在容器外面，可以启动容器内的程序）
+					[root@ti ~]# docker exec -t cos1 ls -l /root
+
+					# 复制容器内容到宿主机
+					[root@ti ~]# docker cp 3d14d9c0018a:/tmp/abc.test /tmp
+			第3章 Dockerfile介绍
+				3-1 dockerfile介绍(04:20)
+					-- 主要命令
+						FROM alpline:latest
+						MAINTAINER xbf
+						CMD echo 'hello docker'
+					-- 具体操作
+						- mkdir d1
+						
+						- touch Dockerfile
+						- vim Dockerfile
+							"""
+							FROM alpine:latest
+							MAINTAINER xbf
+							CMD echo 'Hello Docker!'
+							"""
+						- docker build -t hello_docker .
+						- docker images hello_docker
+			mooc_第3章 Docker的镜像和容器 
+			
+				3-2 Docker Image概述 (11:03) 
+					-- 基本命令
+						docker image ls 	# 显示镜像
+					-- registry
+						docker pull ubuntu:14.04
+
+						#　https://hub.docker.com/search?q=&type=image
+
+				3-3 DIY一个Base Image (12:16) 
+					-- 无需sudo
+						sudo groupadd docker
+						sudo gpasswd -a ti docker
+					-- docker存在的test image hello-world
+						docker pull hello-world
+						docker run hello-world
+					-- 建立一个BaseImage
+						-- mkdir hello-world
+						-- cd hello-world/
+
+						-- yum install gcc
+						-- yum install glibc-static
+
+						-- 创建一个C语言程序
+							vim hello.c
+								'''
+								#include<stdio.h>
+
+								int main()
+								{
+								        printf("hello docker\n");
+								}
+
+								'''
+
+						-- 生成可执行文件
+							gcc -static hello.c -o hello
+
+						-- 创建Dockerfile的文件
+							vim Dockerfile
+								'''
+								FROM scratch
+								ADD hello /
+								CMD ["/hello"]					
+								'''
+						-- 构建
+							docker build -t tian/hello-world .
+						-- docker image ls
+						-- docker history 188f6adda523
+						-- docker run tian/hello-world
+
+				3-4 初识Container (15:10) 
+					-- docker container ls 			# 查看
+					-- docker container ls -a 		# 查看
+					-- 例：运行centos
+						docker run centos
+						docker iamge ls
+						docker iamge ls -a
+					-- 交互式
+						docker run -it centos
+						exit
+					-- 基本命令（container）
+						docker container rm 4d3a8d28bec5  cc43bac61658
+						docker ps -a (等同于 docker container ls -a)
+					-- 基本命令（image）
+						docker rmi *************
+						docker container ls -aq
+						docker rm $(docker container ls -aq)
+						删除相同id的
+						docker rmi xiaopeng163/hello-world:latest
+
+
+				3-5 构建自己的Docker镜像 (10:18) 
+					-- docker commit (docker container commit)
+						# 在centos image上创建（不推荐
+						-- docker run -it centos
+						-- [root@00677ce130c8 /]# yum install vim -y
+						-- [root@00677ce130c8 /]# exit
+						-- docker container ls -a
+						-- docker commit unruffled_hypatia tian/centos-vim
+						-- docker history 9f38484d220f
+
+						# dockerfile创建（推荐）
+						-- mkdir docker-centos-vim
+						-- cd docker-centos-vim/
+						-- vim Dockerfile
+							'''
+							FROM centos
+							RUN yum install -y vim				
+							'''
+						-- docker build -t tian/centos-vim-new .
+
+					-- docker build  (docker image build)
+
+				3-6 Dockerfile语法梳理及最佳实践 (10:45) 
+					-- FROM
+						-- FROM scratch 	# 制作 base image
+						-- FROM centos 		# 使用 base image
+						-- FROM ubuntu:14.01
+					-- LABEL
+						-- LABEL maintainer="tianyunchuan@gmail.com"
+						-- LABEL version="1.0"
+						-- LABEL description="This is desc"
+						# Metadata 不可少！
+					-- RUN
+						# 合并多条（避免无用分层）、反斜线换行
+						-- RUN yum update && yum install -y vim\
+							python-dev  # 反斜线换行
+						--RUN yum u
+
+					-- WORKDIR
+						-- WORKDIR /root
+						-- WORKDIR /test # 如果没有会自动创建目录
+						-- WORKDIR demo
+						-- RUN pwd # 输出结果应该是/test/demo
+
+						# 用WORKDIR，用药用RUN cd，尽量使用绝对目录 
+
+					-- ADD and COPY
+						-- ADD hello /
+						-- ADD test.tar.gz / # 添加到根目录并解压
+						-- 
+							WORKDIR /root
+							ADD hello test/ 	 # /root/test/hello
+
+						# 大部分时间COPY由于ADD
+						# ADD有解压功能
+						# 添加远程文件/目录请用curl、wget
+					-- ENV
+						-- MYSQL_VERSION 5.6  # 设置常量
+						-- RUN apt-get install -y mysql-server="${MYSQL_VERSION}"\
+							&& rm -rf /var/lib/apt/lists/* 	# 应用常量
+						# 尽量使用提高可维护性
+					-- VOLUME and EXPOSE
+					-- CMD and ENTRYPOINT
+
+				3-7 RUN vs CMD vs Entrypoint (15:42) 
+					-- 区别
+						-- RUN：执行命令并创建新的Image Layer
+						-- CMD：设置容器启动后默认执行的命令和参数
+						-- ENTRYPOINT：设置容器启动时运行的命令
+					-- shell格式
+						-- RUN apt-get install -y vim
+						-- CMD echo "hello docker"
+						-- ENTRY echo hello docker""
+						# Exec
+
+					-- 测试
+						>> echo
+						-- mkdir cmd_vs_entrypoint
+						-- cd cmd_vs_entrypoint/
+						-- vim Dockerfile
+							'''
+							FROM centos
+							ENV name Docker
+							ENTRYPOINT echo "hello $name"						
+							'''
+						-- docker build -t tian/centos-entrypoint-shell .
+						-- docker image ls
+						-- docker run tian/centos-entrypoint-shell
+						## vi /etc/sysctl.conf
+							'''
+							添加如下代码：
+							net.ipv4.ip_forward=1
+							'''
+							systemctl restart network
+
+						>> exec
+						-- vim Dockerfile
+							'''
+							FROM centos
+							ENV name Docker
+							#ENTRYPOINT echo "hello $name"
+							ENTRYPOINT ["/bin/bash","-c","echo" "hello $name"]
+							'''			
+
+						-- docker build -t tian/centos-entrypoint-exec .    
+
+					>>cmd
+						-- vim Dockerfile
+							'''
+							FROM centos
+							ENV name Docker
+							#ENTRYPOINT echo "hello $name"
+							CMD echo "hello $name"					
+							'''
+						-- docker build -t tian/centos-cmd-shell .
+						-- docker run tian/centos-cmd-shell
+
+				3-8 镜像的发布 (16:14) 
+					-- 建立一个BaseImage
+						-- mkdir hello-world
+						-- cd hello-world/
+
+						-- yum install gcc
+						-- yum install glibc-static
+
+						-- 创建一个C语言程序
+							vim hello.c
+								'''
+								#include<stdio.h>
+
+								int main()
+								{
+								        printf("hello docker\n");
+								}
+
+								'''
+						-- 生成可执行文件
+							gcc -static hello.c -o hello
+
+						-- 创建Dockerfile的文件
+							vim Dockerfile
+								'''
+								FROM scratch
+								ADD hello /
+								CMD ["/hello"]					
+								'''
+						-- 构建
+							docker build -t tianyunchuan/hello-world .
+						-- docker image ls
+						-- docker history 188f6adda523
+						-- docker run tianyunchuan/hello-world
+					-- docker login
+						tianyunchuan
+						t65
+
+					-- 私有docker服务器建立 ?????????????????
+						## https://hub.docker.com/_/registry
+						服务器端
+						-- docker run -d -p 5000:5000 --restart always --name registry registry:2
+						-- docker ps
+
+						访问端
+						-- 
+							-- yum install telnet-server
+							-- yum -y install telnet
+							-- yum -y install xinetd
+
+				3-9 Dockerfile实战 (17:49) 
+					## python
+						wget https://bootstrap.pypa.io/get-pip.py
+						python get-pip.py
+						pip install flask
+
+				4-6 容器的端口映射 (13:55) 
+					-- docker run -d -p 80:80 --name web nginx
+					-- 39.98.59.77
+
+[redis]
+	相关链接：
+		#  Regis, 大众点评数据库缓存应用, https://blog.csdn.net/weixin_44314661/article/details/103066501
+		windows版本：https://github.com/MSOPENTECH/redis/release
+		imooc：https://coding.imooc.com/lesson/114.html#mid=5135
+		http://redis.cn/commands.html
+		https://www.runoob.com/w3cnote/python-redis-intro.html
+		redis-py.readthedocs.io/en/latest/#
+	本地链接
+		C:\Users\tianyunchuan>redis-cli
+		127.0.0.1:6379>
+
+	图形管理工具
+		https://github.com/uglide/RedisDesktopManager
+
+	基本操作
+		String -> set, get, mset, mget, del, incr, decr, set ** EX **
+			set
+			127.0.0.1:6379> set animal 'Cat'
+			OK
+
+			127.0.0.1:6379> get animal 'Cat'
+			OK
+
+
+			127.0.0.1:6379> append animal "Dog"
+			(integer) 6
+			127.0.0.1:6379> get animal
+			"CatDog"
+
+			127.0.0.1:6379> mset user1 "tian" user2 "zhang"
+			OK
+
+			127.0.0.1:6379> get user1
+			"tian"
+
+			127.0.0.1:6379> mget user1 animal user2
+			1) "tian"
+			2) "CatDog"
+			3) "zhang"
+
+			127.0.0.1:6379> del user2
+			(integer) 1
+
+			127.0.0.1:6379> get user2
+			(nil)
+
+			127.0.0.1:6379> set num 10
+			OK
+
+			127.0.0.1:6379> decr num
+			(integer) 9
+
+			127.0.0.1:6379> incr num
+			(integer) 9
+
+			127.0.0.1:6379> set animal "Cat" EX 5
+			OK
+			127.0.0.1:6379> get animal
+			"Cat"
+			127.0.0.1:6379> get animal
+			(nil)
+
+			127.0.0.1:6379> set user:john;age:45 "0000"
+			OK
+			127.0.0.1:6379> get user:john;age:45
+			"0000"
+
+		List -> lpush/rpush， lrange, ltrim 
+			主要命令：
+				lpush/rpush 	从左/右插入数据
+				lrange			获取指定长度的数据
+				ltrim 			截取一定长度
+				lpop/rpop 		移除最左右的元素并返回
+				lpushx/rpushx	key存在时才动作
+			实际操作
+				127.0.0.1:6379> lpush q1 "john" "cat" "amy"
+				(integer) 3
+				127.0.0.1:6379> llen q1
+				(integer) 3
+				27.0.0.1:6379> lrange q1 0 -1
+				1) "amy"
+				2) "cat"
+				3) "john"
+
+				127.0.0.1:6379> rpush q1 "bob"
+				(integer) 4
+				127.0.0.1:6379> lrange q1 0 9999
+				1) "amy"
+				2) "cat"
+				3) "john"
+				4) "bob"
+				127.0.0.1:6379>
+
+				127.0.0.1:6379> lpushx q1 "zhang1"
+				(integer) 5
+				127.0.0.1:6379> lrange q1 0 -1
+				1) "zhang1"
+				2) "amy"
+				3) "cat"
+				4) "john"
+				5) "bob"
+				127.0.0.1:6379> lpushx q2 "zhang2"
+				(integer) 0
+
+				127.0.0.1:6379> ltrim q1 0 2
+				OK
+				127.0.0.1:6379> lrange q1 0 -1
+				1) "zhang1"
+				2) "amy"
+				3) "cat"
+
+				127.0.0.1:6379> lpop q1
+				"zhang1"
+				127.0.0.1:6379> lrange q1 0 -1
+				1) "amy"
+				2) "cat"
+				127.0.0.1:6379>
+
+				127.0.0.1:6379> rpop q1
+				"cat"
+				127.0.0.1:6379> lrange q1 0 -1
+				1) "amy"
+				127.0.0.1:6379>
+
+		Set
+			命令：
+				sadd/srem		添加删除元素
+				sismember 		判断是否为set的一个元素
+				smembers 		返回该集合的所有成员
+				sdiff 			返回一个集合与其他集合的差异
+				sinter 			返回几个集合的交集
+				sunion 			返回几个集合的并集
+
+			代码实例：
+				127.0.0.1:6379> sadd zoo Cat Dog     # 可以不加双引号
+				(integer) 2
+				127.0.0.1:6379> smembers zoo
+				1) "Dog"
+				2) "Cat"
+
+				127.0.0.1:6379> srem zoo cat
+				(integer) 0
+				127.0.0.1:6379> srem zoo Cat
+				(integer) 1
+
+				127.0.0.1:6379> sismember zoo Dog
+				(integer) 1
+				127.0.0.1:6379>
+
+				127.0.0.1:6379> smembers zoo
+				1) "Dog"
+				2) "Cat"
+
+				127.0.0.1:6379> sadd zoo1 Cat Cow Cow
+				(integer) 2
+				127.0.0.1:6379> sdiff zoo zoo1
+				1) "Dog"
+				127.0.0.1:6379>
+
+				127.0.0.1:6379> sdiff zoo1 zoo
+				1) "Cow"
+				127.0.0.1:6379>
+
+				127.0.0.1:6379> sinter zoo zoo1
+				1) "Cat"
+				127.0.0.1:6379>
+
+				127.0.0.1:6379> sunion zoo zoo1
+				1) "Dog"
+				2) "Cow"
+				3) "Cat"
+				127.0.0.1:6379>
+
+		Hash
+			基本命令：
+				hset/hget 			设置/获取散列值
+				hmset/hmget 		设置获取多对散列值
+				hsetnx 				如果散列已经存在，则不设置
+				hkeys/hvals 		返回所有keys/values
+				hlen 				返回散列包含域（field）的数量
+				hdel 				删除散列指定的域（field）
+				hexists 			判断是否存在
+
+			代码示例
+				127.0.0.1:6379> hset news:1 title "News Title"
+				(integer) 1
+				127.0.0.1:6379> hset news:1 content "News Content"
+				(integer) 1
+				127.0.0.1:6379> hget news:1 title
+				"News Title"
+
+				127.0.0.1:6379> hmget news:1 title content
+				1) "News Title"
+				2) "News Content"
+				127.0.0.1:6379>
+
+				127.0.0.1:6379> hmset news:2 title "Title2" content "Content2" is_valid 1
+				OK
+
+				127.0.0.1:6379> hmget news:2 title content is_valid
+				1) "Title2"
+				2) "Content2"
+				3) "1"
+
+				127.0.0.1:6379> hkeys news:1
+				1) "title"
+				2) "content"
+				127.0.0.1:6379>
+
+				127.0.0.1:6379> hvals news:2
+				1) "Title2"
+				2) "Content2"
+				3) "1"
+
+				127.0.0.1:6379> hlen news:2
+				(integer) 3
+
+				127.0.0.1:6379> hdel news:2 is_valid
+				(integer) 1
+
+				127.0.0.1:6379> hlen news:2
+				(integer) 3
+				127.0.0.1:6379> hdel news:2 title
+				(integer) 1
+				127.0.0.1:6379> hlen news:2
+				(integer) 2
+
+				127.0.0.1:6379> hset news:2 title "Title1append"
+				(integer) 1
+				127.0.0.1:6379> hexists news:2 title
+				(integer) 1
+				127.0.0.1:6379>
+
+[pycharm] 快捷键
+	参考：https://www.cnblogs.com/test-dzhgq/p/14645549.html
+	ctrl + ] 行尾
+	Ctrl + Alt + L  代码格式化
+	Ctrl + D  复制选定的区域（一行或多行）
+	Ctrl + Y  删除当前行
+	Shift + Enter  任意位置换行
+	Ctrl + Shift +/-  展开/折叠全部代码块
+	Ctrl + Shift + F7
+	双击Shift  快速查找
+	Alt + Enter  智能语法提示
+	Ctrl + Delete  删除到字符结束
+	Shift + F6  方法或变量重命名
+
+
+
+[minecraft]
+	# 生成启动文件：https://blog.csdn.net/networken/article/details/84477537
+	视频地址：https://www.bilibili.com/video/BV13N411o7TU?spm_id_from=333.337.search-card.all.click&vd_source=e91b49672370bf602fa9705cd3915ec6
+	tmux操作指南：https://blog.csdn.net/qq_38156104/article/details/125093656
+	java -Xmx1024M -Xms512M -jar /root/minecraft/mc1.16.1/mc_server_1.16.1.jar nogui
+	java -Xmx1024M -Xms512M -jar /root/minecraft/mc1.19.1/mc_server_1.19.1.jar nogui
+	vim eula.txt (改为ture)
+
+
+	yum install tmux
+
+
+	touch start.bash
+	"""
+	#!/bin/bash
+	tmux new-session -s mc -d 'java -Xmx1024M -Xms512M -jar /root/minecraft/mc1.16.1/mc_server_1.16.1.jar nogui'
+	"""
+
+	"""
+	#!/bin/bash
+	tmux new-session -s mc -d 'java -Xmx1024M -Xms512M -jar /root/minecraft/mc1.19.1/mc_server_1.19.1.jar nogui'
+	"""
+
+	启动
+	[root@ti mc1.16.1]# chmod 777 start.bash
+	[root@ti mc1.16.1]# ./start.bash
+
+	查看
+	tmux a
+
+
+	firewall-cmd --zone=public --add-port=25565/tcp --permanent
+
+
+	[{"name":"JumboCoder25830","uuid":"d9a98c1e-37e9-4a42-a432-7000d5d4486a","expiresOn":"2022-11-01 14:01:42 +0800"},{"name":"WittedRose30654","uuid":"cef67c1f-3a9b-4f71-ba3c-7a0753f4c58f","expiresOn":"2022-11-01 11:18:22 +0800"}][root@ti mc1.19.1]
+
+	[root@ti survival]# cat usercache.json
+	[{"name":"JumboCoder25830","uuid":"d9a98c1e-37e9-4a42-a432-7000d5d4486a","expiresOn":"2022-11-04 10:04:15 +0800"},{"name":"WittedRose30654","uuid":"cef67c1f-3a9b-4f71-ba3c-7a0753f4c58f","expiresOn":"2022-11-04 09:56:03 +0800"}][root@ti survival]#
+
+
+	配置ops权限
+		1、服务端查看离线用户的UUID
+			root@mcserver:~# cat /opt/minecraft/instances/survival/usercache.json 
+			[{"name":"steve","uuid":"53909932-f794-33c0-9329-948045a4c1ce","expiresOn":"2022-07-09 21:44:37 +0800"}]
+		2、配置 ops.json 文件，将用户steve设为op
+			root@mcserver:~# vim /opt/minecraft/instances/survival/ops.json 
+
+[
+  {
+    "uuid": "cef67c1f-3a9b-4f71-ba3c-7a0753f4c58f",
+    "name": "WittedRose30654",
+    "level": 6,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d9a98c1e-37e9-4a42-a432-7000d5d4486a",
+    "name": "JumboCoder25830",
+    "level": 32,
+    "bypassesPlayerLimit": false
+  }
+]
+
+
+
+
+	生成启动文件
+		3、创建minecraft服务启动文件，复制粘贴以下内容到命令行
+			mkdir -p /opt/minecraft/instances/survival
+
+			cat >/lib/systemd/system/minecraft-survival.service<<'EOF'
+				[Unit]
+				Description=Minecraft Server
+				Wants=network.target
+				After=network.target
+
+				[Service]
+				Type=simple
+				WorkingDirectory=/root/minecraft/instances/survival
+
+				#ExecStart=/usr/bin/java -Xms2G -Xmx4G -jar /root/minecraft/jars/server.jar nogui
+				#ExecStart=/usr/bin/java tmux new-session -s mc -d 'java -Xmx1024M -Xms512M -jar /root/minecraft/mc1.19.1/mc_server_1.19.1.jar nogui'
+				ExecStart=/usr/bin/java -Xmx1024M -Xms512M -jar /root/minecraft/mc1.19.1/mc_server_1.19.1.jar nogui
+
+				RestartSec=30
+				Restart=on-failure
+				KillMode=process
+				KillSignal=SIGINT
+				SuccessExitStatus=130
+				StandardInput=null
+
+				[Install]
+				WantedBy=default.target
+
+
+
+
+				# 启动服务端
+				systemctl start minecraft-survival
+
+				# 停止服务端
+				systemctl stop minecraft-survival
+
+				# 重启服务端
+				systemctl restart minecraft-survival
+
+				# 查看服务运行状态
+				systemctl status minecraft-survival
+
+				# 查看服务启动日志
+				journalctl -xe
+
+
+				systemctl daemon-reload
+				x/y/z -550/65/-6
+
+
+	New Minecraft
+		-- 准备工作
+			mkdir minecraft
+			cd minecraft
+			mkdir versions
+			cd versions
+			wget wget https://piston-data.mojang.com/v1/objects/f69c284232d7c7580bd89a5a4931c3581eae1378/server.j
+
+			mkdir -p /home/tian/minecraft/instance/mc_v1.19.2
+
+		-- 防火墙开放端口
+ 			firewall-cmd --zone=public --add-port=80-90/tcp --permanent
+			firewall-cmd --zone=public --add-port=3306/tcp --permanent
+			
+			firewall-cmd --reload
+			firewall-cmd --list-all
+			firewall-cmd --list-ports
+
+		-- 制作启动文件
+			cat >/lib/systemd/system/mc_1.19.2.service<<'EOF'
+			[Unit]
+			Description=Minecraft Server
+			Wants=network.target
+			After=network.target
+
+			[Service]
+			Type=simple
+			WorkingDirectory=/home/tian/minecraft/instance/mc_v1.19.2
+			ExecStart=/usr/bin/java -Xms512M -Xmx1024M -jar /home/tian/minecraft/versions/server_1.19.2.jar nogui
+			RestartSec=30
+			Restart=on-failure
+			KillMode=process
+			KillSignal=SIGINT
+			SuccessExitStatus=130
+			StandardInput=null
+
+			[Install]
+			WantedBy=default.target
+			EOF
+
+
+		-- 生成eula文件
+			echo "eula=true" > /home/tian/minecraft/instance/mc_v1.19.2/eula.txt
+
+
+		-- 初次启动
+			systemctl start mc_1.19.2.service
+
+			# 启动服务端
+			systemctl start minecraft-survival
+
+			# 停止服务端
+			systemctl stop minecraft-survival
+
+			# 重启服务端
+			systemctl restart minecraft-survival
+
+			# 查看服务运行状态
+			systemctl status minecraft-survival
+
+			# 查看服务启动日志
+			journalctl -xe
+
+			# 开机启动
+			systemctl enable minecraft-survival.service
+
