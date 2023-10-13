@@ -1,3 +1,5 @@
+git@github.com:tian-home/sublimeGit.git
+
 MMJ页面DC（&tester=1）
 	https://www.net-research.com/e/1207512/cscroll.php?cap=1&code=3&tester=1
 	[Ctrl]+[F5] で更新
