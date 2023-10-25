@@ -1981,7 +1981,7 @@ data.columns = ['sex','age','label']  # fancyimpute填补缺失值时会自动�
 #   nan填充为*
 df = df.fillna(value='*')
 
-## isin（df操作） 多条件
+## isin（df操作） 多条件筛选
 df1 = df[~df['shop'].isin(['专营店','专卖店','阿里健康大药房'])]
 set(df1['shop'])
 df1 = df[df['shop'].isin(['专营店','专卖店'])]
