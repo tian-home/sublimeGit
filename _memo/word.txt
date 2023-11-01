@@ -1021,3 +1021,100 @@ mk_cn
 		喜茶、奈雪等产品在诞生之初便与高端茶饮挂钩，能够为30多元买单的消费者，其中掺杂着社交性、情感性、互动性，而这些内容的源头，人是不可缺少的中介。
 
 		即便如此，国际两大巨头饮料企业仍坚持使用化学合成防腐剂，比如可口可乐旗下的零度无糖可乐、无糖雪碧，均添加了苯甲酸钠作为防腐剂；而百事可乐无糖配方产品，则同时添加了苯甲酸钠、山梨酸钾两种防腐剂。
+
+	有超预期的体验（体验创新）
+
+	
+
+数字营销术语：
+	01 数字营销
+
+		1. 【付费媒体广告 Paid Media】
+
+		IMP：Impression，曝光量，指广告本身有效展现的次数。
+		 CLICK：点击量，指广告有效展现后被点击的次数。
+		CTR：Click Through Rate，点击率，用点击量除以曝光量得出。
+		CPM：Cost Per Mille，也称Cost Per Thousands Impression，千人曝光成本。
+		CPC：Cost Per Click，单次点击成本。
+		CPD：Cost Per Display，单个广告位成本。
+		CPA：Cost Per Action，单次行动成本。
+		SOV：Share of Voice，声量占比。
+		SOS：Share of Spending，费用占比。
+
+		2. 【社交媒体营销 Social Media】
+
+		KOL：Key Opinion Leader，关键意见领袖。
+		KOC：Key Opinion Consumer，关键意见消费者。
+		BGC：Brand Generated Content，品牌生产内容。
+		PGC：Professional Generated Content，专业生产内容。
+		UGC：User Generated Content，用户生产内容。
+		MCN：Multi-Channel Network，多频道网络，泛指与内容创作者合作或直接生产各种独特内容的任何实体或
+		组织，MCN为网红和自媒体提供内容策划制作、宣传推广、粉丝管理、签约代理等各类服务，并在发布内容的
+		网络平台上执行业务和营销功能，但MCN不隶属于平台所有者或直接隶属于渠道本身。
+		IP：Intellectual Property，直译为“知识产权”，但在互联网界已引申为所有成名文创（文学、影视、动漫、游戏
+		等）作品的统称。进一步引申为能够仅凭内容自身的吸引力，在多个平台上获得流量，进行分发的内容，就是
+		一个IP，因此IP也可以说是一款能带来流量效应的产品。
+
+		3. 【搜索引擎 Search Engine】
+
+		SEM：Search Engine Management，搜索引擎营销。
+		SEO：Search Engine Optimization，搜索引擎优化。
+
+	02 全域营销:
+
+		A/B测试（A/B Testing）：是一种通过对比两个版本的营销活动，确定哪个版本更有效的测试方法。
+
+		CTA：Call To Action，行动号召，指在营销活动中引导用户采取特定的行动，如点击链接、填写表单等。
+
+		H5：HTML5的简称。与Flash类似（用于实现动画和各种酷炫的人机交互界面等），但是比Flash具有更强的兼
+		容性，可扩展性，稳定性以及安全性，H5在移动端几乎已经完全取代了Flash。
+
+		IP地址：Internet Protocol（网络互联协议）的缩写。IP地址就是给每个连接在互联网上的主机分配的一个地
+		址，过去用于判断不同的访问行为属于同一个人，目前已经很不可行。
+
+		LBS：Location Based Service，基于位置的服务。
+
+		UI：User Interface，用户界面。UI是用户通过电子设备与内容交互的区域，良好的UI应该是流畅易懂。
+
+		UX：User Experience，用户体验。UX是指用户如何与网站或应用（他们点击的位置，他们访问的网页）进行互
+		动。 通过测试页面布局，CTA，颜色，内容等方面的差异来改善转化率的方法来提升UX。
+
+		CDP：Customer Data Platform，客户数据平台
+
+		DMP：DMP(Data Management Platform)数据管理平台，属于一个中央的数据管理平台，可以收集、管理、分
+		析线上和线下用户数据，还可以与DSP（广告需求方）、ADX（广告交易平台）等平台进行数据对接，让广告主
+		可以使用用户数据，来使广告计划、定向等一系列广告投放活动决策。
+
+		CRM系统：Customer Relationship Management, 客户关系管理系统
+
+		SCRM：Social Customer Relationship Management，是一种基于社交媒体的客户关系管理系统
+
+		CAC：Customer Acquisition Cost,即客户获取成本。
+
+		CLV：Customer Lifetime Value(客户生命周期价值)，是一个在市场营销和客户关系管理中广泛应用的概念，
+		它指的是一个用户在整个关系期间为企业带来的总收益或利润。
+
+	03 增长模型
+
+		AARRR：AARRR又叫做海盗模型，是用户获取（Acquisition）、用户激活（Activation）、用户留存（Retention）、获
+		得收益（Revenue）、推荐传播（Referral），这个五个单词的缩写，分别对应用户生命周期中的5个重要环节。该
+		模型广泛的应用于互联网产品中，每个环节都会有对应的指标，是toC产品评估、优化产品的重要模型。
+
+		AIPL：AIPL的意思分别是认知(Awareness)、兴趣(Interest)、购买(Purchase)和忠诚(Loyalty)，对电商平台的店
+		家而言，就是用户从看到你→点你→产生兴趣→购买的过程。
+
+		DEEPLINK：是阿里巴巴为了在AIPL方法论的基础上，为客群的营销价值提升所提出的新评估体系。相对AI人
+		群的前链路，PL人群属于后链路、私域运营部分，即对应LINK（全域、首购、复购、至爱）。DEEPLINK模型的八
+		个英文字母分别对应：D-iscover发现（建立初步认知）、E-ngage种草（初步兴趣/诉求）、E-nthuse互动（产生兴
+		趣和互动）、P-erform行动（加入会员体系/售前阶段）、Universa-L全域（全域消费人群数）、I-nitial首购（产生
+		过首次转化行为）、K-een至爱（产生多次转化行为）。
+
+		O-5A：巨量提出的O-5A模型，是一套以科特勒营销的5A模型为基础，将用户分为O(机会人群)和A1(感知)、A2
+		(吸引)、A3(问询)、A4(购买)、A5(拥护)五个层级。O-5A模型在“人群拉新、人群蓄水、持续种草、拔草转化、直接
+		转化、粉丝转化”六大链路做为品牌提效增量的抓手。
+
+
+		RARRA：RARRA模型是托马斯·佩蒂特Thomas Petit和贾博·帕普Gabor Papp对于海盗指标-AARRR模型的优
+		化，RARRA即用户留存、用户活跃、用户推荐、获取收益、用户获取，因为RARRA模型更贴合现在用户转化的实
+		际的环境，RARRA模型把用户留存放到了第一位，作为用户增长的核心，更适合现在互联网流量红利消退、存
+		量用户为主的特征

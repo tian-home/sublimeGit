@@ -1,8 +1,27 @@
 toDo
+	git push -u origin main
 
 	tusimple
 	
 	TeamViwer
+
+	Excel
+		ctrl+G, ctrl+E, ctrl+T(表工具,插入切片)
+		ctrl+q(快速分析>数据条等)
+		ctrl+R(向右侧填充)
+		ctrl+;(单元格格式切换为日期)
+
+
+		ctrl+shift+1(去除小数点)
+		ctrl+shift+5(转换为百分比)
+
+		快捷键
+			alt 加 =  求和
+
+
+		R
+
+
 
 	外包结算
 
@@ -15,14 +34,6 @@ toDo
 		3）每月的25日去共享文件夹确认发票是否收到，如果没有再次催一下外包，务必让他们月底前开票过来。我们需要入账。
 		共享文件夹地址：20_sales　→　03_ベンダー　→　★项目外注成本管理
 
-
-	Meiji SAVAS
-		8/23 画面送付
-		8/25 画面確定
-		8/25-28 回収開始
-		9/11 データ納品
-		9/14 クロス集計
-		9/22 簡易サマリー納品		
 
 	Meiji Milk
 		milk
